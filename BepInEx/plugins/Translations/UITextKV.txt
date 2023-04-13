@@ -70,7 +70,7 @@ cd:20秒¤Cooldown: 20 seconds
 灵潮复苏已经结束，并开始衰落，修仙变得更加困难，踏上修仙路之后，只能一往无前!\n一旦死亡，就万劫不复！¤The revival of the spiritual tide has already ended and started to decline, making it even more difficult to cultivate immortality. Once you embark on the path of cultivating immortals, there is no turning back!\nIf you die, you will be lost forever!
 ·灵气躁动，境界突破异常困难\n·天地雷劫毁天灭地，渡劫难度大幅\n    提升\n·炼器在熔炼材料时更加容易破碎\n·炼丹时需大幅调整丹方材料与温度\n·一旦死亡，无法重塑肉身，轮回\n·妖兽变得凶险狡诈，皮毛鳞甲更加 厚实，受到伤害减少；\n    爪牙更厉，受到伤害增加；\n    速度更快，攻击难以躲避！¤·The aura is restless, making it extremely difficult to break through the realm\n·Heaven and Earth's thunder calamities destroy everything, making it much more challenging to overcome these tribulations\n·Refining tools are more prone to breaking when smelting materials\n·When refining elixirs, significant adjustments to the recipe's ingredients and temperature are necessary\n·Once dead, the body cannot be reshaped, and reincarnation is impossible\n·Monsters become more dangerous and cunning; their fur, scales, and armor grow thicker, reducing the damage they receive;\n Their claws and teeth become stronger, increasing the damage they deal;\n Their speed increases, making their attacks harder to avoid!
 在困难模式下达到金丹境后解锁¤Unlocked after reaching Golden Core in Hard Mode
-确 定¤Confirm
+确 定¤Sure
 脸型¤Face shape
 基础脸型¤Basic face shape
 颜色¤Color
@@ -273,7 +273,7 @@ cd:20秒¤Cooldown: 20 seconds
 魂啸天¤Awaken the power of the blood
 道侣¤Every time 1% of blood power is awakened, 0.22% of the potential will be stimulated, and the basic attributes of the spirit beast will be improved accordingly.
 解除道侣¤Cancel
-兄弟姐妹¤Confirm
+兄弟姐妹¤Sure
 儿子¤Haven't held the materials required for bloodline promotion...
 孙女¤Release pets
 父亲¤Are you sure you want to release your soul pet?
@@ -293,7 +293,7 @@ cd:20秒¤Cooldown: 20 seconds
 互\n动¤kinship
 灵\n兽¤experience
 关\n系¤After canceling the Taoist relationship, the favorability degree -50, do you want to continue to cancel?
-烟水寒工作室 Course Version 1.0¤Yan Shuihan Studio Course Version 1.0 (ENG Mod enabled!)
+烟水寒工作室 Course Version 1.0¤Yan Shuihan Studio Course Version 1.0
 操作说明¤Instructions
 （Tab键开启/关闭）¤(Tab key on/off)
 自动战斗¤auto battle
@@ -356,7 +356,7 @@ NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
 法\n宝¤magic\ntreasure
 材\n料¤Material\nMaterial
 灵\n体¤Spirit\nbody
-确  定¤Confirm
+确  定¤Sure
 功\n法¤Kung\nmethod
 呼风真11¤Breathing True 11
 全\n部¤all\npart
