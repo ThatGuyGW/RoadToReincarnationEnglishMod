@@ -1,0 +1,886 @@
+吸血+1%¤Lifesteal +1%
+请为本命法宝选择一条附加词缀¤Please select an additional affix for your destiny talisman
+技能还在冷却中¤Skill on Cooldown
+技能还在冷却中技能还在冷却中技能还在冷却中技能还在冷却中¤Skill on Cooldown, Skill on Cooldown, Skill on Cooldown, Skill on Cooldown
+武器的名字¤Weapon Name
+售价：0贡献¤Sale Price: 0 Contribution
+祭 炼¤Sacrifice
+存档已更新¤Save Updated
+恭喜获得了奖励！¤Congratulations on receiving a reward!
+真灵名字¤Spirit Name
+真灵¤True Spirit
+武器武器武器武¤Weapon Weapon Weapon Weapon
+双击前往炼妖炉启真，铸灵，炼形，胎息¤Double-click to access the Demon Refining Furnace for Enlightenment, Spirit Casting, Body Refining, and Fetal Breathing
+图纸¤Blueprint
+封印：祭炼至天罡禁制6重后解除¤Sealed: Unlocked after sacrificing and refining to the 6th level of Tiangang Restriction
+封印：祭炼至天罡禁制12重后解除¤Sealed: Unlocked after sacrificing and refining to the 12th level of Tiangang Restriction
+封印：祭炼至天罡禁制18重后解除¤Sealed: Unlocked after sacrificing and refining to the 18th level of Tiangang Restriction
+封印：祭炼至天罡禁制24重后解除¤Sealed: Unlocked after sacrificing and refining to the 24th level of Tiangang Restriction
+封印：祭炼至天罡禁制30重后解除¤Sealed: Unlocked after sacrificing and refining to the 30th level of Tiangang Restriction
+封印：祭炼至天罡禁制36重后解除¤Sealed: Unlocked after sacrificing and refining to the 36th level of Tiangang Restriction
+双击前往炼器炉炼制¤Double-click to access the Refining Furnace
+祭炼¤Sacrifice
+传闻¤Rumor
+增加耐药度：¤Increase Drug Resistance:
+耐药度:0%¤Drug Resistance: 0%
+品质：¤Quality:
+使用等级：10级¤Required Level: Level 10
+神通¤Divine Abilities
+CD:20秒¤Cooldown: 20 seconds
+需要灵根：¤Required Spiritual Roots:
+需要境界：¤Required Realm:
+~双击打开弟子界面学习~¤Double-click to open the disciple interface to learn
+开始参悟¤Begin Enlightenment
+cd:20秒¤Cooldown: 20 seconds
+双击打开角色界面学习¤Double-click to open the character interface for learning
+使 用¤Use
+遗忘¤Forget
+修 炼¤Cultivate
+任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务任务¤task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task task role
+噬星草 x1¤Star Eater Grass x1
+  获得¤Pickup
+正在加载游戏资源……¤Loading game assets...
+开始游戏¤Start Game
+继续游戏¤Continue Game
+选择存档¤Select Save
+设 置¤Settings
+离 开¤Exit
+导入存档¤Import Save
+导出存档¤Export Save
+公告¤Announcement
+\n欢迎各位道友来到无尽轮回的修仙世界！\n\n目前游戏版本是抢先体验版，版本还有点不稳定，很多道友第一次玩这个游戏，可能会遇到一些问题，我们正在抓紧时间修复，拜托道友们给我们一点点时间！\n\n如果道友们遇到任何问题，可以加入我们的官方修仙交流群"174833518"私聊官方管理无羁，无心，无道反馈，我们会全力帮忙解决问题，再次拜谢！\n¤\nWelcome, fellow Taoists, to the endless cycle of cultivation in the world of immortals!\nThe current game version is in early access, which may be a bit unstable. Many players may encounter some issues while playing for the first time. We are working diligently to fix them and ask for your patience.\nIf you encounter any problems, please join our official Xiuxian exchange group "174833518" and privately chat with our official management team, who will do their best to assist you. Thank you once again! \n
+韩立老魔¤Han Li Laomo
+(元婴5重  18/200岁)¤(Yuanying 5 weight 18/200 years old)
+最后登录：2021/11/6 20:59:59¤Last login: 2021/11/6 20:59:59
+名字¤Name:
+新建存档¤New Save
+替换存档¤Replace Save
+新的故事¤New Story
+删除存档后无法恢复，是否继续？\n\n（请谨慎操作）¤The Save will be permanently deleted. Do you want to continue? \n\n (Please proceed with caution)
+确定¤Confirm
+取消¤Cancel
+即将覆盖存档，是否继续？¤The save will be overwritten, do you want to continue?
+覆盖¤Overwrite
+是否需要切换存档（切换存档不会主动保存当前存档）¤Do you need to switch saves? (Switching saves will not automatically save the current save)
+洪荒中的小世界灵潮开始复苏，灵气也比较稳定，适合初入道途的修仙者！\n\n轮回九世，可求长生！¤In the small world of the prehistoric era, the spiritual tide has started to recover, and the spiritual energy is relatively stable, making it suitable for those new to the path of cultivation!\n \n With nine cycles of reincarnation, you can pursue longevity!
+本难度下第一次创建存档可随机到金属性天灵根或者地灵根¤In this difficulty level, the first time you create a save file, you have a chance to randomly obtain either the metallic Sky Spirit Root or Earth Spirit Root.
+在普通模式下达到金丹境后解锁¤Unlocked after reaching Golden Core Realm in normal mode
+混沌灵潮复苏开始变缓，小世界中灵气稍微有些不稳，易走火入魔！\n\n轮回百世，可成仙道！¤As the revival of the chaotic spiritual tide starts to slow down, the spiritual energy in the small world becomes a bit unstable, making it easier to lose control and go mad!\n\n By undergoing reincarnation for a hundred lives, you can achieve the path of immortality!
+·灵气不稳，境界突破更加困难\n·天地雷劫更加狂暴，渡劫难度提升\n·炼器在熔炼材料时更容易破碎\n·炼丹需要更细腻的手法，去微调丹\n    方材料与温度\n·遭受重创时，需要重塑肉身\n    的时间更长了\n·妖兽更加狂躁了，躲避妖兽的攻击\n    变得困难起来¤· The spiritual energy is unstable, making it more difficult to break through realms\n· Heaven and earth thunder tribulations are more violent, increasing the difficulty of passing through tribulations\n· Refining tools are more prone to break when smelting materials\n· Alchemy requires more delicate techniques to fine-tune the pill's formula, materials, and temperature\n· When suffering heavy damage, it takes longer to reshape the body\n· Monsters become more agitated, making it harder to avoid their attacks\n
+灵潮复苏已经结束，并开始衰落，修仙变得更加困难，踏上修仙路之后，只能一往无前!\n一旦死亡，就万劫不复！¤The revival of the spiritual tide has already ended and started to decline, making it even more difficult to cultivate immortality. Once you embark on the path of cultivating immortals, there is no turning back!\nIf you die, you will be lost forever!
+·灵气躁动，境界突破异常困难\n·天地雷劫毁天灭地，渡劫难度大幅\n    提升\n·炼器在熔炼材料时更加容易破碎\n·炼丹时需大幅调整丹方材料与温度\n·一旦死亡，无法重塑肉身，轮回\n·妖兽变得凶险狡诈，皮毛鳞甲更加 厚实，受到伤害减少；\n    爪牙更厉，受到伤害增加；\n    速度更快，攻击难以躲避！¤·The aura is restless, making it extremely difficult to break through the realm\n·Heaven and Earth's thunder calamities destroy everything, making it much more challenging to overcome these tribulations\n·Refining tools are more prone to breaking when smelting materials\n·When refining elixirs, significant adjustments to the recipe's ingredients and temperature are necessary\n·Once dead, the body cannot be reshaped, and reincarnation is impossible\n·Monsters become more dangerous and cunning; their fur, scales, and armor grow thicker, reducing the damage they receive;\n Their claws and teeth become stronger, increasing the damage they deal;\n Their speed increases, making their attacks harder to avoid!
+在困难模式下达到金丹境后解锁¤Unlocked after reaching Golden Core in Hard Mode
+确 定¤Confirm
+脸型¤Face shape
+基础脸型¤Basic face shape
+颜色¤Color
+眼睛¤Eye
+虹膜颜色\n¤Iris Color\n
+瞳孔大小\n¤Pupil Size\n
+眼睛亮度¤Eye brightness
+比例¤Proportion
+额头¤Forehead
+胖¤Fat
+瘦¤Thin
+请输入名字¤Please enter a name
+姓名：¤Name:
+性格：¤Character:
+灵根：\n¤Spirit root:\n
+资质：¤Qualification:
+道体：¤Dao body:
+法术防御：¤Magic defense:
+物理防御：¤Physical Defense:
+法术攻击：¤Magic attack:
+物理攻击：¤Physical attack:
+气    血：¤Qi and blood:
+返回¤Return
+下一步¤Next step
+保存¤Save
+肤色¤Skin color
+服装¤Clothing
+脸妆¤Face makeup
+嘴巴¤Mouth
+鼻子¤Nose
+眉毛¤Eyebrow
+发型¤Hairstyle
+(第一世)¤(First world)
+你你你你你你你你你你你你你你你你你你你你1111¤you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you 1111
+开始仙途¤start fairy road
+每点灵根可以提升对应系功法伤害0.5%！¤Each point of spiritual root can increase the damage of corresponding system skills by 0.5%!
+第一世¤first world
+正在加载NPC……¤Loading NPCs...
+“废物是没有资格修仙的！..."¤Waste is not qualified to cultivate immortality!...
+正在权衡利弊...¤Weighing the pros and cons...
+月青树¤Moongreen
+(16/100岁）¤(16/100 years old)
+练气一重天¤Qi training first level
+防卡死¤Stuck?
+在没有禁制的小世界中，练气3重的修士便可以御剑飞行了！\n按F键，可以开启/关闭御剑状态。¤In a small world with no restrictions, monks with the third level of Qi training can fly with the sword! \nPress the F key to turn on/off the Yujian status.
+释放神识可以将附近的怪物快速拉入战斗结界中！\n持续按住Q键可以释放神识。¤The release of consciousness can quickly pull nearby monsters into the battle barrier! \nPress and hold the Q key to release the consciousness.
+打坐调息可以恢复气血值！打坐时，切不可被强行中断，\n极易走火入魔！\n按V键，接入打坐状态！¤Meditation and breathing adjustment can restore Qi and blood value! When meditating, you must not be forcibly interrupted, \n it is very easy to go crazy! \nPress the V key to enter the meditation state!
+在没有禁制的小世界中，可以御剑飞行！\n按F键，可以开启/关闭御剑状态。¤In a small world without restrictions, you can fly with a sword! \nPress the F key to turn on/off the Yujian status.
+当前境界积累修为达到上限后，便可以进行境界突破。在大境界突破时，还需要进行渡劫！\n按T键，可以进入突破/渡劫！¤After the current realm accumulation reaches the upper limit, you can make a realm breakthrough. When breaking through the big realm, you still need to cross the tribulation! \nPress the T key to enter breakthrough/transcendence!
+清理内存¤clear memory
+↑ 点击小世界可以进行快速传送! ↑¤↑ Click on the small world for fast teleportation! ↑
+（←--在混沌虚空地图中，可以快捷传送至探索过的小世界！←--）¤(←--In the Chaos Void map, you can quickly teleport to the explored small world! ←--)
+混沌虚空¤Chaos Void
+四方案¤Four programs
+四方案已御剑术天下无敌，巴拉巴拉巴拉巴拉¤The four schemes are invincible in swordsmanship, blah blah blah blah
+传 送¤travel
+需要消耗：30日¤Need to consume: 30 days
+查看小世界地图¤View Small World Map
+查看混沌虚空地图¤View the Chaos Void Map
+<color=#62EF64>16</color>/55岁¤<color=#62EF64>16</color>/55 years old
+与xxx¤with xxx
+任务11任务11任务¤Mission 11 Mission 11 Mission
+破灭元年3月12日¤March 12th of the first year of disillusionment
+将在1年12月21天后重生¤Will respawn after 12/21/1
+世界演变中……¤The world is changing...
+聚仙16年1月1日¤Juxian 1.1.16
+聚仙16年1月2日¤Juxian 1.2.16
+我知道了¤\nWelcome all fellow Taoists to the world of cultivating immortals of endless reincarnation! \n\nThe current version of the game is an early access version, and the version is still a bit unstable. Many Taoists may encounter some problems when playing this game for the first time. We are hurrying to fix it. Please give us a little time ! \n\nIf fellow daoists encounter any problems, you can join our official Xiuxian exchange group "174833518" and privately chat with the official management. We will try our best to help solve the problem, thank you again! \n
+闭关百年¤The archive cannot be restored after deletion. Do you want to continue? \n\n (Please proceed with caution)
+轮回重生¤Weighing the pros and cons...
+境界：练气一重  气血恢复：33天  修为增长：1/天¤In a small world with no restrictions, monks with the third level of Qi training can fly with the sword! \nPress the F key to turn on/off the Yujian status.
+调息¤The release of consciousness can quickly pull nearby monsters into the battle barrier! \nPress and hold the Q key to release the consciousness.
+离开¤Meditation and breathing adjustment can restore Qi and blood value! When meditating, you must not be forcibly interrupted, \n it is very easy to go crazy! \nPress the V key to enter the meditation state!
+·打坐可以快速恢复气血，需要消耗一定时间！·¤In a small world without restrictions, you can fly with a sword! \nPress the F key to turn on/off the Yujian status.
+我的任务¤After the current realm accumulation reaches the upper limit, you can make a realm breakthrough. When breaking through the big realm, you still need to cross the tribulation! \nPress the T key to enter breakthrough/transcendence!
+风气云涌¤I see
+告别¤Retreat for a hundred years
+村子东边的山中,最近失踪好几个人了,附近的村民意乱纷纷,似乎有怪兽出没,前注探查乎有怪兽出没,前注探查乎有怪兽出没,前注探查乎有怪兽出没,前注探查¤reincarnation
+剩余时间：33天¤Realm: 1st level of Qi training Qi and blood recovery: 33 days Cultivation growth: 1/day
+打峰哥代购代购¤Pranayama
+奖励¤leave
+呼风真灵¤·Meditation can quickly restore Qi and blood, and it takes a certain amount of time! ·
+追踪¤my task
+领取奖励¤Stormy
+111111米¤bid farewell
+空间储物袋¤In the mountains to the east of the village, several people have disappeared recently, and the nearby villagers are in a state of turmoil. It seems that there are monsters infested.
+全\n部¤Time remaining: 33 days
+法\n宝¤Dafeng brother purchasing agent
+丹\n药¤award
+灵\n体¤Breath of the Wind
+功\n法¤track
+炉\n具¤Receive award
+材\n料¤111111 meters
+呼风真11¤space storage bag
+背包容量:¤all\npart
+论 道¤magic\ntreasure
+赠 予¤Elixir\nmedicine
+双 修¤Spirit\nbody
+切 磋¤Kung\nmethod
+组 队¤Furnace\ntool
+结为道侣¤Material\nMaterial
+交 易¤Breathing True 11
+索 取¤Backpack capacity:
+窃 取¤On the Road
+攻 击¤gift
+蛮荒（第一世）¤double repair
+天门宗（外门弟子）¤learn from each other
+正在XXX¤team up
+突破加成¤Become a Taoist
+境 界¤trade
+寿 元¤Age
+是初心啊¤steal
+道 心¤attack
+灵 根¤Root(first world)
+体质（4，68）¤Tianmenzong (outer disciple)
+根骨（1.23）¤Is XXX
+悟性（1034）¤breakthrough bonus
+资 质¤realm
+贪狼啊啊¤Shou Yuan
+命 格¤It's the original intention
+命数：¤Dao Xin
+ 属性加成  ¤Lingen
+攻击速度¤Constitution (4, 68)
+详细信息¤Root bone (1.23)
+已习得神通¤Perception (1034)
+全部功法¤qualification
+身法¤Greedy wolf
+心法¤fate
+  使用中功法¤Fate:
+可添加¤ attribute bonus  
+灵技：¤attack speed
+身法：¤details
+心法：¤Has learned supernatural powers
+全 部¤All exercises
+一 品¤agility
+二 品¤heart method
+三 品¤  Use the middle method
+四 品¤can be added
+五 品¤Skills:
+六 品¤Movement:
+七 品¤Mind method:
+八 品¤all
+丹方¤Yipin
+一品丹药¤second product
+大乘期以后的修士服用后可增加修为¤Sanpin
+主药:未知¤Sipin
+炉火温度:未知¤Five products
+成丹数量:未知¤Six products
+炼制时间:未知¤Qipin
+耐药度:未知¤Bapin
+炼制成功率:未知¤Danfang
+轮回薄¤Yipin elixir
+下一世¤After the Mahayana period, monks can increase their cultivation after taking it
+上一世¤Main drug: unknown
+第1世轮回¤Oven temperature: unknown
+破灭元年春¤The number of Cheng Dan: unknown
+共16世轮回¤Refining time: unknown
+名字五个啊(敌人)¤Drug resistance: unknown
+互动关系¤Refining success rate: unknown
+友好¤reincarnation thin
+仇恨¤next life
+孵化¤last life
+出战中¤1st reincarnation
+练气境解锁¤Spring of the first year of disillusionment
+金丹境解锁¤A total of 16 reincarnations
+化神境解锁¤name five ah (enemy)
+出战中：0/1¤interaction
+出  战¤friendly
+吞 噬¤hate
+进 化¤incubation
+生 机¤playing
+放 生¤Qi training environment unlocked
+血 脉¤Jindan Realm Unlocked
+真龙本源¤God Realm Unlocked
+觉 醒¤Playing: 0/1
+体质(12.2)¤play
+根骨(12.2)¤devour
+悟性(12.22)¤evolution
+培 育¤vitality
+天 赋¤release
+妖 术¤the blood
+学 习¤True Dragon Origin
+隐月狼灵资质¤wake up
+常见：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Constitution (12.2)
+罕有：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Root bone (12.2)
+珍奇：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Perception (12.22)
+复  苏¤cultivate
+契  约¤talent
+虫虫(噬金虫)¤witchcraft
+跟 随¤study
+已跟随¤Hidden Moon Wolf Spirit Qualification
+觉醒血脉之力¤Common: constitution 4.2~4.98 root bone 4.2~4.98 perception 4.2~4.98
+血脉之力每觉醒1%，将激发0.22%的潜能，灵兽的基础属性将获得相应的提升。¤Rare: Constitution 4.2~4.98 Root Bone 4.2~4.98 Comprehension 4.2~4.98
+取  消¤Rare: Physique 4.2~4.98 Root Bone 4.2~4.98 Comprehension 4.2~4.98
+确  定¤recovery
+还未持有血脉晋升所需材料...¤contract
+放生灵宠¤Bugs (gold-eating bugs)
+确定放生灵宠？¤follow
+混天啸¤followed
+魂啸天¤Awaken the power of the blood
+道侣¤Every time 1% of blood power is awakened, 0.22% of the potential will be stimulated, and the basic attributes of the spirit beast will be improved accordingly.
+解除道侣¤Cancel
+兄弟姐妹¤Confirm
+儿子¤Haven't held the materials required for bloodline promotion...
+孙女¤Release pets
+父亲¤Are you sure you want to release your soul pet?
+母亲¤Hun Tianxiao
+爷爷¤Hun Xiaotian
+奶奶¤Taoist
+老祖¤Disarm companion
+<color=#FFFFFF00>缩进</color>6年3月23日，在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。¤brothers and sisters
+亲族关系¤son
+经历¤granddaughter
+解除道侣关系后，好感度-50，是否继续解除？¤Father
+魔(33)¤Mother
+正(33)¤grandfather
+属\n性¤grandmother
+丹\n方¤ancestor
+经\n历¤<color=#FFFFFF00>Indent</color> On March 23, 6, he completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City.
+互\n动¤kinship
+灵\n兽¤experience
+关\n系¤After canceling the Taoist relationship, the favorability degree -50, do you want to continue to cancel?
+烟水寒工作室 Course Version 1.0¤Yan Shuihan Studio Course Version 1.0 (ENG Mod enabled!)
+操作说明¤Instructions
+（Tab键开启/关闭）¤(Tab key on/off)
+自动战斗¤auto battle
+道具id,数量¤item id, quantity
+需要：化神境界\n¤Requires: Transformation Realm\n
+呼风真灵¤Breath of the Wind
+修为：65295\n¤Repair: 65295\n
+六耳¤Six ears
+练气1层¤Qi training layer 1
+武器\n¤weapon\n
+灵宝\n¤Lingbao\n
+回到宗门¤Back to Zongmen
+继续冒险¤go on adventure
+基础属性¤basic attributes
+屠龙刀¤dragon knife
+物理攻击             4328   ¤Physical attack 4328   
+(装备中)¤(equipping)
+附加属性¤Additional attributes
+发送道具¤send props
+道友，小心了小心了小心了小心了！¤Fellow Daoist, be careful, be careful, be careful!
+下雨了？¤It's raining?
+交出绿瓶，留得青山在¤Hand over the green bottle, leaving the green hills
+好像...失败了？¤It seems...failed?
+小友我看你天资不凡，不知何故竟被魔道修士追杀，不如入我宗门修炼，不知你意下如何？¤Little friend, I think you are very talented, but for some reason you were chased and killed by a monk of the demonic way. Why don't you come to my sect to practice? I don't know what you think?
+是妖王在渡劫！¤It is the demon king who is crossing the catastrophe!
+那小子，你刚才捡起的宝物是我们圣门的传承至宝，交出可以饶你不死！¤That kid, the treasure you picked up just now is the treasure inherited from our Holy Sect, if you hand it over, you will be spared!
+邪魔外道，连凡人都不放过吗，看剑！¤Demons heretics, even mortals will not let go, look at the sword!
+那是......\n¤That's...\n
+可恶，坏我好事，将来定叫你好看！¤Damn it, spoil my good deeds, and I will make you look good in the future!
+小子，教你一次，不要轻易相信别人的话，沾了因果还想活命？给我去死！¤Kid, let me teach you once, don't easily believe what other people say, do you still want to live if you are involved in karma? Fuck me!
+有宝物！¤There are treasures!
+删除这个id¤delete this id
+保存数据¤save data
+NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
+我知道了¤I see
+数量¤quantity
+根据国家防沉迷通知的相关要求和腾讯最新强化的防沉迷策略，由于您是未成年人，仅能在周五、周六、周日及法定节假日20时至21时进入游戏。¤According to the relevant requirements of the national anti-addiction notice and Tencent's latest enhanced anti-addiction strategy, since you are a minor, you can only enter the game from 20:00 to 21:00 on Fridays, Saturdays, Sundays and legal holidays.
+确认¤confirm
+游戏温馨提示¤Game Tips
+报名成功¤Sign up successfully
+道友，小心了！¤Fellow Daoist, be careful!
+点击空白区域继续！¤Click on the blank area to continue!
+什么都没发现！¤Nothing was found!
+需要时间：1天¤Time required: 1 day
+突破成功率：80%¤Breakthrough success rate: 80%
+练气破镜¤Practicing Qi Broken Mirror
+练气一重(中期)¤First level of Qi training (mid-term)
+突  破¤breakthrough
+服用固元丹¤Take Guyuan Dan
+若突破失败，将导致元神受损，气血，经验与寿元上限均会出现一定程度的下降！服用破镜丹药可以提升成功率！¤If the breakthrough fails, the primordial spirit will be damaged, and the qi, blood, experience, and lifespan upper limit will all decline to a certain extent! Taking the Broken Mirror Elixir can increase the success rate!
+耐药度：50%¤Drug resistance: 50%
+选择丹药¤Choose Elixir
+(药性：95%)¤(medicinal property: 95%)
+·点击任意键退出·¤·Click any key to exit·
+境界：¤realm:
+·已修炼至练气巅峰瓶颈，未突破瓶颈前，修为不再增长！·¤·Cultivated to the peak of the bottleneck of Qi training, before breaking through the bottleneck, the cultivation base will no longer increase! ·
+丹\n药¤Elixir\nmedicine
+炉\n具¤Furnace\ntool
+你的前世¤your previous life
+法\n宝¤magic\ntreasure
+材\n料¤Material\nMaterial
+灵\n体¤Spirit\nbody
+确  定¤Confirm
+功\n法¤Kung\nmethod
+呼风真11¤Breathing True 11
+全\n部¤all\npart
+向你发起了挑战！¤I challenge you!
+啊啊(小啊是)1111111¤Ah ah (small ah yes) 1111111
+哈哈哈¤Hahaha
+剩余次数：3¤Remaining times: 3
+重铸经脉¤Recast meridians
+经脉贯通：裂天斩上海+200%¤Meridian penetration: Heaven Splitting Slash Shanghai +200%
+玄元易经散犹如受到了巨大的引力一般，疯狂的涌入窍穴.....\n无比剧烈的疼痛如凌迟处死一般.....¤Xuan Yuan Yi Jing San seems to be subjected to a huge gravitational force, and it rushes into the acupuncture point crazily...\nThe incomparably severe pain is like being executed by Ling Chi...
+窍穴激发潜能¤Acupoints stimulate potential
+渡劫成功时，可以获得一次额外重铸机会！¤When you successfully cross the tribulation, you can get an extra chance to recast!
+水脉-9¤Water vein-9
+点击任意地方继续¤click anywhere to continue
+剑气伤害+3%剑气伤害+3%剑气伤害+3%剑气伤害+3%¤Sword Qi Damage+3%Sword Qi Damage+3%Sword Qi Damage+3%Sword Qi Damage+3%
+总共激活窍穴:¤Total activated acupuncture points:
+需要水灵根29以上¤Requires water root 29 or more
+经脉重铸¤Meridian Recasting
+随着XX的禁制不断解除，¤With the continuous lifting of the ban on XX,
+随着XX的禁制不断解除，天罡禁制6重的封印已经解除，获得了新的能力！¤With the continuous lifting of the ban on XX, the 6-fold seal of Tiangang's ban has been lifted, and new abilities have been obtained!
+滚动鼠标滚轮可以快速切换属性¤Rolling the mouse wheel can quickly switch properties
+兑换成功¤successful exchange
+融天山废墟一¤Ruins of Rongtian Mountain 1
+人鱼之泪¤Mermaid Tears
+炼制本命法宝¤refining talisman
+炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%\n炼制一阶法器，法宝破碎率降低20%¤Refining a first-tier magic weapon, the rate of breaking magic weapons is reduced by 20%\n Refining a first-tier magic weapon, reducing the magic weapon breaking rate by 20%\n Refining a first-tier magic weapon, reducing the magic weapon breaking rate by 20%\n Refining a first-tier magic weapon The broken rate of magic weapon is reduced by 20%\nRefining the first-level magic weapon, the magic weapon's broken rate is reduced by 20%\n Refining the first-level magic weapon, the magic weapon's broken rate is reduced by 20%\n Refining the first-level magic weapon, the magic weapon's broken rate is reduced Reduced by 20%\nRefining the first-order magic weapon, the magic weapon's broken rate is reduced by 20%
+投入主材影响出品法宝部位¤Investing in main materials affects the magic part of the product
+主材¤Main material
+只有少量稀有材料方可炼制法宝！\n炼制攻击类本命法宝材料：¤Only a small amount of rare materials can be used to refine magic weapons! \nMaterials for refining attack-type natal magic weapons:
+辅助类¤Auxiliary class
+二 阶¤second order
+攻击类¤Attack
+开始炼制¤start refining
+防御类¤Defense
+八 阶¤eighth order
+一 阶¤level one
+选择材料¤select material
+炼制法宝¤Refining magic weapon
+七 阶¤seventh order
+六 阶¤Sixth order
+全 部¤all
+四 阶¤fourth order
+取  消¤Cancel
+炼制攻击类剑系本命法宝，需要添加1阶金属性辅材¤Refining an attacking sword is a natal magic weapon, and it needs to add a first-level metallic auxiliary material
+当前材料将炼制8阶灵宝，基础成功率100%¤The current materials will be used to refine an 8th-order spirit treasure, with a basic success rate of 100%
+三 阶¤third order
+护腕¤wristband
+五 阶¤fifth order
+赐名¤named
+本命法宝已炼成，请为法宝赐名！¤The natal magic weapon has been refined, please give the magic weapon a name!
+结束炼器¤end refiner
+淬炼成功可以提升法宝品质，本次淬炼有10%几率使法宝破裂！¤Successful tempering can improve the quality of the magic weapon. There is a 10% chance of breaking the magic weapon this time!
+丹药药性剩余时间：30.88秒¤Remaining time of elixir properties: 30.88 seconds
+点击祭出该法宝可抵挡3213点天劫伤害，祭出后，法宝将损坏！¤Click to sacrifice the magic weapon to resist 3213 points of disaster damage. After sacrifice, the magic weapon will be damaged!
+<color=#7BD272>祭出法宝</color>可以抵御雷劫伤害，<color=#7BD272>服用渡劫丹药</color>可以减免雷劫伤害。¤<color=#7BD272>Sacrificing a magic weapon</color> can resist the damage of the thunder calamity, and <color=#7BD272>taking the pill of crossing the calamity</color> can reduce the damage of the thunder calamity.
+紫越青云剑¤Ziyue Qingyun Sword
+抗住剩余9道雷劫后，即可完成渡劫\n1231321231212¤After resisting the remaining 9 thunder tribulations, you can complete the tribulation crossing\n1231321231212
+·可以服用筑基丹,在短时间内极大程度降低混沌仙雷伤害值。  ¤·You can take Zhuji Pill, which can greatly reduce the damage value of Chaos Thunder in a short time.  
+开始渡劫¤Start crossing the catastrophe
+·会随机遭遇<color=#00E7FF>五行天雷</color>,<color=#A4008E>紫霄神雷</color>和<color=#FFA400>混沌仙雷</color>的攻击,只有极少数准备充分者有幸熬过雷劫,失败者在幸运的是受了重伤,不幸之人就地兵解.......\n·可以祭出随身携带法宝,吸收紫霄神雷与混沌仙雷的伤害,法宝越好,吸收伤害越高,¤·It will randomly encounter attacks from <color=#00E7FF>Five Elements Heavenly Thunder</color>, <color=#A4008E>Zixiao Shenlei</color> and <color=#FFA400>Chaos Fairy Thunder</color>, only A very small number of well-prepared people are lucky enough to survive the thunder calamity, the losers are lucky to be seriously injured, and the unlucky ones are dismissed on the spot...\n·You can sacrifice the magic weapon that you carry with you to absorb the thunder of the purple sky Compared with the damage of Chaos Thunder, the better the magic weapon, the higher the damage absorbed.
+渡  劫¤Overcoming robbery
+你已达到练气巅峰境界,完成渡劫后方可继续仙途,贸然渡劫者,十死一生,在渡劫的过程中:¤You have reached the peak of Qi training, and you can continue on the journey of immortality after completing the tribulation. Those who cross the calamity rashly will die ten times for a lifetime. In the process of crossing the tribulation:
+主药:未知¤Main drug: unknown
+耐药度:未知¤Drug resistance: unknown
+药引:未知¤Drug Citation: Unknown
+辅药:未知¤Excipients: unknown
+炼制时间:未知¤Refining time: unknown
+主药数量:未知¤Quantity of main drug: unknown
+参悟¤comprehend
+成丹数量:未知¤The number of Cheng Dan: unknown
+一品丹药¤Yipin elixir
+炉火温度:未知¤Oven temperature: unknown
+需要参悟：33天¤Need to understand: 33 days
+大乘期以后的修士服用后可增加修为¤After the Mahayana period, monks can increase their cultivation after taking it
+使用数量¤usage amount
+使用丹药¤Use Elixir
+闭关百年¤Retreat for a hundred years
+轮回重生¤reincarnation
+离开¤leave
+调息¤Pranayama
+·打坐可以快速恢复气血，需要消耗一定时间！·¤·Meditation can quickly restore Qi and blood, and it takes a certain amount of time! ·
+境界：练气一重  气血恢复：33天  修为增长：1/天¤Realm: 1st level of Qi training Qi and blood recovery: 33 days Cultivation growth: 1/day
+换一批¤Change batch
+选择命格继承至下一世：¤Choose fate to inherit to the next life:
+前世最高境界为渡劫期，剩余天命点：9¤The highest state in the previous life was the Transcending Tribulation Period, and the remaining destiny points: 9
+确   认¤confirm
+继续更换命格，需要消耗1点天命点，是否继续？¤Continuing to change fate, need to consume 1 point of fate point, do you want to continue?
+杨叔向¤Yang Shuxiang
+嘿，小子！¤Hey boy!
+寿元已尽¤Life is over
+前往轮回前，可以选择1个命格带入下一世继承！¤Before going to reincarnation, you can choose a fate to bring into the next life to inherit!
+前往轮回¤go to reincarnation
+小松子¤Small pine nuts
+\n地方上工地施工费个地方上工地施工费个地方上工地施工费个地方上工地施工费个地方上工地施工费个地方上工地施工费个¤\nConstruction fee for construction site for construction site for construction site for construction site for construction site for construction site for construction site for construction site for construction site for construction site for construction site for construction site
+仙途回顾（第一世）¤Fairy Road Review (First Life)
+（在第3,6,15轮回时，分别可以选择1,2,3条轮回命数带入下一世）¤(At the 3rd, 6th, and 15th reincarnation, you can choose 1, 2, and 3 reincarnation fates to bring into the next life)
+轮回命数¤Reincarnation
+重启仙途¤Restart Fairyland
+总有一些东西还放不下，下辈子继续呗!¤There are always some things that can’t be let go, let’s continue in the next life!
+先天残疾¤congenital disability
+魂啸天¤Hun Xiaotian
+出战中：0/1¤Playing: 0/1
+友好¤friendly
+兄弟姐妹¤brothers and sisters
+罕有：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Rare: Constitution 4.2~4.98 Root Bone 4.2~4.98 Comprehension 4.2~4.98
+丹方¤Dan Fang
+可添加¤can be added
+亲族关系¤kinship
+爷爷¤grandfather
+突破加成¤breakthrough bonus
+命 格¤fate
+全部功法¤All exercises
+经\n历¤Experience\nCalendar
+觉 醒¤wake up
+解除道侣¤Disarm companion
+确定放生灵宠？¤Are you sure you want to release your soul pet?
+天 赋¤talent
+老祖¤ancestor
+互动关系¤interaction
+五 品¤Five products
+放 生¤release
+根骨(12.2)¤Root bone (12.2)
+仇恨¤hate
+炼制成功率:未知¤Refining success rate: unknown
+ 属性加成  ¤ attribute bonus  
+身法：¤Movement:
+道 心¤Dao Xin
+关\n系¤Relationship\nDepartment
+父亲¤Father
+妖 术¤witchcraft
+贪狼啊啊¤Greedy wolf
+珍奇：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Rare: Physique 4.2~4.98 Root Bone 4.2~4.98 Comprehension 4.2~4.98
+已跟随¤followed
+一 品¤Yipin
+二 品¤second product
+身法¤agility
+出战中¤playing
+悟性(12.22)¤Perception (12.22)
+四 品¤Sipin
+跟 随¤follow
+奶奶¤grandmother
+心法¤heart method
+八 品¤Bapin
+放生灵宠¤Release pets
+攻击速度¤attack speed
+吞 噬¤devour
+心法：¤Mind method:
+道侣¤Taoist
+上一世¤last life
+<color=#FFFFFF00>缩进</color>6年3月23日，在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。¤<color=#FFFFFF00>Indent</color> On March 23, 6, he completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City.
+还未持有血脉晋升所需材料...¤Haven't held the materials required for bloodline promotion...
+是初心啊¤It's the original intention
+  使用中功法¤  Use the middle method
+经历¤experience
+互\n动¤interactive\n
+隐月狼灵资质¤Hidden Moon Wolf Spirit Qualification
+化神境解锁¤God Realm Unlocked
+练气境解锁¤Qi training environment unlocked
+培 育¤cultivate
+灵技：¤Skills:
+生 机¤vitality
+真龙本源¤True Dragon Origin
+第1世轮回¤1st reincarnation
+常见：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Common: constitution 4.2~4.98 root bone 4.2~4.98 perception 4.2~4.98
+孵化¤incubation
+共16世轮回¤A total of 16 reincarnations
+血 脉¤the blood
+丹\n方¤Dan\nside
+孙女¤granddaughter
+儿子¤son
+轮回薄¤reincarnation thin
+契  约¤contract
+六 品¤Six products
+虫虫(噬金虫)¤Bugs (gold-eating bugs)
+命数：¤Fate:
+悟性（1034）¤Perception (1034)
+灵\n兽¤spirit\nbeast
+体质（4，68）¤Constitution (4, 68)
+名字五个啊(敌人)¤name five ah (enemy)
+详细信息¤details
+混天啸¤Hun Tianxiao
+血脉之力每觉醒1%，将激发0.22%的潜能，灵兽的基础属性将获得相应的提升。¤Every time 1% of blood power is awakened, 0.22% of the potential will be stimulated, and the basic attributes of the spirit beast will be improved accordingly.
+属\n性¤property\nproperty
+出  战¤play
+觉醒血脉之力¤Awaken the power of the blood
+已习得神通¤Has learned supernatural powers
+灵 根¤Lingen
+三 品¤Sanpin
+境 界¤realm
+天门宗（外门弟子）¤Tianmenzong (outer disciple)
+正(33)¤Positive(33)
+正在XXX¤Is XXX
+母亲¤Mother
+资 质¤qualification
+解除道侣关系后，好感度-50，是否继续解除？¤After canceling the Taoist relationship, the favorability degree -50, do you want to continue to cancel?
+下一世¤next life
+进 化¤evolution
+体质(12.2)¤Constitution (12.2)
+复  苏¤recovery
+七 品¤Qipin
+蛮荒（第一世）¤Savage (first world)
+金丹境解锁¤Jindan Realm Unlocked
+寿 元¤Shou Yuan
+破灭元年春¤Spring of the first year of disillusionment
+根骨（1.23）¤Root bone (1.23)
+魔(33)¤Magic (33)
+学 习¤study
+卸 下¤remove
+法宝更换¤Magic weapon replacement
+更  换¤replace
+装 备¤equipment
+装备法宝¤Equipment magic weapon
+反    伤：¤Anti-injury:
+生命恢复：¤Life Restoration:
+命    中：¤Hit:
+点击任意按钮继续¤Click any button to continue
+爆伤加成：¤Explosive Damage Bonus:
+伤害减免：¤Damage Reduction:
+高级属性¤advanced properties
+暴    击： ¤Crit:
+法术防御：¤Magic Defense:
+普攻吸    血：¤Basic attack lifesteal:
+闪    避：¤dodge:
+攻    速：¤Attack speed:
+伤害加成：¤Damage Bonus:
+头部大小\n¤Head Size\n
+整体¤overall
+面容¤face
+身体¤Body
+上身比例¤upper body proportion
+胸部大小¤chest size
+腰身比例¤waist ratio
+上肢比例¤upper body ratio
+下肢比例¤lower body ratio
+左键¤left button
+属性：¤Attributes:
+请在炼器炉中加入图纸！¤Please add blueprints to the refining furnace!
+至宝¤Arcana
+点击加入图纸¤Click to join drawing
+附加属性：¤Additional attributes:
+基础属性：¤Basic attributes:
+~封印~ （祭炼至天罡禁制6重后解除）¤~Seal~ (sacrificed until Tiangang prohibition level 6 and then released)
+加入炼器材料¤Add refining material
+炼制¤Refining
+加入五行灵石¤Join Five Elements Lingshi
+XXX炼器师一阶¤XXX Refiner Level 1
+赠与¤donate
+赠予数量¤Gift amount
+赠与法宝¤gift magic weapon
+六品¤Six products
+悟性(10.34)¤Perception (10.34)
+七品¤Qipin
+四品¤Sipin
+提升凝丹成功率：¤Improve the success rate of condensing pills:
+灵根培养：¤Root cultivation:
+根骨(1.23)¤Root bone (1.23)
+凝结金丹¤Congealed Golden Elixir
+九品¤Jiupin
+资质培养：¤Qualification training:
+一品¤Yipin
+二品¤second product
+体质(4.68)¤Physical fitness (4.68)
+五品¤Five products
+当前资质将凝结成四品金丹，成功率100%，凝丹需要168天。\n凝丹成功后，将额外获得4条境界突破能力！¤The current qualification will be condensed into a fourth-rank golden pill, with a success rate of 100%, and it takes 168 days to condense the pill. \nAfter successfully condensing the pill, you will get 4 additional realm breakthrough abilities!
+三品¤Sanpin
+八品¤Bapin
+需要精气：¤Requires energy:
+需要消耗：33天¤Need to consume: 33 days
+需要境界：金丹五重¤Requires Realm: Jindan fivefold
+开始修炼¤start to practice
+已满级¤full level
+蝎子(练气八重)¤Scorpion (eight layers of Qi training)
+投入药材¤Put in medicinal materials
+投入数量¤Input quantity
+风息草¤Zephyr
+双 修¤double repair
+赠 予¤gift
+切 磋¤learn from each other
+窃 取¤steal
+结为道侣¤Become a Taoist
+攻 击¤attack
+空间储物袋¤space storage bag
+论 道¤On the Road
+组 队¤team up
+索 取¤ask for
+交 易¤trade
+背包容量:¤Backpack capacity:
+法器¤magic weapon
+进行修炼后3600天后，寿元将消耗殆尽。\n\n是否继续？（请谨慎操作）¤After 3600 days of practice, the longevity will be exhausted. \n\nContinue? (Please operate with caution)
+祭  炼¤Sacrifice
+自毁本命法宝¤self-destruct talisman
+需要修为：10086点¤Need to repair: 10086 points
+需要时间：10086天¤Time required: 10086 days
+轩辕剑+1¤Xuanyuan Sword +1
+需要精血：10086点¤Requires blood essence: 10086 points
+自毁本命法宝将损耗10%生命，\n是否确定要自毁本命法宝？¤Self-destructing the talisman will consume 10% of life,\nAre you sure you want to self-destruct the talisman?
+轩辕剑+1→+2，有30%几率可以将品质提升至红色，将解锁一条新的词缀！¤Xuanyuan Sword +1 → +2, there is a 30% chance that the quality can be upgraded to red, and a new affix will be unlocked!
+XXX对你的好感度+20（道侣）¤XXX's favorability towards you +20 (Tao Companion)
+聚仙19年9月3日¤Juxian 9/3/19
+相约共同修炼，共求长生，共证大道！¤Make an appointment to practice together, seek longevity together, and prove the Dao together!
+XXXX与XXXX相约结为了道侣¤XXXX met with XXXX and became a Taoist couple
+点击任意区域继续……¤Click on any area to continue...
+思念最是痛苦¤Missing is the most painful
+思念是一种病¤miss is a disease
+投放药材¤Add medicinal materials
+符箓\n¤Talisman\n
+拾取一个符箓¤pick up a talisman
+影月狼灵（天凤血脉）¤Shadow Moon Wolf Spirit (Tianfeng Bloodline)
+生存¤Survive
+血脉之力：72¤Blood power: 72
+战斗¤fighting
+重置血脉¤reset bloodline
+吞噬灵兽¤devour spirit beast
+血脉激活：¤Bloodline activation:
+选择灵兽¤Choose Spirit Beast
+专属¤Exclusive
+吞噬法宝¤Devour magic weapon
+清 空¤empty
+待吞噬法宝¤magic weapon to be devoured
+还未持有复苏灵宠所需丹药...¤Haven't possessed the elixir needed to revive spiritual pets...
+服用丹药¤Take the Elixir
+为濒死的宠物服用增加寿元的丹药可使其复苏¤Giving life-enhancing potions to dying pets can revive them
+还未持有提升灵宠资质所需丹药...¤Haven't possessed the elixir needed to improve the qualifications of spiritual pets...
+服用后，可以为宠物增加相应资质。¤After taking it, you can increase the corresponding qualifications for pets.
+灵宠培育¤Spirit pet cultivation
+孵化灵兽需要花费365天！¤It takes 365 days to hatch a spirit beast!
+请为灵宠赐名！¤Please give the spirit pet a name!
+灵兽进化¤Spirit beast evolution
+开始孵化¤start hatching
+参 悟¤comprehend
+学习妖术¤learn witchcraft
+完成进化后，您的灵兽资质上限将获得提升！¤After completing the evolution, your spirit beast qualification limit will be increased!
+进  化¤evolution
+您的灵兽已经达到了修炼瓶颈，需要进化后方可继续修炼，进化需要以下素材：¤Your spirit beast has reached the bottleneck of cultivation and needs to evolve before continuing to practice. Evolution requires the following materials:
+本次进化需要灵兽的血脉本源之力至少达到10%！¤This evolution requires at least 10% of the original power of the bloodline of the spirit beast!
+灵兽进化后等阶不能超过您所在境界！¤After the spirit beast evolves, its level cannot exceed your level!
+灵气聚集之地¤The place where spiritual energy gathers
+韩立（练气一重）¤Han Li (first level of Qi training)
+↑ 请选择修炼天数 ↑¤↑ Please select the number of training days ↑
+修炼队伍¤practice team
+药引¤medicine lead
+主药¤Main drug
+开  始¤start
+空格(增加火力)¤Space (increased firepower)
+未知信息¤unknown information
+辅药¤Adjuvant
+完成炼制需要消耗：     天¤It takes consumption to complete refining: Days
+追加一份¤add one
+经过26天的炼制，灵魄丹（2个）结丹成功¤After 26 days of refining, Lingpo pills (2 pieces) were successfully formed
+自定义¤customize
+按空格控制火力，需要提前预热，提升炉内温度¤Control the firepower according to the space, need to preheat in advance to increase the temperature in the furnace
+炉内温度:0°¤Furnace temperature: 0°
+自定义丹方¤custom recipe
+炼制一阶法器，法宝破碎率降低20%\n炼制更低品阶丹药时，炉火操控稳定+50%¤When refining a first-level magic weapon, the magic weapon's fragmentation rate is reduced by 20%\nWhen refining a lower-level elixir, the furnace fire control stability +50%
+?品丹药¤?pin elixir
+我是新手，需要！¤I'm new to this and need it!
+轮回大能，不需要！¤The power of reincarnation, no need!
+暂避锋芒¤Stay out of the way
+收到神念传音：¤Receive the voice transmission of spiritual thoughts:
+要战便战¤fight if you want
+收到神念传音：<a href=mujian>[木剑]</a>¤Received the sound transmission of spiritual thoughts: <a href=mujian>[Wooden Sword]</a>
+导 入¤import
+不导入¤do not import
+是否将Wegame存档导入？¤Do you want to import Wegame archives?
+获得修为:1000¤Obtained repair: 1000
+点击空白区域关闭当前界面¤Click the blank area to close the current interface
+掉落：¤drop:
+xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为洪荒宇宙中的一团灰灰。。。¤xxxx was bombed and killed by you, his lifespan is exhausted, the last trace of vitality has been exhausted, and he will eventually turn into a cloud of ashes in the prehistoric universe. . .
+剩余次数：1¤Remaining times: 1
+阿斯顿撒打赏大苏打阿萨打赏多少阿萨打赏打赏啊实打实 阿萨的撒的撒qqqq¤How much is Asa’s reward for big soda? Asa’s reward is real.
+敲击¤tap
+混沌钟¤chaos clock
+吸纳¤absorb
+共13件¤13 items in total
+祭炼解除禁制：7/36重¤Sacrificing to lift the ban: 7/36 heavy
+气血：¤Qi and blood:
+九州龙鼎玉玺¤Kyushu dragon tripod jade seal
+天罡禁制6重：吸血+10%¤Tiangang ban 6 levels: blood sucking +10%
+不自动选择红色装备¤Do not automatically select red equipment
+存档中……¤Archiving...
+名字（境界）¤name (realm)
+天地门（友好）¤Heaven and Earth Gate (Friendly)
+职位¤Position
+操作¤operate
+领取俸禄¤receive salary
+宗主：123456¤Suzerain: 123456
+我的职位：外门弟子¤My position: Outer Sect Disciple
+加入宗门需要：引荐信（获得升仙大会冠军奖励）或达到金丹境¤To join the sect, you need: a letter of recommendation (received the champion reward of the Ascension to Immortals Conference) or reached the Golden Core Realm
+好感度：100¤Favorability: 100
+镇宗长老：123456¤Zhenzong elders: 123456
+基本信息¤Basic Information
+成员列表¤member list
+晋升职位¤promotion position
+风清扬（筑基巅峰）¤The Wind is Clear (Peak of Foundation Establishment)
+护宗大阵：8级¤Guardian Array: Level 8
+宗门领地¤Zongmen Territory
+我的贡献：123456¤My contributions: 123456
+宗门宗旨：御剑横空，无人能及！¤The purpose of the sect: To control the sword across the sky, no one can match it!
+人数规模：12/45¤Number of people: 12/45
+寒光庄¤Hanguangzhuang
+好感¤good impression
+镇宗之宝：烧火棍¤Treasure of Zhenzong: Burning Fire Stick
+宗门关系¤Zongmen relationship
+护宗大阵¤Guardian array
+俸禄：1234灵石/年¤Salary: 1234 spirit stones/year
+探查¤probe
+出 售¤sell
+持续按下左键可以快速选择出售物品¤Press and hold the left button to quickly select items for sale
+出售物品栏¤Sell ​​Items
+待售物品¤items for sale
+物品数量¤number of the stuffs
+勾选后复数物品不再询问数量¤After checking, multiple items will no longer ask for the quantity
+<color=#FFFFFF00>缩进</color>当npc给你发送传书时，均有赞同与无法认同两个选项，做出对应的选择后可以影响此次聊天的结果当npc给你发送传书时，均有赞同与无法认同两个选项，做出对应的选择后可以影响此次聊天的结果当npc给你发送传书时，均有赞同与无法认同两个选项。¤<color=#FFFFFF00>Indent</color> When an npc sends you a message, there are two options of agreeing and disagreeing. After making the corresponding choice, it can affect the result of this chat. When the npc sends you a message When writing a book, there are two options of agreeing and disagreeing. After making the corresponding choice, it can affect the result of this chat. When an npc sends you a letter, there are two options of agreeing and disagreeing.
+夸赞好友¤praise friends
+闲谈/论道¤gossip/discussion
+无法认同¤can not agree
+莘和风的来信¤Letter from Xin Hefeng
+发送传书¤send letter
+向莘和风发送飞剑传书¤Send the flying sword letter to Xin Hefeng
+少侠你好：¤Hello young man:
+表示认同¤agree
+画 质¤picture quality
+分辨率¤resolution
+快¤quick
+慢¤slow
+大¤big
+音 效¤sound effects
+音 乐¤music
+指针灵敏度¤pointer sensitivity
+窗口模式¤window mode
+音量大小¤volume
+当前版本：¤current version:
+垂直同步¤Vertical sync
+修改快捷键¤Modify shortcut keys
+功法¤Gongfa
+我的灵石:¤My Lingshi:
+仙草¤Grass jelly
+3年12月21日后更新货物¤Update goods after 12/21/3
+法宝¤magic weapon
+炉具¤stove
+购买数量¤Purchase quantity
+剩余3天18时，再赢得2/3场通过考核¤At 18:00 in the remaining 3 days, win 2/3 games and pass the assessment
+守擂中……¤In the ring...
+礼物¤Gift
+烟水寒工作室，祝大家新年快乐，阖家欢乐！（宗门宝库宝物已刷新）¤Yan Shuihan Studio, I wish you a happy new year and a happy family! (The treasures in the Zongmen treasure house have been refreshed)
+重新感悟(7天)¤Re-perception (7 days)
+获得新生，他正在仔细感知经脉的变化¤Gaining a new life, he is carefully sensing the changes in the meridians
+境界突破，感悟到了一些大道法则：¤Realm breakthrough, realized some Dao laws:
+物理攻击+22%\n1231123¤Physical attack +22%\n1231123
+莽金刚真灵¤Mang King Kong True Spirit
+不满意放入材料继续启真¤If you are not satisfied, put in the materials and continue to enlighten
+请宗主为弟子赐名¤Ask the suzerain to give names to the disciples
+三灵根¤San Linggen
+九阴真灵¤Nine Yin True Spirits
+倾向：¤tendency:
+将来徒儿能做什么呢？¤What can disciples do in the future?
+请在背包添加真灵进行炼制！¤Please add a real spirit to your backpack for refining!
+启真¤Qizhen
+九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害¤Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack Attack with physical attack damage Nine vaginas: each attack with physical attack damage
+需要完成铸灵！¤Need to complete casting spirit!
+参悟需要灵根：¤Enlightenment requires spiritual roots:
+经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉¤meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian
+经脉经脉经脉经脉经脉经脉经脉\n¤Meridian Meridian Meridian Meridian Meridian Meridian\n
+神通参悟¤supernatural powers
+CD：3.2秒¤CD: 3.2 seconds
+参悟需要境界：练气九重¤Realm required for comprehension: the nine levels of Qi training
+心法等级：天阶上品¤Heart Level: Heavenly Top Grade
+研习功法可解锁参悟词条数量：7¤The number of enlightenment entries that can be unlocked by studying exercises: 7
+所需时间¤time required
+心法参悟¤Enlightenment
+需要境界:¤Required realm:
+回到主界面¤Back to the main interface
+回到游戏¤back to game
+不需要保存¤no need to save
+切换存档¤toggle archive
+设置¤set up
+退出游戏¤exit the game
+即将退出游戏，是否保存存档？¤About to exit the game, do you want to save the archive?
+是否覆盖现在存档？¤Do you want to overwrite the archive now?
+保存存档¤save archive
+剩余时间：33天¤Time remaining: 33 days
+告别¤bid farewell
+追踪¤track
+领取奖励¤Receive award
+111111米¤111111 meters
+打峰哥代购代购¤Dafeng brother purchasing agent
+村子东边的山中,最近失踪好几个人了,附近的村民意乱纷纷,似乎有怪兽出没,前注探查乎有怪兽出没,前注探查乎有怪兽出没,前注探查乎有怪兽出没,前注探查¤In the mountains to the east of the village, several people have disappeared recently, and the nearby villagers are in a state of turmoil. It seems that there are monsters infested.
+我的任务¤my task
+奖励¤award
+风气云涌¤Stormy
+↑ 点击日晷中的时辰，调整切换昼夜变化 ↑¤↑ Click the hour in the sundial to adjust and switch the day and night changes↑
+姓名：XXX(好友)¤Name: XXX (friend)
+好友：1¤Friends: 1
+妖王xxx后重生¤The demon king is reborn after xxx
+性别：女¤Gender: Female
+仇人：0¤Enemies: 0
+陌生人：0¤Strangers: 0
+道侣：1¤Companion: 1
+完成冲宫¤Complete the palace
+攻击力+20%¤Attack +20%
+攻击力+24% (+20%)¤ATK+24% (+20%)
+上冲中宫过程中将持续注入生机消耗寿元，完成度越高，获得凝婴属性越强¤During the process of going up to the middle palace, vitality will be continuously injected to consume life energy. The higher the degree of completion, the stronger the attribute of congealing babies will be obtained
+上冲中宫¤Shang Chong Zhong Gong
+暂停冲宫¤pause rush
+剩余寿元：999¤Remaining lifespan: 999
+六品金丹¤Sixth Grade Golden Elixir
+合体境界内,每过1年，全基础属性增加0.3%，最多增加100%¤In the realm of integration, every year, all basic attributes increase by 0.3%, up to 100%
+在合体境界内：\n击杀3位大乘修士，每击杀1个大乘修士，攻击增加15%，防御降低15%，伤害增加10%¤In the realm of integration:\nKill 3 Mahayana monks, for each Mahayana monk killed, the attack will increase by 15%, the defense will decrease by 15%, and the damage will increase by 10%
+在合体境界内：\n击杀3个七阶妖王，每击杀1个七阶妖王，攻击降低5%，防御增加25%，免伤几率增加5%¤In the realm of integration:\nKill 3 seventh-level demon kings, and for each seventh-level demon king killed, the attack will be reduced by 5%, the defense will be increased by 25%, and the chance of avoiding damage will be increased by 5%
+在合体境界内：\n分别战胜合体境、大乘境、渡劫境的自我心魔，每完成一次攻击增加10%，防御增加15%，闪避增加3%¤In the Fusion Realm:\nDefeating self-inner demons in the Fusion Realm, Mahayana Realm, and Transcending Tribulation Realm respectively, each completed attack increases by 10%, defense increases by 15%, and dodge increases by 3%
+向道无悔¤no regrets
+合体炼虚¤fit together
+成为擂主¤become the champion
+XXX已经获得连续3场胜利，32秒后，如无人继续挑战，将获得宗门小比的胜利！¤XXX has won 3 consecutive victories. After 32 seconds, if no one continues to challenge, Zongmen Xiaobi will win!
+恭喜xxx获得本次宗门小比的胜利，晋升为内门弟子！¤Congratulations to xxx for winning the Zongmen competition and being promoted to inner disciple!
+<color=#00000000>一一</color>一年一度的宗门小比已经正是开启报名了，报名时间截止至8月31，这是对于外门弟子最重要的时刻了，你一定要好好把握机会，如若进入了内门，势必可以获得更多的宗门资源帮助，修炼之途必定事半功倍。如若参加，请务必在8月31日前返回宗门，在宗门小比主管处报名参加!¤<color=#00000000>one by one</color> The annual Zongmen Xiaobi has just started registration, and the deadline for registration is August 31. This is the most important moment for outer disciples. You must Grasp the opportunity well, if you enter the inner sect, you will definitely be able to get more resources and help from the sect, and the way of cultivation will definitely get twice the result with half the effort. If you want to participate, please be sure to return to Zongmen before August 31, and sign up at the supervisor of Zongmen Xiaobi!
+今年的宗门小比夺冠热门人员：¤This year's Zongmen Xiaobi favorites:
+XXX吾徒，见信好：¤XXX my apprentice, please see the letter:
+xxxx(筑基三重)¤xxxx (Building Foundation Triple Layer)
+\n欢迎各位道友来到无尽轮回的修仙世界！\n\n目前游戏版本是抢先体验版，版本还有点不稳定，很多道友第一次玩这个游戏，可能会遇到一些问题，我们正在抓紧时间修复，拜托道友们给我们一点点时间！\n\n如果道友们遇到任何问题，可以加入我们的官方修仙交流群"174833518"私聊官方管理无羁，无心，无道反馈，我们会全力帮忙解决问题，再次拜谢！\n¤\nWelcome all fellow Taoists to the world of cultivating immortals of endless reincarnation! \n\nThe current version of the game is an early access version, and the version is still a bit unstable. Many Taoists may encounter some problems when playing this game for the first time. We are hurrying to fix it. Please give us a little time ! \n\nIf fellow Taoists encounter any problems, you can join our official Xiuxian exchange group "174833518" and privately chat with the official management. We will try our best to help solve the problem, thank you again! \n
+3.1号临时更新公告\n\n1、修复随机窍穴和祭炼本命法宝时间流失较快时卡顿的问题\n2、修复选择五行属性命格没有出现对应灵根的问题\n3、修复宗门报名人数已满但是没有提示的问题，建议在每年8月9号之前报名\n4、修复NPC性别偶尔不对的问题\n5、优化矿洞的产出，现在每个矿洞都可以产出各种属性的材料了\n6、修复宠物无限吃装备的BUG\n\n\n\n2.27号测试服更新公告\n\n1、新增五行灵根相关命格，再也不用反复SL了\n2、新增渡劫丹持续时间的进度条\n3、修复经历和游戏中灵根有时候有时候对不上的问题\n4、优化闭关打坐时的卡顿问题，以及打坐千年改为轮回重生（慎用）\n5、修复在秘境退出再进入位置不正确的问题\n6、现在宗门放开了禁制，可以御剑飞行，也有其他NPC出入了\n7、优化了SL时不断增加的内存问题\n8、修复提前加入宗门导致不能进入新宗门的问题\n9、新孵化的灵兽默认现在默认直接出战了\n10、降低赠送礼物的门槛\n11、修复剑光分化初始伤害不对的问题\n12、降低了被NPC击杀掉落的法宝的数量，同时NPC掉落也降低了\n13、被NPC索取物品现在改为降低好感度了\n14、低战力的NPC仇人现在会逃跑了\n15、修复双修有概率卡住的问题\n16、修复新用户概率进不去的问题\n17、优化了小比大比概率会被卡死的问题\n\n\n\n2.21号更新\n1. 新增了宗门基础模块，可以通过参加升仙大会与其他npc处获得加入宗门的介绍信了\n2. 新增了宗门小比，大比完成，完成职位晋升\n3. 将宗门宝库中的部分商品移动至宗门宝库中售卖。宗门宝库每间隔10年会刷新一次\n4. 为npc增加了轮回属性，随着岁月的流失，npc的轮回世代也会逐步增加\n5. 在境界突破获得窍穴属性时，增加了刷新功能，消耗一定时日，可以重新领悟属性词缀\n6. 传送功能新增了时间消耗，使用传送时需要注意时间的流逝了\n7. 灵兽的生存能力得到了一定的加强\n8. 神识扫描增加采集仙草能力，在击杀妖兽后，会获得神识扫描范围内的仙草\n9. 修复了一些妖兽意外掉落高级仙草的bug\n10. 优化了一些npc的Ai行为\n11. 更新了圣地场景资源\n12. 修复了某些情况下，跳过时间流逝动画会卡住的问题\n13. 金丹及以上境界不需要引荐信也可以加入宗门了\n14. 暂时关闭了npc的委托任务发放\n¤No. 3.1 Temporary Update Announcement\n\n1. Fix the problem of lag when the random acupoints and sacrificial talismans run out of time quickly\n2. The number of applicants is full but there are no prompts. It is recommended to register before August 9 every year\n4. Fix the problem that the NPC gender is occasionally wrong\n5. Optimize the output of the mine. Now each mine can produce various Attribute materials are gone\n6. Fix the BUG that pets can eat unlimited equipment\n\n\n\nNo. 2.27 test server update announcement\n\n1. Add five-element spiritual root related fate, no need to repeat SL again\n n2. Added a progress bar for the duration of the Tribulation Pill\n3. Repaired the problem that sometimes the spiritual roots in the game sometimes did not match\n4. Optimized the lagging problem during retreat and meditation, and changed the thousand-year meditation to reincarnation rebirth (Use with caution)\n5. Fix the problem of incorrect location when exiting and re-entering the secret realm\n6. Now the Zongmen has released the restriction, you can fly with the sword, and there are other NPCs coming in and out\n7. Optimized the increasing memory when SL Problem\n8. Fix the problem of being unable to enter the new sect due to joining the sect in advance\n9. The newly hatched spirit beasts will now go to battle by default\n10. Lower the threshold for giving gifts\n11. Repair the initial damage of the sword light differentiation. Problem\n12. The number of magic weapons dropped by NPCs has been reduced, and NPC drops have also been reduced\n13. Items requested by NPCs are now changed to reduce favorability\n14. NPC enemies with low combat power will now run away Fixed\n15, fixed the problem that double repairs have a probability of being stuck\n16, fixed the problem that new users may not be able to enter\n17, optimized the problem that the probability of small ratios and large ratios will be stuck\n\n\n\n2.21 No. update\n1. The Zongmen basic module has been added. You can get a letter of introduction to join the Zongmen by participating in the Immortal Ascension Conference and other NPCs\n2. Added a new Zongmen Xiaobi, Dabi completed, and job promotion\ n3. Move some commodities in the Zongmen Treasure House to the Zongmen Treasure House for sale. Zongmen treasure house will be refreshed every 10 years\n4. The reincarnation attribute is added for npc. As the years go by, the reincarnation generation of npc will gradually increase\n5. When the realm breaks through to obtain the acupoint attribute, a refresh function is added , It takes a certain amount of time to re-understand attribute affixes\n6. The teleportation function has added a time consumption. When using teleportation, you need to pay attention to the passage of time\n7. The survivability of spirit beasts has been strengthened to a certain extent\n8.
+气血¤Lifeforce
+物理攻击¤Physical Attack
+法术攻击¤Spell Attack
+物理防御¤Physical Defense
+法术防御¤Spell Defense
+天元城¤Tianyuan City
