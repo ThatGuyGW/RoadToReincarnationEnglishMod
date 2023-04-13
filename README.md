@@ -21,3 +21,5 @@ In the 轮回修仙路 folder, any .log files with "preloader" in the name.
 In the BepInEx folder, any .log files
 
 In your Appdata Folder (Accessible on Windows machines by using the Windows Key + R, typing in "%AppData%" without the ", and then navigating to the "LocalLow" folder. The 烟水寒\轮回修仙路 folder will contain log folders.
+
+As this is an initial release, please be aware that it's very likely that upcoming releases or game updates could entirely break your savegame with little to no chance of recovery.
