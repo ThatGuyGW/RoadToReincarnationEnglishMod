@@ -17,5 +17,7 @@ You'll know the mod is working if the first splash screen has a line of text at 
 If the mod isn't working for you please look for any of the below log files and raise them as as issue either on the GitHub Issue Page or in the AMA Discord channels for Road to Reincarnation:
 
 In the 轮回修仙路 folder, any .log files with "preloader" in the name.
+
 In the BepInEx folder, any .log files
+
 In your Appdata Folder (Accessible on Windows machines by using the Windows Key + R, typing in "%AppData%" without the ", and then navigating to the "LocalLow" folder. The 烟水寒\轮回修仙路 folder will contain log folders.
