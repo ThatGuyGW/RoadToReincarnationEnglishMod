@@ -12,6 +12,16 @@ Extract the archive and drag and drop the entire contents into your game folder.
 
 You'll know the mod is working if the first splash screen has a line of text at the bottom that ends with (ENG Mod Enabled!)
 
+##
+
+If you're intalling a patch, the .7z file will only contain 3 files sorted into their relevant folders:
+
+TAKV.txt
+UITextKV.txt
+global-metadata.dat
+
+You should only need to drag the folders in the 7z into your game directory (轮回修仙路)
+
 ## Notes
 
 As this is an initial release, please be aware that it's very likely that upcoming releases or game updates could entirely break your savegame with little to no chance of recovery.
