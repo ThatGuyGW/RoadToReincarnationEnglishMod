@@ -22,6 +22,10 @@ global-metadata.dat
 
 You should only need to drag the folders in the 7z into your game directory (轮回修仙路)
 
+## Warning regarding Updates
+
+**Playing with the English Mod while using an un-modified metadata file has the potential to cause Save Corruption when switching to a modified Metadata file. If you proceed with your save before a full update is out, you do so at your own risk. We advise you backup your saves manually by copying the files at "AppData\LocalLow烟水寒轮回修仙路\GameDataSave_Steam" to another location.**
+
 ## Notes
 
 As this is an initial release, please be aware that it's very likely that upcoming releases or game updates could entirely break your savegame with little to no chance of recovery.
