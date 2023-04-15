@@ -105,7 +105,7 @@ cd:20秒¤Cooldown: 20 seconds
 发型¤Hairstyle
 (第一世)¤(First world)
 你你你你你你你你你你你你你你你你你你你你1111¤you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you 1111
-开始仙途¤start fairy road
+开始仙途¤Start Your Immortal Journey
 每点灵根可以提升对应系功法伤害0.5%！¤Each point of spiritual root can increase the damage of corresponding system skills by 0.5%!
 第一世¤first world
 正在加载NPC……¤Loading NPCs...
@@ -705,7 +705,7 @@ XXXX与XXXX相约结为了道侣¤XXXX met with XXXX and became a Taoist couple
 辅药¤Adjuvant
 完成炼制需要消耗：     天¤It takes consumption to complete refining: Days
 追加一份¤add one
-经过26天的炼制，灵魄丹（2个）结丹成功¤After 26 days of refining, Lingpo pills (2 pieces) were successfully formed
+经过26天的炼制，灵魄丹（2个）结丹成功¤After 26 days of refining, Soul Spirit pills (2 pieces) were successfully formed
 自定义¤customize
 按空格控制火力，需要提前预热，提升炉内温度¤Control the firepower according to the space, need to preheat in advance to increase the temperature in the furnace
 炉内温度:0°¤Furnace temperature: 0°
@@ -884,3 +884,79 @@ xxxx(筑基三重)¤xxxx (Building Foundation Triple Layer)
 物理防御¤Physical Defense
 法术防御¤Spell Defense
 天元城¤Tianyuan City
+4月13日更新日志：\n\n各位道友好，这周我们做了一些常规的bug修复，同时在开发洞府功能和丰富npc的对白文案了。开发还需要一些时间，请各位道友稍作等待，以下是更新内容：\n\n1.设置界面中新增了日志导出功能（Ps：有角色面板打不开，升仙大会擂主看不见，战斗中角色消失的道友请在游戏中导出日志，发送给我们噢！）\n2. 优化了升仙路传送门的角度与视距\n3. 修复了混沌钟祭炼后，cd降低异常问题\n4. 修复了部分出生经历作用异常问题\n5. 修复了某些情况下谪仙命格吸收灵气获取奖励异常的问题\n6. 优化了npc部分行为逻辑，缓解后期全都是渡劫npc的情况\n7. 优化了女性衣服调色的色值展示\n\n4月4日更新内容公告：\n1.优化了天元城的部分场景资源；\n2.优化了内存及显存占用消耗大问题，提升了游戏运行效率；\n3.优化了战斗技能释放代码，降低了战斗中卡顿的问题；\n4.优化了游戏加载场景机制，减少了加载等待时间；\n5.增加了虚天鼎，人皇鼎与九宝葫芦飞行法器；（获取途径待添加）\n6.增加了灵气刷新机制，与自身境界匹配的灵气刷新后，会收到消息提示；\n7.增加了宗门小比，大比，斗剑的消息提示功能；\n8.更新了创建角色场景；\n9.修复了本命法宝祭炼后，没有增加属性的bug\n10.增加了荒芜秘境与昆仑秘境中8阶遗骸，皮毛的掉落；\n11.修复了渡劫丹药与丹方品阶不一致的问题；\n12.修复了道心意外丢失的bug；\n13.修复了焚印·盾词条描述错误问题；\n14.修复了击杀npc后，npc不会掉落道具的bug；\n15.修复了升仙大会擂主在某些情况下，没有正常刷新的bug；\n16.修复了npc道侣死亡后，依旧无法与其结为道侣的bug；\n¤April 13th Update Log:\n\nGreetings fellow cultivators, this week we have made some routine bug fixes, while also working on the development of the cave dwelling feature and enriching NPC dialogues. Development still requires some time, so please be patient. Here are the updates:\n\nAdded log export function in the settings interface (Ps: If you encounter issues like the character panel not opening, not being able to see the Immortal Ascension Tournament champion, or characters disappearing during battles, please export the log in-game and send it to us!)\nOptimized the angle and viewing distance of the Immortal Ascension Road portal\nFixed the issue with abnormal cooldown reduction after refining the Chaos Clock\nFixed issues with some birth experiences not working correctly\nFixed the issue of abnormal rewards when absorbing spiritual energy with the Exiled Immortal Fate under certain conditions\nOptimized some NPC behavior logic to alleviate the issue of too many Tribulation-crossing NPCs in the later stages\nOptimized the color value display for female clothing adjustments\n\nApril 4th Update Content Announcement:\nOptimized some scene resources in Tiangong City\nImproved memory and VRAM usage, increasing game performance\nOptimized battle skill release code, reducing lag during battles\nEnhanced game loading scene mechanism, reducing waiting times\nAdded Xutian Cauldron, Human Emperor Cauldron, and Nine Treasure Gourd flying artifacts (Acquisition methods to be added)\nAdded a spiritual energy refresh mechanism; when spiritual energy matching your own realm refreshes, you will receive a notification\nAdded notifications for Sect minor and major competitions, and sword fights\nUpdated the character creation scene\nFixed the bug where refining your Lifebound Treasure did not increase attributes\nAdded 8th order remains and fur drops in the Desolate Secret Realm and Kunlun Secret Realm\nFixed the inconsistency between Tribulation-crossing pills and their recipe grades\nFixed the bug of accidentally losing Dao Heart\nFixed the erroneous description issue for the Burn Seal - Shield entry\nFixed the bug where NPCs did not drop items after being killed\nFixed the bug where the Immortal Ascension Tournament champion did not refresh properly under certain conditions\nFixed the bug where you still couldn't form a bond with an NPC companion after their death\n
+宗门小比已开启，在聚仙33年12月1日前，赶回宗门，到宗门主管处可报名参赛！¤The Sect's minor competition has begun, return to the sect before the 1st of December in the 33rd year of the Gathering of Immortals, and register at the sect administrator's place!
+点击鼠标右键关闭提示消息¤Right-click the mouse to close the notification message
+成仙路¤Road to Immortality
+斗剑台¤Sword Fighting Platform
+万剑归宗¤Ten Thousand Swords Returning to the Sect
+正在权衡利弊...¤Considering the pros and cons...
+固元丹¤Foundation Establishment Pill
+练气二重¤Qi Refining Second Layer
+练气一重¤Qi Refining First Layer
+前往Steam商店解锁¤Go to Steam Store to unlock
+未解锁¤Not unlocked
+仙子¤Fairy
+旗袍¤Cheongsam
+她看手机，费第三款，欧菲光肯德基莫高窟¤She checks her phone, spending on the third model, OPPO, KFC, Mogao Caves
+水灵根+2¤Water Spirit Root +2
+瓶¤Bottle
+炼器炉¤Refining Furnace
+头饰¤Headwear
+衣服¤Clothing
+戒指¤Ring
+印¤Seal
+幡¤Banner
+腰带¤Belt
+鞋子¤Shoes
+珠¤Bead
+炼制腰带类法宝时，淬炼时提升品质成功率增加60%¤When refining belt-type treasures, the success rate of quality improvement during tempering increases by 60%
+武器¤Weapon
+剑¤Sword
+添加xx¤Add xx
+开辟洞府¤Create a Cave Dwelling
+建筑洞府需要花费3年时间！¤Building a cave dwelling takes 3 years!
+建筑洞府需要准备三阶五行指精材料各10份！¤To build a cave dwelling, prepare 10 pieces of each third-grade Five Elements Essence material!
+开闭洞府需要消耗灵石10万，激活灵脉！\n¤Opening and closing the cave dwelling requires 100,000 spirit stones to activate the spirit vein!\n
+归元丹¤Returning Origin Pill
+月¤Month
+日¤Day
+年¤Year
+谪仙¤Exiled Immortal
+张¤Zhang
+翠玉¤Jade Green
+黄阶¤Yellow Tier
+使用中¤In use
+练气巅峰¤Qi Refining Peak
+一阶五重¤First Tier, Fifth Layer
+飞\n行\n法\n宝¤Fly\ning\nArti\nfact
+社交¤Social
+普攻吸血：¤Normal attack life-steal:
+虹膜大小¤Iris size
+虹膜明暗¤Iris brightness
+崆峒印·图纸¤Kongtong Seal - Blueprint
+刻塑有五方天帝形貌，并有玉龙盘绕。攻击时，有15%几率祭出崆垌印，对目标及周围敌军造成180%物理伤害，并晕眩1秒！¤Engraved with the appearances of the Five Emperors, entwined with a jade dragon. When attacking, there's a 15% chance to activate the Kongtong Seal, dealing 180% physical damage to the target and surrounding enemies, and stunning them for 1 second!
+降尘丹¤Descending Dust Pill
+器\n具¤Tool\ns
+灵动之血¤Agile Blood
+开战时拥有一个气血值5%的护盾¤Start a battle with a 5% HP shield
+一阶一重¤First Tier, First Layer
+金石亲和秘术¤Gold and Stone Affinity Secret Technique
+离¤Leaving
+炼丹炉¤Alchemy Furnace
+宗主¤Sect Leader
+加入宗门¤Join the Sect
+表达思念¤Express longing
+小¤Small
+导出日志¤Export log
+器具¤Tools
+仓库最大容量¤Maximum storage capacity
+闭关增加修为/日¤Cultivation gains per day during seclusion
+灵脉等级¤Spirit vein level
+灵兽获得经验/日¤Spirit beast daily experience gain
+需要：xxx灵石¤Requires: xxx spirit stones
+灵脉详情¤Spirit vein details
+仙草生长倍率¤Immortal grass growth rate
+升级灵脉¤Upgrade spirit vein
+剑光分化¤Sword Light Separation
+祭炼xxxx需要消耗xx天，是否继续？¤Refining xxxx takes xx days, do you wish to continue?
