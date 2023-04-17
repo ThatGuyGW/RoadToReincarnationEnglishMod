@@ -1,0 +1,1347 @@
+<lf><color=#FF0000>(本命法宝)</color>¤<lf><color=#FF0000>(Natal magic weapon)</color>
+<lf>你拥有千中无一的¤<lf>You have the unique
+<lf>炼制更低品阶丹药时，炉火操控稳定+50%¤<lf> When refining lower-grade pills, the furnace fire control stability +50%
+<lf>通灵道源¤<lf>source of psychic way
+   先要创建池子！¤   Create pool first!
+  气血恢复：¤  Health recovery:
+  空！！¤  Empty! !
+ 在¤ in
+ 已死亡¤ Dead
+ 桀桀桀，乖乖把宝物交出来，说不定我还可以饶你一命！¤ Jie Jie Jie, obediently hand over the treasure, maybe I can spare your life!
+ 自适应等级掉落不对¤ Adaptive level drops incorrectly
+%几率使法宝破裂！¤% chance to break the magic weapon!
+%，凝丹需要¤%, needed for condensing pill
+(中期)¤(mid term)
+(初期)¤(Initial)
+(后期)¤(late stage)
+(已完成)¤(Completed)
+(散修)¤(casual repair)
+(濒死)¤(dying)
+(瓶颈，待破境)¤(Bottleneck, to be broken)
+(瓶颈，待突破)¤(bottleneck, to be broken through)
+(祭炼+¤(Sacrifice+
+(第¤(No.
+(第一世)¤(first life)
+(轻伤)¤(slight injury)
+(还魂借气)¤(resurrection borrowing energy)
+(重伤)¤(serious injury)
+)件物品轮回转世¤) item reincarnation
+)窃取你的¤) Steal your
+)结丹成功¤) The alchemy is successful
+)，请处理¤), please process
+,你是一个¤, you are a
+,在与¤, with
+,在短时间内极大程度降低混沌仙雷伤害值。¤, Greatly reduce the damage value of Chaos Thunder in a short time.
+,收获颇丰。¤, I have gained a lot.
+,是否追回失物？¤, Do you want to recover the lost property?
+,法宝破碎率¤, magic weapon broken rate
+/天¤/day
+/添加灵石¤/Add spirit stone
+/添加贡献点¤/Add contribution points
+0秒¤0 seconds
+0随机的道体为¤0 The random body is
+10年后更新货物¤Update goods after 10 years
+1月1号大比将正式开始¤January 1st the competition will officially start
+1随机的道体为¤1 The random body is
+9月1号小比将正式开始¤Xiaobi will officially start on September 1st
+</color>天¤</color> days
+</color>点¤</color> point
+</color>系本命法宝，需要花费时间：<color=#FF0000>¤</color> is a natal magic weapon, it takes time: <color=#FF0000>
+</color>阶灵宝，基础成功率<color=#26d636>¤</color> level spirit treasure, basic success rate <color=#26d636>
+<color=#00E7FF>五行天雷：分为金，木，水，火，土5种不同的属性值，对于相克的灵根目标造成2倍伤害，对于相生灵根目标造成0.5倍伤害</color>¤<color=#00E7FF>Five Elements Heavenly Thunder: Divided into 5 different attribute values ​​of metal, wood, water, fire, and earth, it will cause 2 times damage to targets with corresponding spiritual roots, and 0.5 times damage to targets with corresponding spiritual roots </color>
+<color=#9AA4B5>~封印~ （祭炼至天罡禁制{0}重后解除）</color>¤<color=#9AA4B5>~seal~ (Release after refining to Tiangang ban {0})</color>
+<color=#A4008E>紫霄神雷：可以轻易穿透祭出法宝产生的护盾</color>¤<color=#A4008E>Zixiao Shenlei: Can easily penetrate the shield produced by the magic weapon</color>
+<color=#EAEAC5>天罡禁制{0}重：{1}</color>¤<color=#EAEAC5>Tiangang prohibits {0} heavy: {1}</color>
+<color=#FF0000>攻击</color>¤<color=#FF0000>Attack</color>
+<color=#FF0000>攻击</color>类¤<color=#FF0000>Attack</color> class
+<color=#FF0000>辅助</color>¤<color=#FF0000>Auxiliary</color>
+<color=#FF0000>辅助</color>类¤<color=#FF0000>Auxiliary</color> class
+<color=#FF0000>防御</color>¤<color=#FF0000>defense</color>
+<color=#FF0000>防御</color>类¤<color=#FF0000>Defense</color> class
+<color=#FFA400>混沌仙雷：拥有毁灭性的能量，往往出现在雷劫末期，服用渡劫丹药可以有效的减免大量伤害</color>¤<color=#FFA400>Chao Xianlei: Possesses destructive energy, often appearing at the end of the thunder disaster, taking the pill of crossing the disaster can effectively reduce a lot of damage</color>
+<color=green>最后登录:¤<color=green>Last login:
+<size=36>天道点评：</size>¤<size=36>Tiandao Comments:</size>
+> 信件数量：¤> Number of letters:
+>找不到对应的npc！¤>Could not find the corresponding npc!
+AB资源,耗时¤AB resources, time-consuming
+BGM还未初始化¤BGM has not been initialized yet
+Npc装备技能表等级有问题：¤There is a problem with the Npc equipment skill table level:
+Npc请求交互:¤Npc requests interaction:
+SE还未初始化¤SE has not been initialized yet
+UI名字,操作(函数),耗时(ms)¤UI name, operation (function), time-consuming (ms)
+[AbstractResourceLoader:OnFinish]时，准备Disposed {0}¤[AbstractResourceLoader:OnFinish], Disposed {0} ready
+[CloseWindow]IsLoading的{0}¤[CloseWindow]IsLoading {0}
+[CloseWindow]没有加载的UIWindow: {0}¤[CloseWindow] No UIWindow loaded: {0}
+[KHttpDownloader]下载线程超时{0}s！: {1}¤[KHttpDownloader] Download thread timed out for {0}s! : {1}
+[LoadWindow]多次重复LoadWindow: {0}¤[LoadWindow] Repeat LoadWindow many times: {0}
+[{0}:AutoNew]url为空¤[{0}:AutoNew]url is empty
+[大小写敏感]发现一个资源 {0}，大小写出现问题，在Windows可以读取，手机不行，请改表修改！¤[Case Sensitive] Found a resource {0}, there is a problem with the capitalization, it can be read on Windows, but not on mobile phones, please modify the table!
+[子女]ID:¤[Children] ID:
+[逆天改命]¤[Change fate against the sky]
+[道侣]:¤[Tao Companion]:
+npc 材质报错：¤npc texture error:
+npc丹药配置错误：¤Incorrect configuration of npc elixir:
+soundID不能为0¤soundID cannot be 0
+soundName不能为空¤soundName cannot be empty
+{0}->+{1},有<color=#03bf16>{2}%</color>几率可以将品质提升，提升将解锁一条新词缀！¤{0}->+{1}, there is a chance of <color=#03bf16>{2}%</color> to improve the quality, which will unlock a new affix!
+{0}->+{1},此本命法宝品质已提升至最高！¤{0}->+{1}, the quality of this talisman has been raised to the highest level!
+{0}方法参数不对¤{0} method parameter is wrong
+{0}：<color=#EAEAC5>{1}</color> <color=#68F27F>（已满级）</color>¤{0}: <color=#EAEAC5>{1}</color> <color=#68F27F>(full level)</color>
+{0}：<color=#EAEAC5>{1}</color>/{2} <color=#68F27F>（第{3}重+{4}）</color>¤{0}: <color=#EAEAC5>{1}</color>/{2} <color=#68F27F>({3} heavy+{4})</color>
+·可以服用¤·Can be taken
+　　30年一度的宗门斗剑将在3年后开启，届时五大宗门的精英将齐聚一堂，进行生死斗法。斗剑台的入口已开启（可在地图中查看)，请在3年内务必前往斗剑台主管处报名！¤The once-every-30-years Sect Duel will start in 3 years. At that time, the elites of the five major sects will gather together for life-and-death battles. The entrance to the Duel Stage is now open (can be checked on the map). Please make sure to register at the Duel Stage Administration within 3 years!
+　　一年一度的宗门小比已经正是开启报名了，报名时间截止至8月31，这是对于外门弟子最重要的时刻了，你一定要好好把握机会，如若进入了内门，势必可以获得更多的宗门资源帮助，修炼之途必定事半功倍。如若参加，请务必在8月31日前返回宗门，在宗门演武台主管处报名参加!¤ The annual Zongmen Xiaobi has just started to register. The deadline for registration is August 31. This is the most important moment for outer disciples. You must seize the opportunity. If you enter the inner sect, It is bound to be able to get more resources and help from the sect, and the way of cultivation will definitely get twice the result with half the effort. If you want to participate, please be sure to return to Zongmen before August 31, and sign up at the supervisor of Zongmen Yanwutai!
+　　三年之期已至，宗门之中的内门精锐摩拳擦掌已久，在12月31日前，前往宗门演武台主管处报名，即可参与宗门大比！<lf>　　宗门大比的冠军将晋级为掌门真传弟子，获得更多的宗门宝库权限与宗门俸禄！¤ The three-year period has come, and the inner sect elites of the sect have been gearing up for a long time. Before December 31, go to the supervisor of the Zongmen Yanwutai to register, and you can participate in the Zongmen Grand Competition! <lf> The champion of the Zongmen Grand Competition will be promoted to be the true disciple of the head of the sect, and get more authority and salary of the sect's treasury!
+一¤one
+七¤seven
+万¤ten thousand
+三¤three
+三灵根¤San Linggen
+三生石¤Sansheng stone
+上¤Up
+上上¤up up
+上冲中宫过程中将持续注入生机消耗寿元，完成度越高，获得凝婴属性越强¤In the process of going up to the middle palace, it will continue to inject vitality and consume life yuan. The higher the degree of completion, the stronger the attribute of congealing babies will be obtained
+上冲泥窍宫过程中将持续注入生机消耗寿元，完成度越高，获得凝婴属性越强¤In the process of flushing the Niqiao Palace, it will continue to inject vitality and consume life yuan. The higher the degree of completion, the stronger the attribute of congealing babies will be obtained
+上古兽血¤Ancient Beast Blood
+上品¤top grade
+上衣¤Top
+下¤Next
+下品¤low grade
+下衣¤bottom
+下载完成: {0}¤Download complete: {0}
+下载过程中出现错误:¤An error occurred during the download:
+不同品阶的凝丹所需的降尘丹数目也不尽相同，品阶越高，需要准备的降尘丹数目也就越多！¤The number of Jiangchen pills required for different grades of condensing pills is also different, the higher the grade, the more the number of Jiangchen pills that need to be prepared!
+不存在此音频路径¤The audio path does not exist
+不相等¤not equal
+不符合职位要求...¤Not meeting job requirements...
+不能选择本命主材！¤Can't choose natal main material!
+与¤with
+世¤world
+世  ¤world  
+世)¤world)
+世界演变中……¤The world is evolving...
+世轮回¤Reincarnation
+丨¤Vertical line
+个月¤month
+中¤Medium
+中品¤Medium grade
+中期¤Mid term
+中立（¤Neutral (
+中華民國¤Republic of China
+中華民國曆¤Republic of China calendar
+丹方¤Dan Fang
+丹方：¤Dan formula:
+丹药¤Elixir
+丹药药性剩余时间：¤Remaining time of elixir properties:
+主灵根¤Main spirit root
+主灵根为{0}系时，方可佩戴{1}类法器。¤When the main spiritual root is {0}, you can wear {1} magic weapon.
+主灵根值大于80，升级为天灵根¤The value of main spirit root is greater than 80, upgrade to heaven spirit root
+主灵根值大于85，升级为天灵根¤The main spirit root value is greater than 85, upgrade to heaven spirit root
+主灵根值大于90，升级为天灵根¤The value of main spirit root is greater than 90, upgrade to heaven spirit root
+主药¤main drug
+主药:¤Main drug:
+主药:未知¤Main drug: unknown
+主药与辅材料相辅相成方可凝结成丹!<lf>通过不断的尝试或者阅读丹方密卷可以逐渐掌握炼丹配方！¤The main medicine and auxiliary materials complement each other to condense into a pill! <lf>Through continuous trial or reading the secret volume of pill recipes, you can gradually master the formula of alchemy!
+主药数量¤The number of main medicines
+主药数量:¤Number of main ingredients:
+主药数量:未知¤Number of main ingredients: unknown
+之¤of
+九¤nine
+九死不悔¤Nine deaths without regret
+也有今天，我隐忍多日，终于得到这复仇良机，拿命來！¤There is also today, I endured it for many days, and finally got this opportunity for revenge, take my life!
+书¤Book
+二¤two
+五¤five
+五行¤five elements
+五行石¤Five elements stone
+亲密度 +¤Intimacy +
+亲族关系不能结为道侣¤Family relationship cannot be a Taoist couple
+人数：¤Number of people:
+亿¤100 million
+什么也没获得...¤Nothing gained...
+什么都没领悟到......¤I didn't understand anything...
+仇人¤enemy
+仇恨值 +¤Hatred Value +
+仇恨减少¤Hate reduction
+仇恨增加¤Hatred Increase
+仇恨：¤Hate:
+今日你敬酒不吃吃罚酒，那就顺手取你性命吧！¤Today, if you don't eat a toast and take fine wine, then let's take your life!
+今日便让你见识一下我的手段！¤Today I will show you my methods!
+今日有眼不识泰山，还请大人不计小人过，网开一面！¤Today I don't know Mount Tai with my eyes, so please let the adults ignore the faults of the villains, and make a difference!
+今日，便来看看你有几分实力！¤Today, let's see how strong you are!
+今日，便让我來终结这场比赛吧！¤Today, let me end this game!
+仙器¤Fairy Artifact
+仙姑¤Xiangu
+仙子¤Fairy
+仙草¤Grass jelly
+以你目前的境界很难帮助到我！¤It's hard to help me with your current state!
+以我们的关系，你怕不是在痴心妄想？¤With our relationship, you are afraid that you are wishful thinking?
+件物品¤items
+件物品了¤items are gone
+任务有问题：¤There is a problem with the task:
+份¤parts
+休眠¤Sleep
+伞¤Umbrella
+传书时，¤When passing a book,
+传书时，不幸毙命于¤Unfortunately died in
+传入的值为空！请检查¤Incoming value is empty! Check, please
+传说¤Legend
+传送¤Send
+传送门打招呼¤Greeting from the portal
+伤害¤Damage
+伤害减免¤Damage Reduction
+伤害减免+¤Damage Reduction+
+伤害加深¤Amplified damage
+伤害加深+¤Damage amplified+
+伪灵根¤pseudo spirit root
+似乎多了些许¤Seems a little too much
+似乎少了些许¤Seems a little less
+低¤Low
+体质¤Constitution
+体质({0})¤Physique ({0})
+体质+¤Physical+
+体质{0}~{1}¤Physique {0}~{1}
+体质：{？}¤Physique: {？}
+你在¤You are here
+你在艰苦奋战3轮后，成功守擂，完成了升仙大会守擂考核！¤After 3 rounds of hard work, you successfully defended the ring and completed the evaluation of the Ascension to Immortal Conference!
+你已将¤You have sent
+你已胜利，¤You have won,
+你已达到¤You have reached
+你掌握了¤You got it
+你最终确定了¤You are finalized
+你的名字是 ¤Your name is
+使用¤Use
+使用中¤In use
+使用的货币不在列表中¤The currency used is not in the list
+使用的货币超出范围¤The currency used is out of range
+使用等级：¤Use class:
+使用货币成功¤Use currency successfully
+保存目录不存在¤Save directory does not exist
+保底¤Guaranteed
+修为¤Repair
+修为不足...无法祭炼法宝...¤Insufficient cultivation... unable to sacrifice magic weapon...
+修为：¤Fixed as:
+修炼¤Practice
+修炼效率¤Cultivation efficiency
+修炼特效¤Practice special effects
+修炼至¤Practice to
+修真境界共分为练气，筑基，金丹，元婴，化神，合体，<lf>大乘，渡劫8个大境界。每个境界共有九重小境界。<lf>达到瓶颈后便需要突破境界，其中第三重，第六重突破境界时尤为困难！<lf>大境界突破时，还需要度过雷劫，方可晋升！¤Cultivation realms are divided into 8 realms: Qi training, foundation building, Jindan, Yuanying, deity transformation, integration, <lf> Mahayana, and crossing the catastrophe. There are nine small realms in each realm. <lf>After reaching the bottleneck, it is necessary to break through the realm, and the third and sixth stages are especially difficult to break through the realm! <lf>When breaking through the big realm, you still need to go through the thunder disaster before you can be promoted!
+修行真意：¤The true meaning of practice:
+偷窃¤Steal
+偷袭，不幸毙命于¤Sneak attack, unfortunately died in
+偷袭，转眼之间便将¤Sneak attack, within a blink of an eye
+儿子¤Son
+元¤yuan
+元婴¤Yuanying
+兄弟¤brother
+免开尊口。¤Don't open your mouth.
+免疫¤Immunity
+全¤full
+全能吸血¤Almighty Bloodsucker
+八¤eight
+六¤six
+共¤total
+共享丹方信息¤Share recipe information
+共享仙草信息¤Share grass jelly information
+共享功法情报¤Share information about exercises
+共享极品丹药情报¤Share information about the best pills
+共享法宝情报¤Share magic weapon information
+共享灵兽情报¤Share spirit beast information
+共享玩家仇人位置情报¤Share player enemy location information
+共参大道，长生之路你我相伴。¤Participate in the avenue, you and I will accompany you on the road to longevity.
+共同将¤Together will
+关系¤Relationship
+关系：¤Relationship:
+其他类型¤Other types
+内门弟子¤Inner disciple
+内门长老¤Inner sect elder
+再赢得¤Win again
+写入文件为空：¤The write file is empty:
+冰¤ice
+冰心一片¤A piece of ice
+凝结元婴过程中将持续注入生机消耗寿元，完成度越高，获得凝婴属性越强¤In the process of condensing the Nascent Soul, it will continue to inject vitality and consume life yuan. The higher the degree of completion, the stronger the attribute of Nascent Soul Condensation will be obtained
+凡夫向道¤Ordinary people go to the Tao
+出战中：¤In battle:
+击杀了¤Killed
+刀¤knife
+刀剑无眼，宗门斗法，生死有命！¤The sword has no eyes, the sect fights, life and death are fate!
+分¤minutes
+分钟¤minute
+切磋¤Discuss
+创建心法报错，未找到对应表数据¤An error was reported when creating a mental method, and the corresponding table data was not found
+初期¤Early stage
+删除临时下载文件出错:¤Error deleting temporary download file:
+删除失败¤Delete failed
+删除成功¤Delete successfully
+别想用这点东西收买我¤Don't try to buy me with this stuff
+刷新了 ¤Refreshed
+刷新次数用完¤The refresh times are exhausted
+削弱后¤Weakened
+前世最高境界为¤The highest state in the previous life was
+前世轮回，道心已积累¤Reincarnation in previous life, Dao heart has been accumulated
+前置解锁血脉点数未达到需求...¤The pre-unlocked blood points do not meet the requirements...
+剩余寿元：¤Remaining lifespan:
+剩余寿元：0年¤Remaining lifespan: 0 years
+剩余时间：¤Remaining time:
+剩余次数：¤Remaining times:
+剪¤cut
+功法¤gongfa
+功能暂未开放！¤The function is not available yet!
+加载event:（{0}）失败,没有找到所属的SoundEvent¤Failed to load event: ({0}), could not find the associated SoundEvent
+加载报错：¤Error loading:
+加载矿洞报错：¤Error loading mine:
+包括多个图集(¤Include multiple atlases (
+化神¤Shenhua
+化神境¤Shenhua realm
+十¤ten
+千¤thousand
+千万¤ten million
+升仙大会¤Ascension Fairy Conference
+升仙大会擂台赛进行中¤Ascending Immortals Tournament is in progress
+升仙大会结束¤Ascension Fair is over
+升级错误：¤Upgrade error:
+卵¤egg
+卸下¤Remove
+参加宗门大会¤Participate in Zongmen Conference
+参加正魔斗法¤Participate in fighting magic
+参悟¤Enlightenment
+参悟需要境界：¤Enlightenment needs realm:
+参悟需要天数：¤Number of days required for enlightenment:
+参数人数已满¤The number of parameters is full
+参赛道友¤Participating friends
+及以上职位可购买¤Positions above and above can be purchased
+友好：¤Friendly:
+双修¤Shuangxiu
+双击打开装备界面¤Double click to open the equipment interface
+反伤¤anti-injury
+反伤+¤Anti-injury+
+发型¤Hairstyle
+发送飞剑传书¤Send Flying Sword
+取消¤Cancel
+受到敌人攻击，契约灵宠的材料消失了...¤Being attacked by the enemy, the material of the contract spirit pet disappeared...
+受禁制影响，无法飞行¤Affected by the ban, unable to fly
+只有真正的朋友，才可以结伴而行！¤Only true friends can go together!
+只能选定¤Can only be selected
+可以通过服用丹药来提升相应的资质属性。<lf>每种丹药最多可以服用10颗，服用高阶丹药需要满足对应的境界要求。¤You can improve the corresponding aptitude attributes by taking pills. <lf>You can take up to 10 elixirs of each kind, and you need to meet the corresponding realm requirements to take high-level elixirs.
+可使用血脉之力：¤You can use the power of blood:
+可否赠与我一些宝物，助我追寻大道！¤Can you give me some treasures to help me pursue the Dao!
+可添加¤Can be added
+可用血脉点不足...¤Insufficient blood points available...
+可能文件正在被Excel打开?¤Maybe the file is being opened by Excel?
+各个同门有什么手段尽管使出來！¤All fellow disciples can do whatever they can!
+合体¤fit
+同宗门)¤same sect)
+同年¤same year
+同步成功¤Successful synchronization
+后再来。¤Come back later.
+后更新货物¤After updating the goods
+后重生¤after rebirth
+向¤To
+向玩家飞剑传书，内容是<¤Send the book to the player Feijian, the content is<
+吸灵气¤Aura absorption
+吸纳天地灵气过程中，被¤During the process of absorbing the aura of heaven and earth, the
+吸纳次数¤Absorbing times
+吾徒，见信好：¤My apprentice, good news:
+命中¤Hit
+命中+¤Hit+
+咒骂¤curse
+品丹方¤Pindan formula
+品单方¤Product unilateral
+品质：上品¤Quality: top grade
+品质：下品¤Quality: inferior
+品质：中品¤Quality: medium grade
+品质：废丹¤Quality: Waste Pill
+品质：极品¤Quality: Best
+品金丹¤Pin Jindan
+品金丹，成功率¤Pin Jindan, success rate
+售价：¤Price:
+嗯？连续切磋没有任何意义！¤Huh? It doesn't make any sense to compete continuously!
+嘴巴¤Mouth
+四¤four
+回复¤Reply
+圈¤circle
+土¤Soil
+土伤害减免¤Earth damage reduction
+土免疫¤Earth immunity
+土属性伤害¤Earth attribute damage
+土灵根¤Earth root
+土灵根+¤Earth root+
+土脉¤Earth vein
+圣器¤Holy Artifact
+在¤In
+在灵兽升级时，有12%概率领悟新异能<lf>领悟新异能时，若没有空余异能格，则会解锁一个新异能格<lf>参悟新异能时，若没有空余异能格，则会随机顶替掉一个异能效果<lf>参悟新异能时，有9%几率解锁新异能格。¤When the spirit beast is upgraded, there is a 12% chance to comprehend a new ability. <lf>When comprehending a new ability, if there is no free ability slot, a new ability slot will be unlocked.<lf>When comprehending a new ability, If there is no vacant power grid, a power effect will be randomly replaced. <lf> When comprehending a new power, there is a 9% chance to unlock a new power grid.
+在炼制到第¤After refining to the
+在赶往¤Rushing to
+地灵根¤Dilinggen
+地级¤Earth level
+地阶上品¤Earth grade top grade
+地阶下品¤Low grade
+场就可以获得加入宗门的资格。¤You can get the qualification to join the Zongmen once.
+场通过考核¤Pass the examination
+坊市¤Fang City
+坊市功能还没完成，正在开发中¤The function of Fangshi has not been completed yet, it is under development
+基础属性百分比¤Basic attribute percentage
+塔¤Tower
+境及以下境界突破成功率提升50%¤The breakthrough success rate of realm and below realm is increased by 50%
+境界¤Boundary
+境界：¤Realm:
+增加¤Increase
+增加修为：¤Increase repair as:
+增加寿元：¤Increase longevity:
+增加方式不对¤Increase method is wrong
+增加炼丹经验¤Increase alchemy experience
+增加炼器经验¤Increase refining experience
+增加耐药度：¤Increase drug resistance:
+复仇¤Revenge
+复仇失败，不幸被杀！¤Revenge failed, unfortunately killed!
+复仇成功，将其击杀！¤Revenge succeeded, kill it!
+复仇，并伺机开始行动。¤Revenge, and wait for the opportunity to act.
+复活机关¤Resurrection Mechanism
+外孙¤grandson
+外孙女¤granddaughter
+外门弟子¤outer disciple
+外门长老¤Outer door elder
+多次淬炼可以不断提升法宝品质，本次淬炼有¤Multiple tempering can continuously improve the quality of the magic weapon.
+大¤Large
+大乘¤Mahayana
+大正¤Taisho
+大比¤big ratio
+天¤day
+天!¤God!
+天,收益颇多¤Days, a lot of income
+天,道不同不相为谋¤Heaven, Dao is different and does not seek each other
+天。<lf>凝丹成功后，将额外获得¤Days. <lf> After successfully congealing the pill, you will get an additional
+天人合一¤Heaven and man are one
+天凤血脉¤Tianfeng Bloodline
+天命点不足¤Insufficient destiny points
+天堂有路你不走，地狱无门你自来，今日我便要大开杀戒了！¤If there is a way to heaven, you don't go, and if there is no way to hell, you come here. Today I will kill you!
+天塌不惊¤The sky is falling
+天尊¤Tianzun
+天时，丹炉中的药材化为了灰烬¤At the time of day, the medicinal materials in the furnace turned to ashes
+天灵根¤Tian Lingen
+天的炼制,¤Sky refining,
+天级¤Heaven level
+天赋¤Talent
+天阶上品¤Heavenly top grade
+天阶下品¤Heaven-rank inferior
+天，是否继续？¤Heaven, continue?
+太上长老¤The Supreme Elder
+夫人¤Mistress
+夫君¤Husband
+头饰¤Headwear
+夸赞自己的好友¤Praise your friends
+契约¤Contract
+奖励：¤Reward:
+女儿¤Daughter
+女孩¤girl
+奶奶¤Grandma
+好友¤friend
+好感度：¤Favourability:
+好感度：0¤Favourability: 0
+如今我已与他人结为道侣，¤Now I have become a Taoist partner with others,
+如意¤Ruyi
+如此坚持，那此事便作罢，道友可不要怀恨在心！¤If you insist so much, then let this matter go, fellow daoists, don't hold grudges!
+妖术¤Black art
+妖王¤Demon King
+妖皇¤Demon Emperor
+姐妹¤Sister
+委托¤Entrust
+存储错误，可能存储空间不足或其他原因，请检查下！¤Storage error, maybe insufficient storage space or other reasons, please check!
+存档¤Save
+存档中¤Saving
+存档中…¤Archiving...
+存档中……¤Archiving...
+存档已更新¤Archive updated
+存档损坏：¤Save corrupted:
+存档进程>¤Archive process>
+存档进程_¤Archive process_
+孙女¤granddaughter
+孙子¤grandson
+守关Boss¤Guard Boss
+守擂成功,再赢得¤Successful defense, win again
+完成了¤Completed
+宗主¤Suzerain
+宗主！¤Suzerain!
+宗主：¤Suzerain:
+宗主：-¤Sovereign: -
+宗门大比还未开始¤Zongmen Dabi has not started yet
+宗门小比还未开始¤Zongmen Xiaobi has not started yet
+宗门已满¤Sect is full
+宗门执事¤Zongmen deacon
+宝器¤Treasure
+宝库主管¤Head of Treasure House
+宠物异能书¤Pet Ability Book
+宵小之徒，今日之事，我必铭记于心，日后定让你付出代价！¤Young boy, I will keep in mind what happened today, and I will make you pay the price in the future!
+对¤Yes
+对你的好感度¤The favorability of you
+对你的好感度+¤Good impression towards you+
+对应的event id¤corresponding event id
+导入失败！¤Import failed!
+导入存档¤Import archive
+导入成功！¤Imported successfully!
+导出失败！¤Export failed!
+导出存档¤Export archive
+导出成功！¤Export successfully!
+寿元¤Shou Yuan
+寿元上限¤Life limit
+寿元：¤Shou Yuan:
+将在¤Will be in
+小世界最大飞行速度：¤Maximum flying speed in the Small World:
+小友¤little friend
+小子¤Boy
+小时¤hour
+小比¤Xiaobi
+小贼¤Little thief
+小贼，今日尚有要是在身，姑且让你多活一些时日。¤Little thief, if you are still alive today, I will let you live a little longer.
+尝试获取一个空的资源路径！¤Trying to get an empty resource path!
+尺¤foot
+属性神通，需要消耗：¤Attribute supernatural power, need to consume:
+岁¤years old
+岁)¤years old)
+岁时,¤Aged,
+巅峰¤Peak
+巅峰境界,完成渡劫后方可继续仙途,贸然渡劫者,十死一生,在渡劫的过程中:¤Peak state, you can continue to the fairyland after completing the tribulation, those who cross the tribulation rashly, ten deaths and one life, in the process of crossing the tribulation:
+左键¤Left button
+已习得相同的功法¤Have learned the same exercises
+已产生耐药性，没有产生任何作用！¤Drug resistance has been developed, no effect!
+已使用血脉数量未达到¤The number of used blood vessels has not reached
+已售罄¤Sold out
+已完成祭炼¤Sacrifice completed
+已完成祭炼，成功提升品质！！！¤The sacrificial refining has been completed and the quality has been successfully improved! ! !
+已将本命法宝祭炼到当前层次的最高等级!¤The natal magic weapon has been refined to the highest level of the current level!
+已将本命法宝祭炼到当前层次的最高等级...¤The natal magic weapon has been refined to the highest level of the current level...
+已将本命法宝祭炼到最高等级!¤The natal magic weapon has been refined to the highest level!
+已提升¤Boosted
+已提升灵宠寿命！¤The pet's lifespan has been increased!
+已提升灵宠资质！¤The pet qualification has been improved!
+已提升血脉！¤Blood has been upgraded!
+已放生...¤Released...
+已死亡¤Dead
+已添加到最大寿元...¤Added to max lifespan...
+已满级¤Full level
+已激活¤Activated
+已濒死...¤Dearing death...
+已知晓丹方¤Already know Dan Fang
+已禁用了Steam界面，请打开Steam商店购买¤Steam interface disabled, please open Steam store to purchase
+已经为你登记成功了！<lf>挑战擂主成功，并连续完成3次守擂即可通过擂台赛考核哦！¤The registration has been successful for you! <lf> If you successfully challenge the ring master and complete 3 defenses in a row, you can pass the group arena assessment!
+已经拥有三妻四妾了，就不要拿我寻开心了！¤I already have three wives and four concubines, so don't make fun of me!
+已经是¤Already
+已经选中¤Already selected
+已解锁自动炼制！¤Automatic refining has been unlocked!
+已解锁过对应法宝，请勿重复解锁¤The corresponding treasure has been unlocked, please do not unlock it again
+已身死道消。¤The body is dead.
+已达到使用上限！¤The usage limit has been reached!
+已达到出战最大数量...¤The maximum number of battles has been reached...
+已达到待售面板最大容量¤The maximum capacity of the panel for sale has been reached
+已达到最高品质！¤The highest quality has been reached!
+已达到此阶段可投入的最大寿元...¤The maximum lifespan that can be invested at this stage has been reached...
+已进化！资质上限提升！¤Evolved! Qualification limit increased!
+已选定命格¤Fate has been selected
+已阵亡¤Dead
+已阵亡，结伴目标失败，好感度¤Dead in battle, partner target failed, favorability
+希望他能收下我的礼物！¤I hope he can accept my gift!
+常见：¤Common:
+平¤flat
+平成¤Heisei
+年¤year
+年寿元！¤Nian Shouyuan!
+年！¤year!
+幼体¤Hatchlings
+序列化错误¤Serialization error
+废丹有毒，无法使用，建议提升炼丹技巧¤The waste alchemy is poisonous and cannot be used. It is recommended to improve alchemy skills
+废品¤Scrap
+开  始¤Start
+开始¤Start
+开始冲宫¤Start rushing to palace
+开始决心向¤Start determined to
+开始凝婴¤Start baby coagulation
+开战¤Start war
+异灵根¤Different spirit root
+弓¤bow
+弟子灵体¤Disciple spirit body
+强烈谴责¤Strongly condemn
+当前不能突破¤Currently cannot break through
+当前最大值¤Current maximum value
+当前材料将炼制 ¤The current material will be refined
+当前材料将炼制<color=#26d636>¤The current material will be refined to <color=#26d636>
+当前状态不能渡劫¤Current status cannot cross the catastrophe
+当前状态不能进行此操作¤Current status cannot perform this operation
+当前资质将凝结成¤The current qualification will be condensed into
+当前选择本命法宝类型不可使用该材料作为主材！¤Currently selected natal magic weapon type cannot use this material as the main material!
+当前选择材料与准备祭炼的本命法宝等阶不符合！¤The currently selected material does not match the level of the natal magic weapon to be sacrificed!
+当前选择的本命法宝类型不可使用该材料！¤This material cannot be used for the currently selected talisman type!
+当前选择部位不可使用该材料！¤This material cannot be used in the current selected part!
+很低¤very low
+很高¤Very high
+心法¤Heart method
+心法(第¤Heart method (No.
+心法等级：¤Spirit level:
+必须放入主材...¤Must be placed in main material...
+思考¤Thinking
+怪物id错误：¤Wrong monster id:
+怪物分布表没找到id：¤Id not found in monster distribution table:
+怪物基础属性表找不到id:¤Id cannot be found in monster attribute table:
+怪物基础属性表：¤Monster basic attribute table:
+怪物模型随机范围id错误：¤Monster model random range id error:
+恍恍然有天音垂下，仿若刀剑之鸣，金锁之落，顿感褪去凡躯，飘飘然如仙人¤Suddenly, there is a sound from the sky, like the sound of a sword, the fall of a golden lock, the sudden feeling of fading away from the mortal body, floating like a fairy
+恭喜¤Congratulations
+恭贺¤Congratulations
+悟性¤Savvy
+悟性({0})¤Savvy ({0})
+悟性+¤Savvy+
+悟性{0}~{1}¤Savvy {0}~{1}
+悟性：{？}¤Savvy: {？}
+您将参悟更高品阶的¤You will comprehend higher level
+您已参悟过同类神通，替换原神通领悟需要消耗：¤You have comprehended the same kind of supernatural powers, and you need to consume to replace the original supernatural powers:
+您已达到当前版本最高境界，敬请期待后续版本！¤You have reached the highest level of the current version, please look forward to the next version!
+您的主灵根为土灵根，造成物理伤害，生存能力出众。¤Your main spiritual root is earth root, which can cause physical damage and has excellent survival ability.
+您的主灵根为木灵根，擅长法术攻击与法术防御。¤Your main spirit root is wood spirit root, good at magic attack and magic defense.
+您的主灵根为水灵根，擅长法术攻击与法术防御。¤Your main spirit root is water spirit root, good at magic attack and magic defense.
+您的主灵根为火灵根，法术攻击攻击能力尤为出众。¤Your main spirit root is fire spirit root, and the magic attack ability is particularly outstanding.
+您的主灵根为金灵根，物理攻击攻击能力尤为出众。¤Your main spirit root is gold spirit root, which has outstanding physical attack ability.
+悬赏¤Reward
+悬赏功能还没完成，正在开发中¤The bounty function has not been completed yet, it is under development
+想不到你¤Can't think of you
+感觉到自己的灵魂正在撕裂.......<lf><lf>眼前慢慢变得模糊，直到变为金色的光芒¤I feel that my soul is being torn apart....<lf><lf>The vision slowly becomes blurred until it turns into a golden light
+感谢¤Thank you
+愿和¤Wish and
+成丹数量:¤Number of Cheng Dan:
+成丹数量:未知¤Chengdan Quantity: Unknown
+成为了¤became
+成为擂主¤Become the champion
+成功加入¤Joined successfully
+我在¤I am here
+我已有心仪之人，很开心你能愿意与我结为道侣。。。希望你能理解！¤I already have someone I like, and I am very happy that you are willing to become a Taoist partner with me. . . Hope you can understand!
+我的俸禄：¤My salary:
+我的其他道侣¤My other companions
+我的职位：¤My job title:
+我的贡献：-¤My contribution:-
+我需要你的帮助！¤I need your help!
+戒指¤Ring
+战斗¤Battle
+战斗中禁止打坐¤It is forbidden to meditate during the battle
+战斗时，不幸陨落！¤Unfortunately fell during the battle!
+战斗时，肉身化为了齑粉，重塑肉身整整消耗了¤During the battle, the body is turned into powder, and the reshaping of the body consumes a whole
+戟¤halberd
+扇¤Fan
+打坐¤Meditate
+打坐时间不能小于1天¤The meditation time cannot be less than 1 day
+打坐调息过程中，受到¤During the process of meditation and breath adjustment, the
+执事¤Steward
+执行耗费时间: {0}s¤Execution time spent: {0}s
+扶桑血脉¤Fuso blood
+找不到¤Can't find
+找不到UIState: {0}¤Cannot find UIState: {0}
+找不到名为{0}的方法¤Cannot find method named {0}
+技能不存在:¤Skill does not exist:
+技能模板配置错误：¤Skill template configuration error:
+技能还在冷却中¤Skill is still cooling down
+技能释放条件不满足¤The skill release condition is not met
+投入失败，材料不足一整份...¤Input failed, the material is less than a whole...
+抗暴¤Riot
+抗暴+¤Anti-riot+
+护宗大阵：-¤Sect Protector Array:-
+报名¤Sign up
+报名：¤Registration:
+抵御剩余¤Resist remaining
+拒绝¤Refused
+指责¤blame
+挑战¤Challenge
+挑战宗主¤Challenge the Sovereign
+挑战宗主成功，晋升为¤Challenge suzerain successful, promoted to
+挑战成功,再赢得¤Challenge is successful, win again
+挑战擂主¤Challenge the master
+损失寿元：¤Loss of lifespan:
+捷足先登，在驱离过程中不幸失败，结下仇怨。¤Get ahead, unfortunately fail in the process of expulsion, and forge a grudge.
+捷足先登，在驱离过程中将¤Get ahead, will
+捷足先登，无奈离开！¤I got there first, but I have no choice but to leave!
+掌下。¤Palm.
+接受¤Accept
+提交¤Submit
+提升体质可以极大的提升气血成长，同时增加物理防御，法术防御成长；¤Promoting physical fitness can greatly improve the growth of vitality and blood, and at the same time increase the growth of physical defense and magic defense;
+提升悟性可以极大的提升法术攻击成长，同时增加法术防御成长；¤Improving understanding can greatly increase the growth of magic attack, and at the same time increase the growth of magic defense;
+提升根骨可以极大的提升物理攻击成长，同时增加物理防御成长；¤Upgrading the root bone can greatly increase the growth of physical attack and increase the growth of physical defense at the same time;
+提升灵宠境界时，可以觉醒血脉之力，定向提升灵宠各项能力。¤When you improve the spirit pet state, you can awaken the power of blood and improve the abilities of the spirit pet.
+搜寻¤Search
+撤退失败！¤Retreat failed!
+撤退成功！¤Successful withdrawal!
+擂主¤Leader
+攻击¤Attack
+攻击+¤Attack+
+攻击距离¤Attack distance
+攻击距离+¤Attack distance+
+攻击速度¤Attack speed
+攻击速度+¤Attack Speed+
+攻击，一番鏖战后不幸落败！¤Attack, unfortunately lost after a fierce battle!
+攻击，一番鏖战后获得了胜利！¤Attack, won after a fierce battle!
+放其离开¤Let it go
+放弃¤Give up
+放生灵宠需取消跟随...¤You need to cancel the follow...
+散修¤Casual repair
+敬请期待¤Stay tuned
+敬酒不吃吃罚酒，今日我就送你一程！¤If you don't want to drink a toast, I will give you a ride today!
+敲击次数¤Number of taps
+文件{0} 不存在！¤The file {0} does not exist!
+文件夹错误,导入失败！¤Folder error, import failed!
+斗剑主管（执事）¤Duel Supervisor (Steward)
+斗剑主管（真传弟子）¤Duel Supervisor (True Disciple)
+斗剑主管（长老）¤Duel Supervisor (Elder)
+斩妖除魔¤Slay demons and eliminate demons
+斩妖除魔过程中，遭遇¤In the process of slaying demons and demons, encounter
+新追加¤Add new
+方可进入¤Only then can you enter
+旗¤flag
+无品阶¤No grade
+无法识别一个空的资源路径！¤Can't recognize an empty resource path!
+无耻小儿，再敢无言乱语，定叫你知道什么是魂飞魄散！¤Shameless child, no matter how dare to talk nonsense, you will know what it means to be lost!
+无耻小贼，今日就势将你斩与剑下，看招！¤Shameless little thief, I will cut you under the sword today, watch the trick!
+无需多言，我陪你便是！只是我只有¤No need to say more, I will accompany you! just me only
+无需多言，有什么需要的宝贝拿去便是。¤No need to say much, just take whatever you need.
+既然¤Since
+日¤Day
+时¤hour
+明¤Ming
+明治¤Meiji
+昭¤Zhao
+昭和¤Showa
+時¤hour
+普攻¤General attack
+普攻吸血¤Basic attack sucks blood
+普攻吸血+¤Basic attack blood sucking+
+普通¤Normal
+暂不声张¤Stay silent
+暂停冲宫¤Pause rushing palace
+暂停凝婴¤Pause Ningying
+暂无加成...¤No bonus for now...
+暂未获得道心    ¤Have not obtained Dao Xin yet    
+暴击¤Crit strike
+暴击+¤Crit +
+暴击伤害减免¤Crit Damage Reduction
+暴击伤害减免+¤Crit Damage Reduction+
+暴击伤害加深¤Crit damage amplified
+暴击伤害加深+¤Crit damage amplified+
+替换¤Replace
+最后登录:¤Last login:
+月¤month
+有相生灵根¤Spiritual Root
+服用¤take
+服用庚金丹，乙木丹，葵水丹，离火丹，戊土丹可以分别提升先天金灵根，木灵根，水灵根，火灵根与土灵根。<lf>能成功凝结九品金丹者往往都将先天灵根培养到极限状态。¤Taking Geng Jin Dan, Yi Mu Dan, Kui Shui Dan, Li Huo Dan, and Wu Tu Dan can enhance the innate Golden Spirit Root, Wood Spirit Root, Water Spirit Root, Fire Spirit Root and Earth Spirit Root respectively. <lf>Those who can successfully condense the ninth-grade golden elixir usually cultivate their innate spiritual roots to the limit state.
+服用该丹药需要达到：¤To take this pill, you need to achieve:
+服用锻体丹可以增加先天体质，往往只有服用极品锻体丹方可将体质培养到极限！<lf>服用龙虎丹可以增加先天体质，往往只有服用极品龙虎丹方可将根骨培养到极限！<lf>服用启灵丹可以增加先天体质，往往只有服用极品启灵丹方可将悟性培养到极限！¤Taking Exercise Pill can increase the innate physique, and often only taking the best Exercise Pill can cultivate the physique to the limit! <lf>Taking Dragon and Tiger Pill can increase the innate physique, often only by taking the top grade Dragon and Tiger Pill can the root bones be cultivated to the limit! <lf>Taking Qiling Pill can increase the innate physique, often only taking the best Qiling Pill can cultivate the understanding to the limit!
+服装¤clothing
+木¤Wood
+木伤害减免¤Wood damage reduction
+木免疫¤Wood Immune
+木属性伤害¤Wood attribute damage
+木灵根¤Spirit root
+木灵根+¤Wood spirit root+
+木脉¤Wood Vein
+未创建本命法宝¤No talisman created
+未加入此宗门...¤Not joined this sect...
+未找到¤Not found
+未找到name:¤Name not found:
+未找到可升职的职位¤No promotional position found
+未找到合适的地块放置...请到较平整的地形重试¤Could not find a suitable plot to place... Please try again on a flatter terrain
+未持有加入宗门的必要道具：介绍信¤I don't have the necessary props to join the sect: letter of introduction
+未持有更多的降尘丹...¤Didn't hold any more Dustfall Pills...
+未持有能使用的丹药...¤There is no potion that can be used...
+未知¤Unknown
+未知的锚点类型¤Unknown anchor type
+未解锁¤unlocked
+本命主材¤Natal main material
+本命法宝你也想偷，怕不是想法宝想疯了？¤You also want to steal the talisman, maybe you are crazy about thinking treasure?
+本命法宝你也想要，怕不是想法宝想疯了？¤You also want the talisman, maybe the thought treasure is crazy?
+本命法宝最低品质不能再祭出¤The minimum quality of the talisman can no longer be sacrificed
+本次进化需要灵兽的血脉本源之力至少达到¤This evolution requires at least
+杀怪任务坐标：¤Monster killing task coordinates:
+杂灵根¤Miscellaneous spirit root
+杂物¤Debris
+材料不足...¤Insufficient materials...
+杖¤rod
+条附加属性。¤Additional attributes.
+极¤pole
+极品¤exquisite
+枪¤Gun
+查看混沌虚空地图¤View Chaos Void Map
+根骨¤root bone
+根骨({0})¤Root bone ({0})
+根骨+¤Root bone+
+根骨{0}~{1}¤Root bone {0}~{1}
+根骨：{？}¤Root bone: {？}
+模型找不到：¤Model not found:
+模型身高错误：¤The height of the model is wrong:
+次/秒¤times/second
+次数不足¤Not enough times
+次数用完了¤The number of times has run out
+次间隔¤Time interval
+次，剩余天命点：¤times, remaining destiny points:
+正在¤Ongoing
+正在加载NPC……¤Loading NPC...
+正在加载丹方……¤Loading recipe...
+正在加载功法……¤Loading exercises...
+正在加载场景资源……¤Loading scene assets...
+正在战斗中¤In battle
+正在战斗中！¤In battle!
+正在施法中¤Casting spell
+正在炼制本命法宝...¤Refining natal magic weapon...
+正在跟随玩家¤Following player
+正常¤Normal
+正魔斗剑报名开启的3年后正式开始¤Three years after the opening of the registration for Zhengmao Sword Fighting, it will officially start
+正魔斗剑还未开始...¤Righteous and Demonic Duel has not started yet...
+正（¤Positive (
+此宝对我非常重要，还请¤This treasure is very important to me, please return
+此宝我甚是看重，今日变忍痛割爱了，¤I value this treasure very much, and today I am reluctant to part with it.
+此本命法宝已祭炼到最高等级...¤This talisman has been sacrificed to the highest level...
+此血脉效果已增加至上限...¤This bloodline effect has been increased to the upper limit...
+此行过于凶险，¤This trip is too dangerous,
+死了:（行为：老死(最大寿元：¤Dead: (Behavior: old and dead (maximum lifespan:
+死亡（行为：¤Death (action:
+死亡：¤Death:
+死在¤Dead in
+母亲¤Mother
+每点灵根可以提升对应系功法伤害0.5%！¤Each point of spiritual root can increase the damage of the corresponding system by 0.5%!
+毒¤Poison
+毙于掌下。¤Death by the hands.
+气血¤Qi and blood
+气血+¤Qi and blood+
+气血上限¤The upper limit of life and blood
+气血不足...无法祭炼法宝...¤Insufficient qi and blood...unable to sacrifice magic weapon...
+气血不足...无法自毁法宝¤Insufficient qi and blood...Can't self-destruct magic weapon
+气血恢复¤Qi and blood recovery
+气血恢复+¤Qi and blood recovery+
+气血成长¤Vitality and blood growth
+气血成长值¤Vigor and blood growth value
+气血状态已恢复至最佳¤Qi and blood status has been restored to the best
+水¤water
+水伤害减免¤Water damage reduction
+水免疫¤Water immunity
+水属性伤害¤Water attribute damage
+水灵根¤Shui Linggen
+水灵根+¤Shuiling root+
+水脉¤Water pulse
+没有{0}对应的池子¤There is no pool corresponding to {0}
+没有可以飞剑传书的对象...¤There is no one who can pass the book with flying sword...
+没有名字： <{0}> 对应的event id.¤No name: <{0}> corresponds to event id.
+没有找到¤Not found
+没有找到对应的小地图信息¤No corresponding minimap information found
+没有查探到任何怪物¤No monster detected
+没有选择物品¤No item selected
+没有配置列表预制件¤No configuration list prefab
+没有随机到,随机数为¤Not random, the random number is
+没有随机到装备图片¤No random equipment picture
+没随机到道体词条¤Didn't find the dao body entry randomly
+治疗机关¤Healing institution
+法器¤Musical instrument
+法履¤Faxie
+法攻成长¤Spell attack growth
+法术 辅助¤Spell Assist
+法术 输出¤Spell output
+法术 防御¤Spell defense
+法术攻击¤Spell attack
+法术攻击+¤Spell Attack+
+法术攻击成长值¤Spell attack growth value
+法术攻击百分比¤Magic attack percentage
+法术防御¤Spell Defense
+法术防御+¤Spell Defense+
+法术防御成长值¤Spell defense growth value
+法术防御百分比¤Spell defense percentage
+法身¤Law body
+法防成长¤Spell Defense Growth
+波¤wave
+波雷劫后，即可完成渡劫<lf><lf>下一波五行雷劫还有¤After the Bolei Calamity, you can complete the Crossing Calamity<lf><lf>The next wave of the Five Elements Thunder Tribulation is still there
+波雷劫后，即可完成渡劫<lf><lf>下一波混沌雷劫还有¤After the Bolei Tribulation, you can complete the Crossing Tribulation<lf><lf>The next wave of Chaos Thunder Tribulation is still there
+波雷劫后，即可完成渡劫<lf><lf>下一波紫霄雷劫还有¤After the Bolei Tribulation, you can complete the Crossing Tribulation<lf><lf>The next wave of Zixiao Thunder Tribulation is still there
+混沌¤Chaos
+混沌虚空¤Chaos Void
+混沌虚空最大飞行速度：¤Maximum flying speed in Chaotic Void:
+渡劫¤Cross robbery
+温度过低¤The temperature is too low
+温度过高¤The temperature is too high
+演武台主管¤Director of Yanwu Stage
+激活¤Activate
+火¤Fire
+火伤害减免¤Fire damage reduction
+火免疫¤Fire Immune
+火属性伤害¤Fire attribute damage
+火灵根¤Fire root
+火灵根+¤Fire root+
+火脉¤Fire pulse
+灯¤Light
+灵兽¤spirit beast
+灵兽血脉之力会对灵兽的基础属性进行百分比增加。初始值为80%。<lf>每增加1%血脉之力，会增加2.2%基础属性，最高增加到3倍属性。¤The power of the spirit beast's blood will increase the percentage of the basic attribute of the spirit beast. The initial value is 80%. <lf>For every 1% increase in blood power, the basic attribute will be increased by 2.2%, up to 3 times the attribute.
+灵兽进化后等阶无法超过您的境界...¤After the spirit beast evolves, its level cannot exceed your level...
+灵兽需要花费¤Spiritual beasts need to spend
+灵器¤Spiritual weapon
+灵宝¤Lingbao
+灵宠升级领悟了新技能！¤The spiritual pet has been upgraded and learned new skills!
+灵宠已拥有此异能...¤The soul pet already has this ability...
+灵宠已濒死...¤The pet is dying...
+灵根不够¤Spirit root is not enough
+灵根不足¤Insufficient spiritual root
+灵根选择只能选取一个！¤You can only choose one spiritual root!
+灵根需要重新排序¤Spirit roots need to be reordered
+灵植¤Lingzhi
+灵气¤Aura
+灵气枯竭，灵气集赞10天 才能修炼一天¤The aura is exhausted, and it takes 10 days to collect praises for the aura to practice for one day
+灵石¤Lingshi
+灵石/年¤Lingshi/Year
+灵石不够，购买失败¤Not enough spirit stones, purchase failed
+灵石不足¤Insufficient spirit stones
+炉¤Furnace
+炉内温度:¤Inner Furnace temperature:
+炉火温度:¤Furnace temperature:
+炉火温度:未知¤Furnace temperature: Unknown
+点¤point
+点)    ¤points)    
+点...¤Point...
+点修为¤Cultivation Points
+点击祭出该法宝可抵挡¤Click to sacrifice the magic weapon to resist
+点天劫伤害，祭出后，本命法宝将降低一阶品质！¤Point of Heavenly Tribulation damage, after being sacrificed, the quality of the natal magic weapon will be reduced by one level!
+点天劫伤害，祭出后，法宝将损坏！¤Point of Heavenly Tribulation damage, after sacrifice, the magic weapon will be damaged!
+点血脉值！¤Point blood value!
+点道心！¤A little heart!
+点，处于¤Point at
+炼丹炉¤Alchemy Furnace
+炼制¤Refining
+炼制{0}类<color=#FF0000>{1}</color>系本命法宝，需要添加{2}类型高于{3}阶{4}属性的辅材¤Refining {0} class <color=#FF0000>{1}</color> is a natal magic weapon, need to add {2} type higher than {3} order {4} auxiliary materials
+炼制{0}类<color=#FF0000>{1}</color>系本命法宝，需要添加高于{2}阶{3}属性的辅材¤Refining {0} class <color=#FF0000>{1}</color> is a natal magic weapon, need to add auxiliary materials with attributes higher than {2} and {3}
+炼制时间:¤Refining time:
+炼制时间:未知¤Refining time: unknown
+炼制本命法宝必须先放入主材...¤The main material must be put into the refining talisman...
+炼制本命法宝必须放满辅材...¤Refining natal magic weapon must be filled with auxiliary materials...
+炼器¤Refinery
+炼器创建装备找不到主属性值<lf>randomEquipLevele:¤Refiner created equipment could not find main attribute value <lf>randomEquipLevele:
+炼器图纸¤Refinery Blueprint
+炼器炉¤Smelting Furnace
+炼器鼎¤Refining tripod
+炼妖¤refining demon
+烟水寒工作室，祝大家新年快乐，阖家欢乐！（宗门宝库宝物已刷新）¤Yan Shuihan studio, I wish you a happy new year and a happy family! (The treasures in the Zongmen treasure house have been refreshed)
+爪¤claw
+父亲¤Father
+爷爷¤Grandpa
+物品不对！¤The item is wrong!
+物攻成长¤Physical attack growth
+物理 辅助¤Physical assistance
+物理 输出¤Physical output
+物理 防御¤Physical defense
+物理攻击¤Physical attack
+物理攻击+¤Physical attack+
+物理攻击成长值¤Physical attack growth value
+物理攻击百分比¤Physical attack percentage
+物理防御¤Physical Defense
+物理防御+¤Physical Defense+
+物理防御成长值¤Physical defense growth value
+物理防御百分比¤Physical defense percentage
+物防成长¤Material defense growth
+特性1：坚固（防御增加30%）<lf>¤Characteristic 1: Strong (Defense increased by 30%)<lf>
+特性1：坚韧（受到的伤害减少50%）<lf>¤Characteristic 1: Tenacity (Damage received is reduced by 50%)<lf>
+特性1：寒冰（每5秒有20%几率使敌人冰冻1秒）<lf>¤Characteristic 1: Ice (every 5 seconds has a 20% chance to freeze the enemy for 1 second)<lf>
+特性1：爆裂（30%攻击增加）<lf>¤Characteristic 1: Burst (30% attack increase)<lf>
+特性1：破甲（无视30%防御）<lf>¤Characteristic 1: Armor Break (ignoring 30% defense)<lf>
+特性2：净化（每5秒清除一次负面状态）<lf>¤Feature 2: Purify (clear negative status every 5 seconds) <lf>
+特性2：多重（灵技有30%概率造成3次伤害）<lf>¤Characteristic 2: Multiple (spiritual skills have a 30% probability of causing damage 3 times)<lf>
+特性2：灼烧（敌方每3秒受到50%法攻的灼烧伤害）<lf>¤Characteristic 2: Burning (the enemy receives 50% magic attack burning damage every 3 seconds)<lf>
+特性2：缓速（减慢30%移动速度）<lf>¤Feature 2: Slow (30% slower movement speed)<lf>
+特性2：金身（20%概率免伤）<lf>¤Characteristic 2: Golden Body (20% chance to avoid damage)<lf>
+特性3：反震（100%反伤）<lf>¤Feature 3: Anti-shock (100% anti-injury)<lf>
+特性3：禁锢（每3秒敌方有35%概率被缠绕1.5秒）<lf>¤Characteristic 3: Imprisonment (every 3 seconds, the enemy has a 35% probability of being entangled for 1.5 seconds)<lf>
+特性3：自愈（每10秒回复10%气血）<lf>¤Characteristic 3: Self-healing (recover 10% blood every 10 seconds)<lf>
+特性3：致命（增加30%暴击）<lf>¤Characteristic 3: Fatal (30% crit increase)<lf>
+特性3：蔓延（30%伤害加深）<lf>¤Feature 3: Spread (30% damage boost)<lf>
+状态已恢复至最佳¤The status has been restored to the best
+犹如受到了巨大的引力一般，疯狂的涌入窍穴.....<lf><lf>无比剧烈的疼痛如凌迟处死一般.....<lf><lf>¤It seems to be subjected to a huge gravitational force, and it rushes into the acupuncture point crazily.....<lf><lf>The extremely severe pain is like being put to death...<lf><lf>
+玄元易经散犹如受到了巨大的引力一般，疯狂的涌入窍穴.....<lf><lf>无比剧烈的疼痛如凌迟处死一般.....<lf><lf>¤Xuan Yuan Yi Jing San seems to be subjected to a huge gravitational force, and it rushes into the acupuncture point crazily...<lf><lf>The extremely severe pain is like being put to death...<lf><lf >
+玄武血脉¤Basalt blood
+玄级¤Mystic level
+玄阶上品¤Mysterious top grade
+玄阶下品¤Mysterious low grade
+玉石¤Jade
+玩家主动交互:¤Player active interaction:
+现在不方便¤It's not convenient now
+玺¤Xi
+珍奇：¤Rare:
+珍宝阁主管¤Director of Treasure Pavilion
+琴¤Qin
+生命回复¤Life recovery
+生成变异灵根:¤Generation of mutant spirit root:
+生死斗剑¤Life-and-Death Duel
+生物管理器初始化完成¤Biology manager initialization completed
+由于材料等阶缺失导致炼器失败...¤Refiner failed due to lack of material equivalence...
+男孩¤Boy
+百¤hundred
+百万¤million
+百分比¤Percent
+的  ¤of  
+的主药¤The main medicine of
+的基础配方¤The basic formula of
+的天地灵气吸纳，修为获得了长足的增长！¤Absorbing the aura of heaven and earth, the cultivation base has been greatly improved!
+的打坐调息，气血恢复到了最佳状态。¤After meditating and adjusting breath, Qi and blood returned to the best state.
+的斩妖除魔目标，获得了心仪的宝物！¤The goal of slaying demons and demons has obtained the treasure you want!
+的来信¤Letter from
+的空闲时间。¤Free time.
+的胜利！¤Victory!
+的药引¤'s drug guide
+的袭击，与¤The attack, with
+的袭击，将¤The attack will
+的袭击，短暂的调整过后，很快将其轰杀！¤The attack, after a brief adjustment, will kill it soon!
+的袭击，被¤'s attack, was
+的话还在耳边萦绕，容在下消化消化。¤The words are still lingering in my ears, let me digest and digest them.
+的辅药¤of auxiliary drugs
+的配置¤configuration
+的馈赠¤'s gift
+皮毛¤fur
+盗窃¤Theft
+相关页面配置!¤Related page configuration!
+相等¤equal
+相约结为了道侣¤Meet and become a Taoist couple
+眉毛¤eyebrows
+真人¤real person
+真传弟子¤True disciple
+真君¤Zhenjun
+真龙血脉¤True dragon blood
+眼睛¤Eyes
+矿石¤Ore
+破境¤Breakthrough
+破碎虚空¤Shatter the Void
+确切份数为¤The exact number of copies is
+确定¤OK
+确定要堕入轮回，进入下一世的修行吗？<lf><lf>重生后，你将开启新的仙途！¤Are you sure you want to fall into reincarnation and enter the practice of the next life? <lf><lf>After rebirth, you will start a new fairy road!
+神器¤Artifact
+神识查看¤God view
+神话¤Myth
+神通¤Supernatural power
+神通，参悟后将替代低阶神通，需要消耗：¤Supernatural power, after comprehension, it will replace low-level supernatural power, which needs to be consumed:
+祭炼¤Sacrificial Refining
+祭炼材料类型错误：{0}  RewardType：{1}¤Wrong type of refining material: {0} RewardType: {1}
+禅¤Zen
+离开¤leave
+种子¤Seed
+秒¤seconds
+秒后，如不挑战宗主，比赛将结束¤Seconds left, if you don't challenge the Sect Leader, the competition will end
+秒后，如无人继续挑战，擂主将获得外门长老斗剑的胜利！¤Seconds left, if no one continues to challenge, the current champion will win the Outer Sect Elder Duel!
+秒后，如无人继续挑战，擂主将获得宗门¤Seconds left, if no one continues to challenge, the current champion will win the Sect
+秒后，如无人继续挑战，擂主将获得真传弟子斗剑的胜利！¤Seconds left, if no one continues to challenge, the current champion will win the True Disciple Duel!
+秒后，如无人继续挑战，擂主将获得长老斗剑的胜利！¤Seconds left, if no one continues to challenge, the current champion will win the Elder Duel!
+秒降临¤seconds come
+秘宝阁主管¤Secret Treasure Pavilion Supervisor
+移动速度¤Movement speed
+移动速度+¤Movement speed+
+稀有¤Rare
+突然攻击我，转眼之间便将¤Suddenly attack me, in a blink of an eye
+突破¤Breakthrough
+突破失败...¤Breakthrough failed...
+突破失败了¤Breakthrough failed
+突破失败！身负重伤，寿元减少¤Breakthrough failed! Seriously injured, lifespan reduced
+突破成功了¤The breakthrough is successful
+突破成功！¤Successful breakthrough!
+突破成功！！！¤Successful breakthrough! ! !
+突破时，被¤When breaking through, it is
+突破来源：¤Breakthrough source:
+窃取失败！¤The stealing failed!
+窃取成功！¤Successful stealing!
+竹¤Bamboo
+笔¤pen
+笛¤Flute
+符咒¤Spell
+第¤No.
+第一世¤The first generation
+等级不够¤The level is not enough
+等级不足...¤Insufficient level...
+等级：¤Level:
+筑基¤Build foundation
+筑基境可以驾驭第二个灵宠，金丹境可以驾驭第三个灵宠，元婴境可以驾驭第四个灵宠，化神境可以驾驭第五个灵宠¤The second spirit pet can be controlled in the foundation building state, the third spirit pet can be controlled in the Jindan state, the fourth spirit pet can be controlled in the Yuanying state, and the fifth spirit pet can be controlled in the transformation state
+答案id找不到：¤Answer id not found:
+箱子¤box
+米/秒¤Meters per second
+精英¤Elite
+索取¤Request
+紫霄¤Zixiao
+红尘练心¤The world of mortals trains the mind
+练气¤Practice Qi
+组队¤Team formation
+组队人数已满¤The team is full
+经历id为空：¤Experience id is empty:
+经历id年龄为空：¤Experience id age is empty:
+经脉点数不足¤Insufficient meridian points
+经脉词条技能加成错误：¤The skill bonus of meridian entry is wrong:
+经过¤passed
+经过权衡¤Balanced
+结为道侣¤Become a Taoist companion
+结伴游历与妖兽战斗中身负重伤！¤Seriously injured while traveling together and fighting monsters!
+结伴游历与妖兽战斗时，见势不妙，撤出了战场！¤While traveling together and fighting monsters, seeing the situation is not good, we withdrew from the battlefield!
+结伴游历了¤Travel together
+结伴游历时不欢而散。¤The companions broke up when traveling together.
+结束冲宫¤End of rushing palace
+结束凝婴¤End Ningying
+给予¤give
+继续感悟(¤Continue to comprehend (
+绫¤Aya
+缓存文件: {0}, 最后修改时间: {1}¤Cache file: {0}, last modified time: {1}
+缓存文件未过期 {0}，跳过下载¤Cache file is not expired {0}, skip download
+编辑器下不处理退出游戏¤The editor does not handle exiting the game
+缺少Shader：{0}  ， 检查Graphics Settings的预置shader¤Missing Shader: {0}, check the preset shader in Graphics Settings
+缺少炼制材料...¤Lack of refining materials...
+罕有：¤Rare:
+罕见¤Rare
+老祖¤Old ancestor
+耐药度¤Drug resistance
+耐药度0%¤Drug resistance 0%
+耐药度:¤Drug Resistance:
+耐药度:0%¤Drug resistance: 0%
+耐药度:?%¤Drug resistance:?%
+耐药度：¤Drug resistance:
+职位过高...¤Position too high...
+聚仙¤Juxian
+聚仙元年¤The first year of Juxian
+肉身击碎，结下仇怨。¤The body is crushed and enmity is formed.
+肤色¤Skin color
+背包中所需丹药不足...¤There are not enough pills in the backpack...
+脸型¤face shape
+脸妆¤face makeup
+腕部¤Wrist
+腰带¤Belt
+腰饰¤Waist ornament
+自动炼丹¤Auto alchemy
+自定义¤Custom
+至宝¤Treasure
+芸芸众生，轮回百世，苦心正道，只为求得长生。<lf>只有在最短时间内尽可能提升境界，方才是长生之道。¤All living beings, reincarnated for hundreds of generations, painstakingly pursue the righteous way, only to seek longevity. <lf>Only by improving the state as much as possible in the shortest time is the way to longevity.
+若是能早些出现，该有多好！¤It would be great if it could appear earlier!
+药引¤Medicine introduction
+药引:¤Medicine lead:
+药引:未知¤Medicine Citation: Unknown
+药引似乎放错了,没有激发药性¤The medicine primer seems to be misplaced, and the medicine has not been stimulated
+药引数量¤Number of Medicine Citations
+药引数量:¤Number of Medicine Citations:
+药引数量:未知¤Number of medicine quotes: unknown
+获得¤Get
+获得修为：¤Obtained as:
+获得外门长老斗剑的胜利！¤Won the victory in the sword fight with the elders of the Outer Sect!
+获得本次宗门大比的胜利，晋升为真传弟子！¤Won the victory of this Zongmen Grand Competition, promoted to True Disciple!
+获得本次宗门小比的胜利，晋升为内门弟子！¤Won the victory of this Zongmen competition, promoted to inner disciple!
+获得真传弟子斗剑的胜利，晋升为长老！¤Won the victory of the true disciple sword fight, promoted to elder!
+获得长老斗剑的胜利，晋升为外门长老！¤Win the elders' sword fight and be promoted to the elder of the outer sect!
+虚空¤Void
+蛋¤egg
+蝼蚁¤Ants
+血脉道具¤Blood props
+血量百分比¤HP percentage
+衣服¤clothes
+表格json报错:¤Form json report error:
+表达思恋¤Express love
+被¤By
+被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为洪荒宇宙中的一团灰灰。。。¤I was killed by you, my lifespan is exhausted, and the last trace of vitality has been exhausted, and it will eventually turn into a mass of ashes in the prehistoric universe. . .
+被动技能不能主动释放¤Passive skills cannot be released actively
+袭击，不幸失败，肉身化为了齑粉！¤The attack failed unfortunately, and the body turned into powder!
+装备品质没随机到¤Equipment quality is not randomized
+要解压到的目录不存在！¤The directory to extract to does not exist!
+要解压的文件不存在。¤The file to extract does not exist.
+要释放Arial字体！！错啦！！builtinextra:{0}¤Release Arial font! ! Wrong! ! builtinextra: {0}
+见信好：¤Please see letter:
+见势不妙，撤出了战场！¤Seeing that the situation is not good, we withdrew from the battlefield!
+解压错误:¤Decompression error:
+解锁¤Unlock
+触发了飞行禁制¤Fly ban triggered
+论道¤On Taoism
+论道了¤Discussed
+论道了,收益颇多¤Discussion, a lot of benefits
+论道了,道不同不相为谋¤Discuss the Tao, different Taos do not seek each other
+论道时，¤When discussing Taoism,
+论道时，不幸毙命于¤Unfortunately died in
+证道加成<lf>¤Proof bonus<lf>
+诋毁对方的好友¤Slander each other's friends
+诋毁自己的仇人¤Slander your enemies
+词条类型不存在¤Entry type does not exist
+该丹药不可直接服用¤This elixir cannot be taken directly
+该死的¤Damn it
+请先卸下功法¤Please remove the exercises first
+请先卸下心法¤Please let go of the mind first
+请加入降尘丹后，再尝试结丹！¤Please join Jiangchen Pill, and then try to form Pill!
+请找对应的主管报名...¤Please register with the corresponding supervisor...
+请投入祭炼的材料...¤Please put in the materials for the sacrifice...
+请输入1到4个字...¤Please enter 1 to 4 characters...
+请输入角色名字！¤Please enter the character name!
+请选择一个丹药¤Please choose a potion
+请选择一个模式¤Please select a mode
+请选择异能书...¤Please select the ability book...
+请选择正确模型¤Please select the correct model
+请选择要使用的丹药...¤Please select the potion to use...
+贡献点¤Contribution Points
+资质¤Qualification
+赛点已出现，¤The match point has appeared,
+赠予¤gift
+赶往¤Rush to
+赶往已探知的灵气，结果却被¤Rush to the detected aura, but the result is
+超高¤Super high
+路径¤Path
+踢出队伍¤Kicked out of team
+身死道消¤The body dies and the way disappears
+身法¤Agility
+轮¤wheel
+辅药¤Adjuvant
+辅药:¤Adjuvant:
+辅药:未知¤Adjuvant: Unknown
+辅药数量¤Adjuvant quantity
+辅药数量:¤Adjuvant Quantity:
+辅药数量:未知¤Adjuvant Quantity: Unknown
+达到¤Achieved
+近期已经挑战过了，请过¤I have challenged recently, please pass
+返回¤Return
+还是不要过于冒进！¤Don't be too aggressive!
+还未完全解锁丹方...¤Dan Fang has not been fully unlocked...
+还未放入炼器材料...¤The refining material has not been put in yet...
+还未激活经脉点¤The meridians have not been activated yet
+还未获得俸禄...¤Have not received salary yet...
+还未解锁前置血脉...¤The front bloodline has not been unlocked yet...
+还需好好珍惜！¤Take good care of it!
+进行了仙法切磋，侥幸获得了胜利！¤I conducted a fairy art competition, and I was lucky enough to win!
+进行了仙法切磋，技低一筹，不幸落败！¤I conducted a fairy art competition, but my skills were inferior, unfortunately I lost!
+进行了双修时，遭受到¤During double repair, suffered
+进行了双修，双方收获颇丰。¤Double cultivation has been carried out, and both parties have gained a lot.
+进行修炼{0}天后，寿元将消耗殆尽。<lf><lf>是否继续？（请谨慎操作）¤After practicing for {0} days, the lifespan will be exhausted. <lf><lf>Continue? (Please operate with caution)
+连续双修对心神消耗极大，不宜过于频繁，还是再等等吧！¤Consecutive double repair consumes a lot of mind and mind, so it should not be too frequent, let's wait!
+追回失物¤Recover lost property
+逃跑¤Escape
+选择隐蔽位置进行了持续¤Choose a hidden location to continue
+途中，遭受到¤On the way, encountered
+造化¤Fortune
+道侣¤Tao companion
+道侣关系解除¤Tao couple relationship is terminated
+道侣的¤Taoist's
+道侣：¤Tao Companion:
+道兄¤Dao brother
+道兄，你我约定时间已过，今日就先行告辞了！¤Brother Dao, the time agreed between you and me has passed, so I will bid farewell today!
+道具id不对：¤Incorrect item id:
+道具id有问题：¤There is a problem with the item id:
+道友¤Daoist
+道友还未加入宗门¤Daoyou have not joined the sect yet
+道友，小心了！¤Daoist, be careful!
+道君¤Daojun
+道器¤Tao device
+道尊¤Taoist
+道心¤Dao Xin
+道心会随着轮回转世不断增强，达到一定程度，可以增加突破成功几率！¤The Dao heart will continue to strengthen with the reincarnation, reaching a certain level, which can increase the chance of a successful breakthrough!
+道心初成¤Beginning of Dao Heart
+道心无二¤Dao Xin Wudu
+道长¤Taoist
+遗忘¤Forget
+遗骸¤Remains
+遭受到你的攻击，已退出你的队伍¤I have been attacked by you and have left your team
+部位配置错误：¤Part configuration error:
+采集¤collection
+释放技能不满足：¤Release skills are not satisfied:
+重)¤heavy)
+重复播放BGM,id == ¤Play BGM repeatedly, id ==
+重复播放SE,id == ¤Repeat SE, id==
+重时获得¤Get when heavy
+重置成功¤Reset successful
+金¤gold
+金丹¤Golden Elixir
+金丹特效¤Golden Elixir Special Effect
+金伤害减免¤Gold damage reduction
+金免疫¤Gold Immunity
+金属性伤害¤Metal damage
+金灵根¤Gold root
+金灵根+¤Golden Lingen+
+金脉¤Gold Vein
+针¤needle
+钉¤Nail
+钟¤clock
+钵¤Bowl
+铸灵精气¤Cast spirit energy
+错误的压缩级别¤Incorrect compression level
+锤¤Hammer
+镇宗之宝：-¤Treasure of Zhenzong:-
+镇宗长老¤Elder of Zhenzong
+镇宗长老：¤Elder Zhenzong:
+镇宗长老：-¤Elder Zhenzong: -
+闪避¤Dodge
+闪避+¤Dodge+
+闲聊¤Small chat
+队友¤teammate
+防御¤Defense
+防御+¤Defense+
+阳¤Yang
+阴¤Overcast
+阶¤order
+阶段，<lf>¤Stage, <lf>
+阶段，<lf>暂时没有什么影响¤Stage, <lf> has no effect temporarily
+附带真实伤害¤With real damage
+陌生人：¤Stranger:
+降低¤Reduce
+除魔：¤Exorcism:
+随机值大于100¤Random value greater than 100
+随机完成¤Random completion
+随机完毕,总和为¤Random is completed, the sum is
+随机数为¤The random number is
+随机灵根完成¤Random spirit root completed
+随机灵根总和大于100¤The sum of random spiritual roots is greater than 100
+零¤zero
+雷¤Thunder
+需要主灵根：¤Requires main spiritual root:
+需要低于¤Requires less than
+需要修为:¤Needs to be repaired as:
+需要修为:<color=#ff0000>¤Need to repair: <color=#ff0000>
+需要参悟：¤Need to comprehend:
+需要境界:¤Need Realm:
+需要境界:无¤Required Realm: None
+需要境界：¤Need Realm:
+需要大于等于灵兽大境界，方可携带出战¤Requires a Spirit Beast Realm or higher to bring into battle
+需要时间:¤Time needed:
+需要时间：¤Time required:
+需要消耗¤Requires consumption
+需要消耗：¤Need to consume:
+需要灵根:¤Requires spiritual roots:
+需要灵根:无¤Requires spiritual root: none
+需要精血:¤Need blood essence:
+需要精血:<color=#ff0000>¤Requires blood essence: <color=#ff0000>
+需要达到¤Needs to reach
+需要达到{0}境界方可佩戴！¤You need to reach the {0} level to wear it!
+需要达到{0}境界方可修炼！¤You need to reach the {0} realm before you can practice!
+需要达到{0}方可修炼！¤You need to reach {0} before you can practice!
+需要达到{0}方可激活！¤Need to reach {0} to activate!
+需要：¤Requires:
+静修¤Retreat
+非DLC角色，创建灵胎时的自定义容貌¤Non-DLC character, custom appearance when creating Spirit Infant
+非本宗成员，不可传送至宗门¤If you are not a member of this sect, you cannot send it to the sect
+鞋子¤shoes
+鞭¤Whip
+预览¤Preview
+领取俸禄¤Receive salary
+领域¤Area
+风¤wind
+飞剑传书¤Flying sword pass book
+飞剑传书，内容是<¤The flying sword is passing on the book, the content is<
+飞行法器¤Flying Artifact
+飞行状态下无法进行此操作！¤This operation cannot be performed in flight state!
+首次参悟当前¤First comprehension of the present
+驱离¤Drive away
+驱离，弱肉强食，当中酸楚也只有自己知道！¤To drive away, the weak will prey on the strong, and only you will know the bitterness!
+驱离，随即开始斗法，不幸毙命于¤Keep away, then began to fight, unfortunately died in
+驱离，随即开始斗法，转眼之间便将¤Keep away, then start to fight, in a blink of an eye
+高¤High
+魁¤Kui
+魔（¤Magic (
+鲲鹏血脉¤Kunpeng blood
+黄级¤Yellow level
+黄阶上品¤Yellow rank top grade
+黄阶下品¤low grade yellow
+鼎¤Ding
+鼻子¤nose
+龙神¤Dragon God
+（品质：上品）¤(Quality: top grade)
+（品质：下品）¤(Quality: low grade)
+（品质：中品）¤(Quality: medium grade)
+（品质：废丹）¤(Quality: Waste Pill)
+（品质：极品）¤(Quality: Superb)
+（回复）¤(Reply)
+（幻身）¤(Phantom body)
+（灵根越高，参悟功法消耗时间越短）¤(The higher the spiritual root, the shorter the time it takes to comprehend the exercises)
+（行为：¤(Behaviour:
+（道侣关系解除）¤(Tao couple relationship terminated)
+，你我之仇不共戴，今天定要取你性命！¤, You and I will not share our hatred, I will take your life today!
+，可以更换：¤, can replace:
+，可以选择(¤, you can choose (
+，有什么事？¤, what's the matter?
+，请自重！¤, Please respect yourself!
+，距离大道更近一步！略备小礼，还请收下！¤, One step closer to the avenue! A little gift, please accept it!
+？品单方¤？ unilateral
