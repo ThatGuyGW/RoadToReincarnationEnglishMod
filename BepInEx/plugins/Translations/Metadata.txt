@@ -141,7 +141,6 @@ soundName不能为空¤soundName cannot be empty
 主药¤main drug
 主药:¤Main drug:
 主药:未知¤Main drug: unknown
-主药:未知(?)¤Main drug: unknown(?)
 主药与辅材料相辅相成方可凝结成丹!<lf>通过不断的尝试或者阅读丹方密卷可以逐渐掌握炼丹配方！¤The main medicine and auxiliary materials complement each other to condense into a pill! <lf>Through continuous trial or reading the secret volume of pill recipes, you can gradually master the formula of alchemy!
 主药数量¤The number of main medicines
 主药数量:¤Number of main ingredients:
@@ -262,7 +261,6 @@ soundName不能为空¤soundName cannot be empty
 冰心一片¤A piece of ice
 凝结元婴过程中将持续注入生机消耗寿元，完成度越高，获得凝婴属性越强¤In the process of condensing the Nascent Soul, it will continue to inject vitality and consume life yuan. The higher the degree of completion, the stronger the attribute of Nascent Soul Condensation will be obtained
 凡夫向道¤Ordinary people go to the Tao
-出售¤Sell
 出战中：¤In battle:
 击杀了¤Killed
 刀¤knife
@@ -414,7 +412,6 @@ soundName不能为空¤soundName cannot be empty
 天,道不同不相为谋¤Heaven, Dao is different and does not seek each other
 天。<lf>凝丹成功后，将额外获得¤Days. <lf> After successfully congealing the pill, you will get an additional
 天人合一¤Heaven and man are one
-天元宝阁¤Tian Yuan Treasure Pavilion
 天凤血脉¤Tianfeng Bloodline
 天命点不足¤Insufficient destiny points
 天堂有路你不走，地狱无门你自来，今日我便要大开杀戒了！¤If there is a way to heaven, you don't go, and if there is no way to hell, you come here. Today I will kill you!
@@ -460,7 +457,6 @@ soundName不能为空¤soundName cannot be empty
 存档进程_¤Archive process_
 孙女¤granddaughter
 孙子¤grandson
-孟婆汤¤Mengpo Soup
 守关Boss¤Guard Boss
 守擂成功,再赢得¤Successful defense, win again
 完成了¤Completed
@@ -969,7 +965,6 @@ soundName不能为空¤soundName cannot be empty
 生命回复¤Life recovery
 生成变异灵根:¤Generation of mutant spirit root:
 生死斗剑¤Life-and-Death Duel
-生死簿¤Book of life and death
 生物管理器初始化完成¤Biology manager initialization completed
 由于材料等阶缺失导致炼器失败...¤Refiner failed due to lack of material equivalence...
 男孩¤Boy
@@ -1038,7 +1033,6 @@ soundName不能为空¤soundName cannot be empty
 突破失败了¤Breakthrough failed
 突破失败！身负重伤，寿元减少¤Breakthrough failed! Seriously injured, lifespan reduced
 突破成功了¤The breakthrough is successful
-突破成功率：¤Breakthrough success rate:
 突破成功！¤Successful breakthrough!
 突破成功！！！¤Successful breakthrough! ! !
 突破时，被¤When breaking through, it is
@@ -1115,7 +1109,6 @@ soundName不能为空¤soundName cannot be empty
 药引¤Medicine introduction
 药引:¤Medicine lead:
 药引:未知¤Medicine Citation: Unknown
-药引:未知(?)¤Medicine Citation: Unknown(?)
 药引似乎放错了,没有激发药性¤The medicine primer seems to be misplaced, and the medicine has not been stimulated
 药引数量¤Number of Medicine Citations
 药引数量:¤Number of Medicine Citations:
@@ -1184,11 +1177,9 @@ soundName不能为空¤soundName cannot be empty
 身死道消¤The body dies and the way disappears
 身法¤Agility
 轮¤wheel
-轮回匣¤Reincarnation box
 辅药¤Adjuvant
 辅药:¤Adjuvant:
 辅药:未知¤Adjuvant: Unknown
-辅药:未知(?)¤Adjuvant: Unknown(?)
 辅药数量¤Adjuvant quantity
 辅药数量:¤Adjuvant Quantity:
 辅药数量:未知¤Adjuvant Quantity: Unknown
