@@ -12,15 +12,9 @@ Extract the archive and drag and drop the entire contents into your game folder.
 
 You'll know the mod is working if the first splash screen has a line of text at the bottom that ends with (ENG Mod Enabled!)
 
-## Updates
+**If you're updating from a version prior to 1.2.0.0, you'll need to delete the "Project1.dll" file from "BepInEx\Plugins"**
 
-If you're intalling a patch, the .7z file will only contain 3 files sorted into their relevant folders:
-
-TAKV.txt
-UITextKV.txt
-global-metadata.dat
-
-You should only need to drag the folders in the 7z into your game directory (轮回修仙路)
+On the first run of the game with the mod installed, the game will crash. This is an expected crash due to how the game handles metadata changes at runtime, and it will only happen once. After the initial crash, you can launch the game  without issue.
 
 ## Warning regarding Updates
 
@@ -46,3 +40,7 @@ In the 轮回修仙路 folder, any .log files with "preloader" in the name.
 In the BepInEx folder, any .log files
 
 In your Appdata Folder (Accessible on Windows machines by using the Windows Key + R, typing in "%AppData%" without the ", and then navigating to the "LocalLow" folder. The 烟水寒\轮回修仙路 folder will contain log folders.
+
+## Credits
+
+Thanks to "JeremieCHN" for their code which Cadenza ruthlessly stole to complete the Metadata overwrite functionality 
