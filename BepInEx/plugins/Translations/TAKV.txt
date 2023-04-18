@@ -2612,10 +2612,10 @@
 每个月20号之前可以报名参加参加升仙大会！21日-28日举行升仙擂台赛！¤Before the 20th of every month, you can sign up to participate in the Immortal Ascension Conference! From the 21st to the 28th, the Immortal Ascension Challenge Arena will be held!
 公平，公正，公开！¤Fair, just and public!
 升仙大会考核官¤Examiner of Immortal Ascension Conference
-初次参加的选手，必须完成基础的考核！没有人可以例外！¤Players participating for the first time must complete the basic assessment! No one can be an exception!
-只有绝对的强者，才能坚持到最后一刻！¤Only the absolute strong can persist until the last moment!
-升仙大会主持¤Host of Immortal Ascension Conference
-守擂达到最后的时刻，方可获得胜利！¤You have to defend the ring to the last moment to win!
+初次参加的选手，必须完成基础的考核！没有人可以例外！¤Players participating for the first time must complete the basic assessment! There is not exception!
+只有绝对的强者，才能坚持到最后一刻！¤Only the really strong can last until the last moment!
+升仙大会主持¤Host of the Immortal Ascension Conference
+守擂达到最后的时刻，方可获得胜利！¤Step into the ring in front of me and defeat the leader to replace him. Then defend the ring to win!
 身法考核官¤Physical Examiner
 控制好距离，灵活运用二段跳跃，考核很容易了。¤If you control the distance well and use the double jump efficiently, and the assessment will be easy.
 参赛道友¤Competitors
@@ -2671,11 +2671,11 @@
 使用可以快速传送至已探索过的小世界¤Use to quickly teleport to small worlds that have been explored
  [双击左键] 使用¤ [double left click] to use
 神行符¤amulet
-下品炼丹炉，炼制1阶及以下丹药时，结丹温度范围+5°,在宗门宝库中可以购买！¤Low-grade alchemy furnace, when refining elixirs of level 1 and below, the temperature range for forming alchemy is +5°, and can be purchased in the Zongmen treasure house!
+下品炼丹炉，炼制1阶及以下丹药时，结丹温度范围+5°,在宗门宝库中可以购买！¤Low Grade alchemy furnace, when refining elixirs of level 1 and below, the temperature range for forming alchemy is +5°, and can be purchased in the Zongmen treasure house!
 中品炼丹炉，炼制3阶及以下丹药时，结丹温度范围+5°,在宗门宝库中可以购买！¤Medium-grade alchemy furnace, when refining elixirs of level 3 and below, the temperature range for forming alchemy is +5°, and can be purchased in the Zongmen treasure house!
 上品炼丹炉，炼制6阶及以下丹药时，结丹温度范围+5°,在宗门宝库中可以购买！¤Top-grade alchemy furnace, when refining elixirs of level 6 and below, the temperature range for forming alchemy is +5°, and can be purchased in the Zongmen treasure house!
 极品炼丹炉，炼制8阶及以下丹药时，结丹温度范围+5°,在宗门宝库中可以购买！¤The ultimate alchemy furnace, when refining elixirs of rank 8 and below, the temperature range for forming alchemy is +5°, and can be purchased in the Zongmen treasure house!
-下品的炼器鼎，炼制1阶法器时，法器破碎几率降低20%,在宗门宝库中可以购买！¤The low-grade refining tripod, when refining a first-level magic weapon, the chance of breaking the magic weapon is reduced by 20%, you can buy it in the treasure house of the sect!
+下品的炼器鼎，炼制1阶法器时，法器破碎几率降低20%,在宗门宝库中可以购买！¤The Low Grade refining tripod, when refining a first-level magic weapon, the chance of breaking the magic weapon is reduced by 20%, you can buy it in the treasure house of the sect!
 炼器鼎¤Refining tripod
 中品的炼器鼎，炼制3阶灵器及以下法宝时，法宝破碎几率降低20%！¤For a medium-grade refining tripod, when refining a magic weapon of level 3 or below, the chance of breaking the magic weapon is reduced by 20%!
 上品的炼器鼎，炼制6阶圣器及以下法宝时，法宝破碎几率降低20%！¤For a high-grade refining tripod, when refining a magic weapon of level 6 or below, the probability of breaking the magic weapon is reduced by 20%!
@@ -4068,7 +4068,7 @@
 一元丹+草药¤One Yuan Dan + Herbs
 助息丹+草药¤Suxidan + Herbs
 3个装备¤3 equipment
-获得黄级下品心法若干¤Obtained a number of yellow-level low-grade Heart Methods
+获得黄级下品心法若干¤Obtained a number of yellow-level Low Grade Heart Methods
 获得黄级上品心法若干¤Obtained a number of top-grade mental techniques at the Mortal Level
 获得橙色功法¤Obtain the orange skill
 初级草药随机1,3颗¤Primary herbal medicine random 1, 3
@@ -4175,7 +4175,7 @@
 2-3阶功法一本，自适应等级,3,7开¤2nd-3rd stage technique book, self-adaptive level, 3, 7 open
 2-3阶功法一本，自适应等级 7,3开¤A book of 2-3 stage techniques, self-adaptive level 7, 3 open
 3阶功法一本，自适应等级¤A book of 3rd-stage techniques, self-adaptive level
-1阶下品功法，456品质随机一个¤Level 1 low-grade skills, 456 quality random one
+1阶下品功法，456品质随机一个¤Level 1 Low Grade skills, 456 quality random one
 2阶上品功法，456品质随机一个¤Level 2 high-grade skills, 456 quality random one
 3阶上品功法，456品质随机一个¤Level 3 high-grade skills, 456 quality random one
 4阶上品功法，456品质随机一个¤Level 4 top-grade skills, 456 quality random one
@@ -4980,7 +4980,7 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 修炼<color=#7BD272>达到瓶颈</color>后，进行<color=#7BD272>境界突破[T]</color>¤After reaching a <color=#7BD272> bottleneck</color> in your cultivation, perform a <color=#7BD272>Breakthrough[T]</color>
 突破至练气二重¤Breakthrough to the second stage of Qi Condensation
 明显的感受到修为的增长了，向{n}讲述一下修炼感悟吧¤Your cultivation base have grown, tell {n} about your cultivation experience
-<color=#7BD272>御剑[F]</color>跟随追踪前进，<color=#7BD272>[+]键</color>提升御剑速度，<color=#7BD272>[-]键</color>降低御剑速度！¤<color=#7BD272>the Imperial Sword[F]</color> follow the tracking, <color=#7BD272>[+] key</color> increases the speed of the Imperial Sword, <color=#7BD272>[-] key</color> color> Reduce the speed of the Imperial Sword!
+<color=#7BD272>御剑[F]</color>跟随追踪前进，<color=#7BD272>[+]键</color>提升御剑速度，<color=#7BD272>[-]键</color>降低御剑速度！¤<color=#7BD272>the Imperial Sword[F]</color> follow the tracking, <color=#7BD272>[+] key</color> increases the speed of the Imperial Sword, <color=#7BD272>[-] key</color> Reduce the speed of the Imperial Sword!
 突破¤Breakthrough
 了解炼丹之道¤Learn about alchemy
 丹道¤Alchemy Dao
@@ -5173,9 +5173,9 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 修炼之路(1)¤The Road to Practice (1)
 学习参悟1本<color=#7BD272>黄阶心法</color>¤Learn and comprehend 1 book <color=#7BD272>Huangjie Heart Method</color>
 修炼之路(2)¤The Road to Practice (2)
-学习参悟1本<color=#7BD272>玄阶神通</color>¤Learn to comprehend 1 book <color=#7BD272>Mysterious Abilities</color>
+学习参悟1本<color=#7BD272>玄阶神通</color>¤Learn a <color=#7BD272>Mysterious Tier Technique</color>
 修炼之路(3)¤The Road to Practice (3)
-学习参悟1本<color=#7BD272>玄阶心法</color>¤Learn and comprehend 1 book <color=#7BD272>Xuanjie Heart Method</color>
+学习参悟1本<color=#7BD272>玄阶心法</color>¤Learn and comprehend 1 book <color=#7BD272>Mysterious Tier Heart Method</color>
 修炼之路(4)¤The Road to Practice (4)
 学习参悟1本<color=#7BD272>地阶神通</color>¤Learn to comprehend 1 book <color=#7BD272>Divine Abilities</color>
 修炼之路(5)¤The Road to Practice (5)
@@ -5506,7 +5506,7 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 剑气·斩¤Sword Qi · Slash
 剑光分化冷却时间{0}秒¤Sword light differentiation cooling time {0} seconds
 剑气·急¤Sword Qi · Anxiety
-剑光分化飞剑数量+{0}¤Number of Flying Swords Differentiated by Sword Light+{0}
+剑光分化飞剑数量+{0}¤Number of Flying Swords Differentiated by Sword Light +{0}
 剑气·化¤Sword Qi · Transformation
 木灵根≥20时，剑光分化飞剑有{0}%几率中毒目标3秒¤When the Wood root is ≥ 20, the flying sword has a {0}% chance of poisoning the target for 3 seconds
 剑气·青木¤Sword Qi·Aoki
@@ -6047,7 +6047,7 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 七杀¤Seven Kills
 你从小受大家欢迎,大家经常围绕着你身边玩耍,你是“孩子王”¤You have been popular since you were a child, and every child likes to play near you. You are known as the 'king of children'
 反伤+40%¤Reflected Damage +40%
-众星拱月¤Galaxy
+众星拱月¤Hedgehog
 个性刚直善良的你,好锄强扶弱,为人处世特别有气度,打遍同龄人无敌手¤You are upright and kind-hearted: you help the weak, forgive the strong, and also are invincible among your peers
 所有伤害加深+20%¤All damage dealt +20%
 武曲下凡¤Prodigy
@@ -6156,36 +6156,36 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 ,算命先生给你算了一卦,你不应出生在这个乱世,否则定会成就大事¤, the fortune teller has made a fortune teller for you, you should not be born in this troubled world, otherwise you will achieve great things
 主灵根+10,攻击,气血,防御-5%¤Main root +10, attack, vitality, defense -5%
 生不逢时¤Untimely
-适合主修金属性功法,擅长物理攻击,可以将金属性功法修炼到极致。¤It is suitable for majoring in metal-based techniques, good at physical attacks, and can practice metal-based techniques to the extreme.
-金属性天灵根¤metallic celestial root
-适合主修金属性功法,擅长物理攻击,辅修一门副属性功法,相辅相成。¤It is suitable for majoring in metal-based techniques, good at physical attacks, and minoring in a sub-attribute technique, which complement each other.
-金属性地灵根¤metallic lingon
-适合主修金属性功法,擅长物理攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤It is suitable for majoring in metallic skills, good at physical attacks, and minoring in multiple sub-attribute skills. The offensive and defensive methods are rich and varied.
-金属性三灵根¤Metallic Sanlinggen
-适合主修木属性功法,擅长法术攻击,可以将木属性功法修炼到极致。¤It is suitable for majoring in wood attribute techniques, good at magic attacks, and can practice wood attribute techniques to the extreme.
-木属性天灵根¤Wood attribute Tianling root
-适合主修木属性功法,擅长法术攻击,辅修一门副属性功法,相辅相成。¤It is suitable for majoring in wood attribute techniques, good at magic attacks, and minoring in a secondary attribute technique, which complement each other.
+适合主修金属性功法,擅长物理攻击,可以将金属性功法修炼到极致。¤Good at physical attacks. Can practice Metal-based techniques to the extreme.
+金属性天灵根¤Heavenly Metal Root
+适合主修金属性功法,擅长物理攻击,辅修一门副属性功法,相辅相成。¤Dual-Attribute Root. Good at physical attacks.
+金属性地灵根¤Metallic Earth Root
+适合主修金属性功法,擅长物理攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤A special Metal Root. Good at physical attacks. The offensive and defensive methods are rich and varied.
+金属性三灵根¤Trinity Metal Root
+适合主修木属性功法,擅长法术攻击,可以将木属性功法修炼到极致。¤Good at magic attacks. Can practice Wood-based techniques to the extreme.
+木属性天灵根¤Heavenly Wood Root
+适合主修木属性功法,擅长法术攻击,辅修一门副属性功法,相辅相成。¤Dual-Attribute Root. Good at magic attacks.
 木属性地灵根¤Woody Earth root
-适合主修木属性功法,擅长法术攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤It is suitable for majoring in wood-attribute skills, good at magic attacks, and minoring in multiple sub-attribute skills. The offensive and defensive methods are rich and varied.
-木属性三灵根¤Wood attribute three roots
-适合主修水属性功法,擅长法术攻击,可以将水属性功法修炼到极致。¤It is suitable for majoring in water attribute techniques, good at magic attacks, and can practice water attribute techniques to the extreme.
-水属性天灵根¤water attribute heavenly root
-适合主修水属性功法,擅长法术攻击,辅修一门副属性功法,相辅相成。¤It is suitable for majoring in water attribute techniques, good at magic attacks, and minoring in a secondary attribute technique, which complement each other.
-水属性地灵根¤Water attribute Earth root
-适合主修水属性功法,擅长法术攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤It is suitable for majoring in water-attribute skills, good at magic attacks, and minoring in multiple sub-attribute skills. The offensive and defensive methods are rich and varied.
-水属性三灵根¤Water Attribute San Linggen
-适合主修火属性功法,擅长法术攻击,可以将火属性功法修炼到极致。¤It is suitable for majoring in fire attribute techniques, good at magic attacks, and can practice fire attribute techniques to the extreme.
-火属性天灵根¤fire attribute celestial root
-适合主修火属性功法,擅长法术攻击,辅修一门副属性功法,相辅相成。¤It is suitable for majoring in fire attribute techniques, good at magic attacks, and minoring in a secondary attribute technique, which complement each other.
-火属性地灵根¤fire attribute root
-适合主修火属性功法,擅长法术攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤It is suitable for majoring in fire attribute skills, good at magic attacks, and minoring in multiple secondary attribute skills. The offensive and defensive methods are rich and varied.
-火属性三灵根¤fire attribute trinity root
-适合主修土属性功法,擅长物理攻击,可以将土属性功法修炼到极致。¤It is suitable for majoring in soil attribute techniques, good at physical attacks, and can practice earth attribute techniques to the extreme.
-土属性天灵根¤Earth attribute heavenly root
-适合主修土属性功法,擅长物理攻击,辅修一门副属性功法,相辅相成。¤It is suitable for majoring in soil attribute techniques, good at physical attacks, and minoring in a secondary attribute technique, which complement each other.
-土属性地灵根¤Earth root
-适合主修土属性功法,擅长物理攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤It is suitable for majoring in soil attribute techniques, good at physical attacks, and minoring in multi-door secondary attribute techniques. The offensive and defensive methods are rich and varied.
-土属性三灵根¤Earth attribute trinity root
+适合主修木属性功法,擅长法术攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤A special Wood Root. Good at magic attacks. The offensive and defensive methods are rich and varied.
+木属性三灵根¤Trinity Wood Root
+适合主修水属性功法,擅长法术攻击,可以将水属性功法修炼到极致。¤Good at magic attacks. Can practice water attribute techniques to the extreme.
+水属性天灵根¤Water Heavenly Root
+适合主修水属性功法,擅长法术攻击,辅修一门副属性功法,相辅相成。¤Dual-Attribute Root. Good at magic attacks.
+水属性地灵根¤Liquid Earth Root
+适合主修水属性功法,擅长法术攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤Good at magic attacks. The offensive and defensive methods are rich and varied.
+水属性三灵根¤Trinity Water Root
+适合主修火属性功法,擅长法术攻击,可以将火属性功法修炼到极致。¤Good at magic attacks. Can practice fire attribute techniques to the extreme.
+火属性天灵根¤Heavenly Fire Root
+适合主修火属性功法,擅长法术攻击,辅修一门副属性功法,相辅相成。¤Good at magic attacks.
+火属性地灵根¤Fire Root
+适合主修火属性功法,擅长法术攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤Good at magic attacks. The offensive and defensive methods are rich and varied.
+火属性三灵根¤Trinity Fire Root
+适合主修土属性功法,擅长物理攻击,可以将土属性功法修炼到极致。¤Good at physical attacks. Can practice earth attribute techniques to the extreme.
+土属性天灵根¤Heavenly Earth Root
+适合主修土属性功法,擅长物理攻击,辅修一门副属性功法,相辅相成。¤Good at physical attacks.
+土属性地灵根¤Earth Root
+适合主修土属性功法,擅长物理攻击,辅修多门副属性功法,攻防手段丰富,变化多端。¤Good at physical attacks. The offensive and defensive methods are rich and varied.
+土属性三灵根¤Trinity Earth Root
 忽然有修士从天而降,对你一阵上下打量,喃喃道：没错了,必然是传闻中的¤Suddenly, a cultivator descended from the sky, looked you up and down for a while, and murmured: 'That's right, it must be the one in the rumors.'
 普攻会使目标攻击下降20%,持续3秒。¤Basic attack will reduce the target's attack by 20% for 3 seconds.
 体质-3.5,战斗开启后,获得最大生命值同等数值护盾。¤Physique -3.5, after the battle starts, get a shield equal to the maximum health value.
@@ -7578,19 +7578,19 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 化龙¤Hualong
 荡魔¤Demon
 式¤Mode
-黄阶下品心法¤Huang Jie low-grade Heart Method
+黄阶下品心法¤Mortal Low Grade Heart Method
 术¤surgery
-黄阶上品¤top grade yellow
+黄阶上品¤Mortal Top Grade
 法¤Law
-玄阶下品¤Mysterious low grade
+玄阶下品¤Mysterious Low Grade
 决¤decision
 玄阶上品¤Mysterious top grade
 功¤achievement
-地阶下品¤lower class
-地阶上品¤top grade
+地阶下品¤Low Grade
+地阶上品¤Top Grade
 典¤canon
-天阶下品¤low grade
-天阶上品¤top grade
+天阶下品¤Low Grade
+天阶上品¤Top grade
 气血¤Health
 物理攻击¤physical attack
 法术攻击¤magic attack
@@ -7733,49 +7733,49 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 炼制丹药时，炼丹时长降低30%¤When refining pills, the duration of refining pills is reduced by 30%
 炼制丹药时，炼丹时长降低50%¤When refining pills, the duration of refining pills is reduced by 50%
 内外兼修，顺应天地，则万物可用！¤If you cultivate both internally and externally, and conform to the heaven and earth, everything will be usable!
-门¤Door
+门¤ Gate 
 炼身御神，去敌退魔、¤Refining the body to control the gods, defeating the enemy and exorcising demons,
-神梦¤god dream
-教¤teach
+神梦¤Immortal Dream
+教¤Teach
 静心，静念，修身，养性。¤Meditation, meditation, self-cultivation, and self-cultivation.
-金钟¤admiralty
-派¤group
+金钟¤Golden Bell
+派¤ Sect 
 催山，倒海，降妖，诛魔，敕神，摘星，开天！¤Urging mountains, overturning seas, subduing demons, killing demons, ordering gods, picking stars, opening the sky!
 顺天应命，逆天成仙¤Obedience to the sky, become a fairy against the sky
-殿¤temple
+殿¤ Temple 
 道之心，人之用，以人之心演化¤The heart of Dao, the use of people, and the evolution of people's hearts
 大音希声，大象无形，求道者怀空谷之心¤The great sound has no sound, the elephant has no shape, and the seeker has an empty heart
-龙爪¤dragon claw
+龙爪¤Dragon Might
 大智之人，不耽于形，逐道者万般皆可用¤A man of great wisdom does not indulge in form, and those who follow the Dao can use everything
-府¤government
+府¤  Mansion 
 求真，以心演天地，辨天地之规律是为道¤Seeking the truth, playing the world with the heart, and discerning the laws of the world is the way
-百丈¤Baizhang
-楼¤building
+百丈¤Hundred Steps
+楼¤ Pavilion 
 人之始，万事未知。人之终，万事始知。¤At the beginning of man, everything is unknown. The end of man, the beginning of everything.
-天网¤Skynet
-阁¤Court
+天网¤Heavenly Array
+阁¤ Court 
 一阴一阳之谓道也¤One yin and one yang are called Dao
 求道有为，不若无为，无为则道成¤Seek the Dao and do it, if you don't do nothing, the Dao will be accomplished if you do nothing
-观¤view
+观¤View
 天地不仁，以万物为刍狗，多言数穷，不如守中。¤The world is not benevolent, treats everything as a straw dog, talks too much, it is better to stay in the middle.
 谷神不死，是谓玄牝，玄牝之门，是谓天地根。¤The god of the valley is immortal, it is called Xuan Min, and the gate of Xuan Min is called the root of heaven and earth.
-寒光¤cold light
+寒光¤Tundra
 抱元守一，虚极静笃，静心以观玄关窍¤Embrace Yuan and keep one, emptiness and tranquility, and meditate to observe the porch orifices
-天外¤beyond the sky
-天海¤Tianhai
-天下¤world
-灵霄¤Lingxiao
+天外¤Alien
+天海¤Heavenly Ocean
+天下¤ World 
+灵霄¤Heavenly Qi
 兽皇¤Beast King
-魔灵¤monster
-紫云¤Ziyun
-流明¤lumen
-天空¤Sky
-辟心¤Pixin
-辟邪¤to ward off evil spirits
-断龙¤Broken Dragon
-狂龙¤mad dragon
-千鹤¤Chizuru
-空蝉¤empty cicada
+魔灵¤Devil
+紫云¤Purple Cloud
+流明¤Light
+天空¤ Heaven 
+辟心¤Royal Dao
+辟邪¤Demon Monarch
+断龙¤Dragon Slayers
+狂龙¤Wild Dragons
+千鹤¤Thousand Cranes
+空蝉¤Heavenly Cicada
 火蚕¤fire silkworm
 雨钟¤rain bell
 狂风¤the wind
@@ -8940,197 +8940,197 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 九剑领域¤Nine Swords Domain
 <color=#d9001b>紫刀女帝法身</color>¤<color=#d9001b>The Dharma Body of the Purple Sword Empress</color>
 薍卋¤Xuanzhuang
-严格按照丹方配比可炼出<助息丹>，服用后，修为+5876¤Strictly follow the ratio of the pill recipe to refine the <Breath Qi>, after taking it, the cultivation level will be +5876
+严格按照丹方配比可炼出<助息丹>，服用后，修为+5876¤<Breath Qi>, after taking it, the cultivation level will be +5876
 助息丹丹方¤Breath Qi Recipe
-严格按照丹方配比可炼出<庚金丹>，服用后，金灵根+1¤Strictly follow the ratio of the pill recipe to refine <Metal root 1>, after taking it, metal root +1
+严格按照丹方配比可炼出<庚金丹>，服用后，金灵根+1¤<Metal root 1>, after taking it, metal root +1
 庚金丹丹方¤Metal root 1 Recipe
-严格按照丹方配比可炼出<乙木丹>，服用后，木灵根+1¤Strictly follow the recipe ratio to refine <Wood root 1>, after taking it, wood root +1
+严格按照丹方配比可炼出<乙木丹>，服用后，木灵根+1¤<Wood root 1>, after taking it, wood root +1
 乙木丹丹方¤Wood root 1 Recipe
-严格按照丹方配比可炼出<葵水丹>，服用后，水灵根+1¤Strictly follow the ratio of the recipe to refine <Seaflower>, after taking it, water root +1
+严格按照丹方配比可炼出<葵水丹>，服用后，水灵根+1¤<Seaflower>, after taking it, water root +1
 葵水丹丹方¤Seaflower Recipe
-严格按照丹方配比可炼出<离火丹>，服用后，火灵根+1¤Strictly follow the ratio of the pill recipe to refine <Fire root 1>, after taking it, Fire Root +1
+严格按照丹方配比可炼出<离火丹>，服用后，火灵根+1¤<Fire root 1>, after taking it, Fire Root +1
 离火丹丹方¤Fire root 1
-严格按照丹方配比可炼出<茂土丹>，服用后，土灵根+1¤Strictly follow the ratio of the pill recipe to refine <Fertile land>, after taking it, the Earth Root +1
+严格按照丹方配比可炼出<茂土丹>，服用后，土灵根+1¤<Fertile land>, after taking it, the Earth Root +1
 茂土丹丹方¤Fertile land Recipe
-严格按照丹方配比可炼出<一品长生丹>，服用后，寿元+10¤Strictly follow the ratio of the pill recipe to refine <G1 Longevity>, after taking it, longevity +10
+严格按照丹方配比可炼出<一品长生丹>，服用后，寿元+10¤<G1 Longevity>, after taking it, longevity +10
 一品长生丹丹方¤G1 Longevity
-严格按照丹方配比可炼出<锻体丹>，服用后，体质+0.1¤Strictly follow the ratio of the pill recipe to refine <Forged body>, after taking it, physical fitness +0.1
+严格按照丹方配比可炼出<锻体丹>，服用后，体质+0.1¤<Forged body>, after taking it, physical fitness +0.1
 锻体丹丹方¤Forged body Recipe
-严格按照丹方配比可炼出<龙虎丹>，服用后，根骨+0.1¤Strictly follow the ratio of the pill recipe to refine <Bone root 1>, after taking it, the Constitution +0.1
+严格按照丹方配比可炼出<龙虎丹>，服用后，根骨+0.1¤<Bone root 1>, after taking it, the Constitution +0.1
 龙虎丹丹方¤Bone root 1 Recipe
-严格按照丹方配比可炼出<启灵丹>，服用后，悟性+0.1¤Strictly follow the ratio of the pill recipe to refine <Spirit mind>, after taking it, comprehension +0.1
+严格按照丹方配比可炼出<启灵丹>，服用后，悟性+0.1¤<Spirit mind>, after taking it, comprehension +0.1
 启灵丹丹方¤Spirit mind Recipe
-严格按照丹方配比可炼出<一品养精丹>，服用后，气血上限+111¤Strictly follow the ratio of the pill recipe to refine <G1 Blood>, after taking it, health +111
+严格按照丹方配比可炼出<一品养精丹>，服用后，气血上限+111¤<G1 Blood>, after taking it, health +111
 一品养精丹丹方¤G1 Blood Recipe
-严格按照丹方配比可炼出<一品混元丹>，服用后，物理攻击+21¤Strictly follow the ratio of the pill recipe to refine <G1 P.Attack>, after taking it, physical attack +21
+严格按照丹方配比可炼出<一品混元丹>，服用后，物理攻击+21¤<G1 P.Attack>, after taking it, physical attack +21
 一品混元丹丹方¤G1 P.Attack
-严格按照丹方配比可炼出<一品合道丹>，服用后，法术攻击+21¤Strictly follow the ratio of the pill recipe to refine <G1 M.Attack>, after taking it, magic attack +21
+严格按照丹方配比可炼出<一品合道丹>，服用后，法术攻击+21¤<G1 M.Attack>, after taking it, magic attack +21
 一品合道丹丹方¤G1 M.Attack Recipe
-严格按照丹方配比可炼出<一品龟甲丹>，服用后，物理防御+18¤Strictly follow the ratio of the pill recipe to refine <G1 P.Def>, after taking it, physical defense +18
+严格按照丹方配比可炼出<一品龟甲丹>，服用后，物理防御+18¤<G1 P.Def>, after taking it, physical defense +18
 一品龟甲丹丹方¤G1 P.Def Recipe
-严格按照丹方配比可炼出<一品定灵丹>，服用后，法术防御+18¤Strictly follow the ratio of the pill recipe to refine <G1 M.Def>, after taking it, magic defense +18
+严格按照丹方配比可炼出<一品定灵丹>，服用后，法术防御+18¤<G1 M.Def>, after taking it, magic defense +18
 一品定灵丹丹方¤G1 M.Def Recipe
-严格按照丹方配比可炼出<一元丹>，可以在练气阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine <Elementary>, which can be used to increase the success rate when breaking through the realm in the Qi Condensation realm!
-严格按照丹方配比可炼出<黄龙丹>，灵兽进化时所必须的丹药！¤Strictly follow the ratio of the pill recipe to refine <Dragon>, the pill that is necessary for the evolution of spirit beasts!
-严格按照丹方配比可炼出<固元丹>，服用后，修为+54609¤Strictly follow the ratio of the pill recipe to refine <Solid Qil>, after taking it, the cultivation level will be +54609
+严格按照丹方配比可炼出<一元丹>，可以在练气阶段突破境界时使用增加成功率！¤<Elementary>, increases the success rate when breaking through stages in Qi Condensation realm!
+严格按照丹方配比可炼出<黄龙丹>，灵兽进化时所必须的丹药！¤<Dragon>, the pill that is necessary for the evolution of spirit beasts!
+严格按照丹方配比可炼出<固元丹>，服用后，修为+54609¤<Solid Qil>, after taking it, the cultivation level will be +54609
 固元丹丹方¤Solid Primordial Recipe
-严格按照丹方配比可炼出<筑基丹>，服用后，受到筑基雷劫伤害大幅降低！¤Strictly follow the ratio of the recipe to refine the <Foundation>. After taking it, the damage from the Foundation Establishing Thunder Calamity will be greatly reduced!
+严格按照丹方配比可炼出<筑基丹>，服用后，受到筑基雷劫伤害大幅降低！¤<Foundation>, used to greatly reduce the damage from the Foundation Establishing tribulation.
 筑基丹丹方¤Foundation Recipe
-严格按照丹方配比可炼出<二品长生丹>，服用后，寿元+15¤Strictly follow the ratio of the pill recipe to refine <G2 Longevity>, after taking it, longevity +15
+严格按照丹方配比可炼出<二品长生丹>，服用后，寿元+15¤<G2 Longevity>, after taking it, longevity +15
 二品长生丹丹方¤G2 Longevity Recipe
-严格按照丹方配比可炼出<二品养精丹>，服用后，气血上限+500¤Strictly follow the ratio of the pill recipe to refine <G1 Blood>, after taking it, health +111
+严格按照丹方配比可炼出<二品养精丹>，服用后，气血上限+500¤<G1 Blood>, after taking it, health +111
 二品养精丹丹方¤G2 Blood Recipe
-严格按照丹方配比可炼出<二品混元丹>，服用后，物理攻击+102¤Strictly follow the ratio of the pill recipe to refine <G2 P.Attack>, after taking it, physical attack +102
+严格按照丹方配比可炼出<二品混元丹>，服用后，物理攻击+102¤<G2 P.Attack>, after taking it, physical attack +102
 二品混元丹丹方¤G2 P.Attack Recipe
-严格按照丹方配比可炼出<二品合道丹>，服用后，法术攻击+102¤Strictly follow the ratio of the pill recipe to refine <G2 M.Attack>, after taking it, magic attack +102
+严格按照丹方配比可炼出<二品合道丹>，服用后，法术攻击+102¤<G2 M.Attack>, after taking it, magic attack +102
 二品合道丹丹方¤G2 M.Attack Recipe
-严格按照丹方配比可炼出<二品龟甲丹>，服用后，物理防御+87¤Strictly follow the ratio of the pill recipe to refine <G2 P.Def>, after taking it, physical defense +87
+严格按照丹方配比可炼出<二品龟甲丹>，服用后，物理防御+87¤<G2 P.Def>, after taking it, physical defense +87
 二品龟甲丹丹方¤G2 P.Def Recipe
-严格按照丹方配比可炼出<二品定灵丹>，服用后，法术防御+87¤Strictly follow the ratio of the pill recipe to refine <G2 M.Def>, after taking it, magic defense +87
+严格按照丹方配比可炼出<二品定灵丹>，服用后，法术防御+87¤<G2 M.Def>, after taking it, magic defense +87
 二品定灵丹丹方¤G2 M.Def Recipe
-严格按照丹方配比可炼出<两仪丹>，可以在筑基阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine <Yin Yang>, which can be used to increase the success rate when breaking through the realm in the Foundation Establishment realm!
+严格按照丹方配比可炼出<两仪丹>，可以在筑基阶段突破境界时使用增加成功率！¤<Yin Yang>, used to increase the success rate when breaking through stages in Foundation Establishment realm!
 两仪丹丹方¤Yin Yang
-严格按照丹方配比可炼出<融精丹>，服用后，修为+204378¤Strictly follow the ratio of the pill recipe to refine <Harmony Qi>, after taking it, the cultivation level will be +204378
+严格按照丹方配比可炼出<融精丹>，服用后，修为+204378¤<Harmony Qi>, after taking it, the cultivation level will be +204378
 融精丹丹方¤Harmony Qi Recipe
-严格按照丹方配比可炼出<降尘丹>，服用后，受到金丹雷劫伤害大幅降低！¤Strictly follow the ratio of the pill recipe to refine <Falling Dust>. After taking it, the damage from the Golden Core Thunder Tribulation will be greatly reduced!
+严格按照丹方配比可炼出<降尘丹>，服用后，受到金丹雷劫伤害大幅降低！¤<Falling Dust>, used to greatly reduce the damage from the Golden Core Thunder Tribulation
 降尘丹丹方¤Falling Dust Recipe
-严格按照丹方配比可炼出<金源丹>，服用后，金灵根+2¤Strictly follow the ratio of the pill recipe to refine the <Metal root 2>, after taking it, the Metal root +2
+严格按照丹方配比可炼出<金源丹>，服用后，金灵根+2¤<Metal root 2>, after taking it, the Metal root +2
 金源丹丹方¤Metal root 2 Recipe
-严格按照丹方配比可炼出<木源丹>，服用后，木灵根+2¤Strictly follow the ratio of the recipe to refine <Wood root 2>, after taking it, the root of wood spirit +2
+严格按照丹方配比可炼出<木源丹>，服用后，木灵根+2¤<Wood root 2>, after taking it, the root of wood spirit +2
 木源丹丹方¤Wood root 2 Recipe
-严格按照丹方配比可炼出<水源丹>，服用后，水灵根+2¤Strictly follow the ratio of the recipe to refine <Water root 2>, after taking it, the Water root +2
+严格按照丹方配比可炼出<水源丹>，服用后，水灵根+2¤<Water root 2>, after taking it, the Water root +2
 水源丹丹方¤Water root 2 Recipe
-严格按照丹方配比可炼出<火源丹>，服用后，火灵根+2¤Strictly follow the ratio of the pill recipe to refine <Fire root 2>, after taking it, Fire root +2
+严格按照丹方配比可炼出<火源丹>，服用后，火灵根+2¤<Fire root 2>, after taking it, Fire root +2
 火源丹丹方¤Fire root 2 Recipe
-严格按照丹方配比可炼出<土源丹>，服用后，土灵根+2¤Strictly follow the ratio of the pill recipe to refine <Earth root 2>, after taking it, the root of earth root +2
+严格按照丹方配比可炼出<土源丹>，服用后，土灵根+2¤<Earth root 2>, after taking it, the root of earth root +2
 土源丹丹方¤Earth root 2 Recipe
-严格按照丹方配比可炼出<三品长生丹>，服用后，寿元+25¤Strictly follow the ratio of the pill recipe to refine the <G3 Longevity>, after taking it, longevity +25
+严格按照丹方配比可炼出<三品长生丹>，服用后，寿元+25¤<G3 Longevity>, after taking it, longevity +25
 三品长生丹丹方¤G3 Longevity
-严格按照丹方配比可炼出<易经丹>，服用后，体质+0.2¤Strictly follow the ratio of the recipe to refine <Body Swift>, after taking it, the Physique +0.2
+严格按照丹方配比可炼出<易经丹>，服用后，体质+0.2¤<Body Swift>, after taking it, Physique +0.2
 易经丹丹方¤Body Swift Recipe
-严格按照丹方配比可炼出<金刚铁骨丹>，服用后，根骨+0.2¤Strictly follow the ratio of the recipe to refine <King Kong>, after taking it, Constitution +0.2
+严格按照丹方配比可炼出<金刚铁骨丹>，服用后，根骨+0.2¤<King Kong>, after taking it, Constitution +0.2
 金刚铁骨丹丹方¤King Kong Recipe
-严格按照丹方配比可炼出<青冥丹>，服用后，悟性+0.2¤Strictly follow the ratio of the recipe to refine <Abyss>, after taking it, comprehension +0.2
+严格按照丹方配比可炼出<青冥丹>，服用后，悟性+0.2¤<Abyss>, after taking it, comprehension +0.2
 青冥丹丹方¤Abyss Recipe
-严格按照丹方配比可炼出<三品养精丹>，服用后，气血上限+1781¤Strictly follow the ratio of the pill recipe to refine the 'G3 Blood', after taking it, health +1781
+严格按照丹方配比可炼出<三品养精丹>，服用后，气血上限+1781¤<G3 Blood>, after taking it, health +1781
 三品养精丹丹方¤G3 Blood Recipe
-严格按照丹方配比可炼出<三品混元丹>，服用后，物理攻击+374¤Strictly follow the ratio of the pill recipe to refine <G3 P.Attack>, after taking it, physical attack +374
+严格按照丹方配比可炼出<三品混元丹>，服用后，物理攻击+374¤<G3 P.Attack>, after taking it, physical attack +374
 三品混元丹丹方¤G3 P.Attack recipe
-严格按照丹方配比可炼出<三品合道丹>，服用后，法术攻击+374¤Strictly follow the ratio of the pill recipe to refine the <G3 M.Attack>, after taking it, magic attack +374
+严格按照丹方配比可炼出<三品合道丹>，服用后，法术攻击+374¤<G3 M.Attack>, after taking it, magic attack +374
 三品合道丹丹方¤G3 M.Attack recipe
-严格按照丹方配比可炼出<三品龟甲丹>，服用后，物理防御+317¤Strictly follow the ratio of the pill recipe to refine <G3 P.Def>, after taking it, physical defense +317
+严格按照丹方配比可炼出<三品龟甲丹>，服用后，物理防御+317¤<G3 P.Def>, after taking it, physical defense +317
 三品龟甲丹丹方¤G3 P.Def recipe
-严格按照丹方配比可炼出<三品定灵丹>，服用后，法术防御+317¤Strictly follow the ratio of the pill recipe to refine the <G3 M.Def>, after taking it, magic defense +317
+严格按照丹方配比可炼出<三品定灵丹>，服用后，法术防御+317¤<G3 M.Def>, after taking it, magic defense +317
 三品定灵丹丹方¤G3 M.Def Recipe
-严格按照丹方配比可炼出<三才丹>，可以在金丹阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine the <Three-Gifts>, which can be used to increase the success rate when breaking through the realm of the Golden Core realm!
+严格按照丹方配比可炼出<三才丹>，可以在金丹阶段突破境界时使用增加成功率！¤<Three -Gifts>, used to increase the success rate when breaking through stages in Golden Core realm!
 三才丹丹方¤Three-Gifts Recipe
-严格按照丹方配比可炼出<驱尘丹>，灵兽进化时所必须的丹药！¤Strictly follow the ratio of the pill recipe to refine <Wash body>, the pill that is necessary for the evolution of spirit beasts!
+严格按照丹方配比可炼出<驱尘丹>，灵兽进化时所必须的丹药！¤<Wash body>, the pill that is necessary for the evolution of spirit beasts!
 驱尘丹丹方¤Wash body Recipe
-严格按照丹方配比可炼出<凝魄丹>，服用后，修为+646672¤Strictly follow the ratio of the recipe to refine <Solid soul>, after taking it, the cultivation level will be +646672
+严格按照丹方配比可炼出<凝魄丹>，服用后，修为+646672¤<Solid soul>, after taking it, the cultivation level will be +646672
 凝魄丹丹方¤Solid soul Recipe
-严格按照丹方配比可炼出<安魂丹>，服用后，受到元婴雷劫伤害大幅降低！¤Strictly follow the ratio of the pill recipe to refine <Guard Soul>, after taking it, the damage from Nascent Soul Thunder Tribulation will be greatly reduced!
+严格按照丹方配比可炼出<安魂丹>，服用后，受到元婴雷劫伤害大幅降低！¤<Guard Soul>, used to greatly reduce the damage from Nascent Soul Tribulation
 安魂丹丹方¤Guard Soul Recipe
-严格按照丹方配比可炼出<四品长生丹>，服用后，寿元+50¤Strictly follow the ratio of the pill recipe to refine <G4 Longevity>, after taking it, longevity +50
+严格按照丹方配比可炼出<四品长生丹>，服用后，寿元+50¤<G4 Longevity>, after taking it, longevity +50
 四品长生丹丹方¤G4 Longevity Recipe
-严格按照丹方配比可炼出<四品养精丹>，服用后，气血上限+4093¤Strictly follow the ratio of the pill recipe to refine <G4 Blood>, after taking it, health +4093
+严格按照丹方配比可炼出<四品养精丹>，服用后，气血上限+4093¤<G4 Blood>, after taking it, health +4093
 四品养精丹丹方¤G4 Blood Recipe
-严格按照丹方配比可炼出<四品混元丹>，服用后，物理攻击+870¤Strictly follow the ratio of the pill recipe to refine <G4 P.Attack>, after taking it, physical attack +870
+严格按照丹方配比可炼出<四品混元丹>，服用后，物理攻击+870¤<G4 P.Attack>, after taking it, physical attack +870
 四品混元丹丹方¤G4 P.Attack
-严格按照丹方配比可炼出<四品合道丹>，服用后，法术攻击+870¤Strictly follow the ratio of the pill recipe to refine the <G4 M.Attack>, after taking it, magic attack +870
+严格按照丹方配比可炼出<四品合道丹>，服用后，法术攻击+870¤<G4 M.Attack>, after taking it, magic attack +870
 四品合道丹丹方¤G4 M.Attack Recipe
-严格按照丹方配比可炼出<四品龟甲丹>，服用后，物理防御+740¤Strictly follow the ratio of the pill recipe to refine <G4 P.Def>, after taking it, physical defense +740
+严格按照丹方配比可炼出<四品龟甲丹>，服用后，物理防御+740¤<G4 P.Def>, after taking it, physical defense +740
 四品龟甲丹丹方¤G4 P.Def Recipe
-严格按照丹方配比可炼出<四品定灵丹>，服用后，法术防御+740¤Strictly follow the ratio of the pill recipe to refine the <G4 M.Def>, after taking it, magic defense +740
+严格按照丹方配比可炼出<四品定灵丹>，服用后，法术防御+740¤<G4 M.Def>, after taking it, magic defense +740
 四品定灵丹丹方¤G4 M.Def Recipe
-严格按照丹方配比可炼出<四象丹>，可以在元婴阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine the <Elephant>, which can be used to increase the success rate when breaking through in the Nascent Soul realm!
+严格按照丹方配比可炼出<四象丹>，可以在元婴阶段突破境界时使用增加成功率！¤<Elephant>, used to increase the success rate when breaking through stages in Nascent Soul realm!
 四象丹丹方¤Elephant Recipe
-严格按照丹方配比可炼出<纳元丹>，服用后，修为+1864508¤Strictly follow the ratio of the pill recipe to refine <Heaven faith>, after taking it, the cultivation level will be +1864508
+严格按照丹方配比可炼出<纳元丹>，服用后，修为+1864508¤<Heaven faith>, after taking it, the cultivation level will be +1864508
 纳元丹丹方¤Heaven faith Recipe
-严格按照丹方配比可炼出<培婴丹>，服用后，受到化神雷劫伤害大幅降低！¤Strictly follow the ratio of the pill recipe to refine the 'Infant', after taking it, the damage from the Deity Transformation Thunder Calamity will be greatly reduced!
+严格按照丹方配比可炼出<培婴丹>，服用后，受到化神雷劫伤害大幅降低！¤<Infant>, used to greatly reduce the damage from the Deity Transformation tribulation 
 培婴丹丹方¤Infant Recipe
-严格按照丹方配比可炼出<五品长生丹>，服用后，寿元+100¤Strictly follow the ratio of the pill recipe to refine the <G5 Longevity>, after taking it, the longevity +100
+严格按照丹方配比可炼出<五品长生丹>，服用后，寿元+100¤<G5 Longevity>, after taking it, the longevity +100
 五品长生丹丹方¤G5 Longevity Recipe
-严格按照丹方配比可炼出<九转易经丹>，服用后，体质+0.3¤Strictly follow the ratio of the pill recipe to refine the <Nine-Body>, after taking it, the Physique +0.3
+严格按照丹方配比可炼出<九转易经丹>，服用后，体质+0.3¤<Nine-Body>, after taking it, the Physique +0.3
 九转易经丹丹方¤Nine-Body Recipe
-严格按照丹方配比可炼出<九转铁骨丹>，服用后，根骨+0.3¤Strictly follow the ratio of the pill recipe to refine <Nine-Bones>, after taking it, Constitution +0.3
+严格按照丹方配比可炼出<九转铁骨丹>，服用后，根骨+0.3¤<Nine-Bones>, after taking it, Constitution +0.3
 九转铁骨丹丹方¤Nine-Bones Recipe
-严格按照丹方配比可炼出<九转青冥丹>，服用后，悟性+0.3¤Strictly follow the ratio of the recipe to refine the <Nine-Hells>, after taking it, comprehension +0.3
+严格按照丹方配比可炼出<九转青冥丹>，服用后，悟性+0.3¤<Nine-Hells>, after taking it, comprehension +0.3
 九转青冥丹丹方¤Nine-Hells Recipe
-严格按照丹方配比可炼出<五品养精丹>，服用后，气血上限+12630¤Strictly follow the ratio of the recipe to refine <G5 Blood>, after taking it, health +12630
+严格按照丹方配比可炼出<五品养精丹>，服用后，气血上限+12630¤<G5 Blood>, after taking it, health +12630
 五品养精丹丹方¤G5 Blood Recipe
-严格按照丹方配比可炼出<五品混元丹>，服用后，物理攻击+2733¤Strictly follow the ratio of the recipe to refine the <G5 P.Attack>, after taking it, physical attack +2733
+严格按照丹方配比可炼出<五品混元丹>，服用后，物理攻击+2733¤<G5 P.Attack>, after taking it, physical attack +2733
 五品混元丹丹方¤G5 P.Attack Recipe
-严格按照丹方配比可炼出<五品合道丹>，服用后，法术攻击+2733¤Strictly follow the ratio of the pill recipe to refine <G5 M.Attack>, after taking it, magic attack +2733
+严格按照丹方配比可炼出<五品合道丹>，服用后，法术攻击+2733¤<G5 M.Attack>, after taking it, magic attack +2733
 五品合道丹丹方¤G5 M.Attack Recipe
-严格按照丹方配比可炼出<五品龟甲丹>，服用后，物理防御+2323¤Strictly follow the ratio of the pill recipe to refine <G5 P.Def>, after taking it, physical defense +2323
+严格按照丹方配比可炼出<五品龟甲丹>，服用后，物理防御+2323¤<G5 P.Def>, after taking it, physical defense +2323
 五品龟甲丹丹方¤G5 P.Def Recipe
-严格按照丹方配比可炼出<五品定灵丹>，服用后，法术防御+2323¤Strictly follow the ratio of the pill recipe to refine the <G5 M.Def>, after taking it, magic defense +2323
+严格按照丹方配比可炼出<五品定灵丹>，服用后，法术防御+2323¤<G5 M.Def>, after taking it, magic defense +2323
 五品定灵丹丹方¤G5 M.Def
-严格按照丹方配比可炼出<五行丹>，可以在化神阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine the <Five-Qi>, which can be used to increase the success rate when breaking through the realm in the Deity Transformation!
+严格按照丹方配比可炼出<五行丹>，可以在化神阶段突破境界时使用增加成功率！¤<Five-Qi>, used to increase the success rate when breaking through stages in Deity Transformation!
 五行丹丹方¤Five-Qi Recipe
-严格按照丹方配比可炼出<涤魂丹>，灵兽进化时所必须的丹药！¤Strictly follow the ratio of the pill recipe to refine <Wash soul>, the pill that is necessary for the evolution of spirit beasts!
+严格按照丹方配比可炼出<涤魂丹>，灵兽进化时所必须的丹药！¤<Wash soul>, the pill that is necessary for the evolution of spirit beasts!
 涤魂丹丹方¤Wash soul Recipe
-严格按照丹方配比可炼出<聚神丹>，服用后，修为+4605006¤Strictly follow the ratio of the pill recipe to refine <Divine Qi>, after taking it, the cultivation level will be +4605006
+严格按照丹方配比可炼出<聚神丹>，服用后，修为+4605006¤<Divine Qi>, after taking it, the cultivation level will be +4605006
 聚神丹丹方¤Divine Qi Recipe
-严格按照丹方配比可炼出<合体丹>，服用后，受到合体雷劫伤害大幅降低！¤Strictly follow the ratio of the pill recipe to refine the <Fusion>, after taking it, the damage from the Body Integration Thunder Tribulation will be greatly reduced!
+严格按照丹方配比可炼出<合体丹>，服用后，受到合体雷劫伤害大幅降低！¤<Fusion>, used to greatly reduce the damage from the Body Integration Tribulation 
 合体丹丹方¤Fusion Recipe
-严格按照丹方配比可炼出<凝铁丹>，服用后，金灵根+3¤Strictly follow the ratio of the pill recipe to refine <Metal root 3>, after taking it, Metal Root +3
+严格按照丹方配比可炼出<凝铁丹>，服用后，金灵根+3¤<Metal root 3>, after taking it, Metal Root +3
 凝铁丹丹方¤Metal root 3 Recipe
-严格按照丹方配比可炼出<森鼎丹>，服用后，木灵根+3¤Strictly follow the ratio of the recipe to refine <Wood root 3>, after taking it, Wood Root +3
+严格按照丹方配比可炼出<森鼎丹>，服用后，木灵根+3¤<Wood root 3>, after taking it, Wood Root +3
 森鼎丹丹方¤Wood root 3 Recipe
-严格按照丹方配比可炼出<澔淼丹>，服用后，水灵根+3¤Strictly follow the ratio of the recipe to refine <Water root 3>, after taking it, Water Root +3
+严格按照丹方配比可炼出<澔淼丹>，服用后，水灵根+3¤<Water root 3>, after taking it, Water Root +3
 澔淼丹丹方¤Water root 3 Recipe
-严格按照丹方配比可炼出<玄阳丹>，服用后，火灵根+3¤Strictly follow the ratio of the pill recipe to refine <Fire root 3>, after taking it, Fire Root +3
+严格按照丹方配比可炼出<玄阳丹>，服用后，火灵根+3¤<Fire root 3>, after taking it, Fire Root +3
 玄阳丹丹方¤Fire root 3 Recipe
-严格按照丹方配比可炼出<地元丹>，服用后，土灵根+3¤Strictly follow the ratio of the pill recipe to refine <Earth root 3>, after taking it, Earth Root +3
+严格按照丹方配比可炼出<地元丹>，服用后，土灵根+3¤<Earth root 3>, after taking it, Earth Root +3
 地元丹丹方¤Earth root 3 Recipe
-严格按照丹方配比可炼出<六品长生丹>，服用后，寿元+200¤Strictly follow the ratio of the pill recipe to refine the <G6 Longevity>, after taking it, longetivity +200
+严格按照丹方配比可炼出<六品长生丹>，服用后，寿元+200¤<G6 Longevity>, after taking it, longetivity +200
 六品长生丹丹方¤G6 Longevity Recipe
-严格按照丹方配比可炼出<六品养精丹>，服用后，气血上限+32108¤Strictly follow the ratio of the pill recipe to refine <G6 Blood>, after taking it, health +32108
+严格按照丹方配比可炼出<六品养精丹>，服用后，气血上限+32108¤<G6 Blood>, after taking it, health +32108
 六品养精丹丹方¤G6 Blood Recipe
-严格按照丹方配比可炼出<六品混元丹>，服用后，物理攻击+6959¤Strictly follow the ratio of the pill recipe to refine <G6 P.Attack>, after taking it, physical attack +6959
+严格按照丹方配比可炼出<六品混元丹>，服用后，物理攻击+6959¤<G6 P.Attack>, after taking it, physical attack +6959
 六品混元丹丹方¤G6 P.Attack recipe
-严格按照丹方配比可炼出<六品合道丹>，服用后，法术攻击+6959¤Strictly follow the ratio of the recipe to refine the <G6 M.Attack>, after taking it, magic attack +6959
+严格按照丹方配比可炼出<六品合道丹>，服用后，法术攻击+6959¤<G6 M.Attack>, after taking it, magic attack +6959
 六品合道丹丹方¤G6 M.Attack Recipe
-严格按照丹方配比可炼出<六品龟甲丹>，服用后，物理防御+5915¤Strictly follow the ratio of the pill recipe to refine <G6 P.Def>, after taking it, physical defense +5915
+严格按照丹方配比可炼出<六品龟甲丹>，服用后，物理防御+5915¤<G6 P.Def>, after taking it, physical defense +5915
 六品龟甲丹丹方¤G6 P.Def Recipe
-严格按照丹方配比可炼出<六品定灵丹>，服用后，法术防御+5915¤Strictly follow the ratio of the pill recipe to refine <G6 M.Def>, after taking it, magic defense +5915
+严格按照丹方配比可炼出<六品定灵丹>，服用后，法术防御+5915¤<G6 M.Def>, after taking it, magic defense +5915
 六品定灵丹丹方¤G6 M.Def Recipe
-严格按照丹方配比可炼出<六合丹>，可以在合体阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine <Sun Star>, which can be used to increase the success rate when breaking through the realm in the Body Integration!
+严格按照丹方配比可炼出<六合丹>，可以在合体阶段突破境界时使用增加成功率！¤<Sun Star>, used to increase the success rate when breaking through stages in Body Integration realm!
 六合丹丹方¤Sun Star Recipe
-严格按照丹方配比可炼出<归元丹>，服用后，修为+10964152¤Strictly follow the ratio of the pill recipe to refine <Rebirth>, after taking it, the cultivation base will be +10964152
+严格按照丹方配比可炼出<归元丹>，服用后，修为+10964152¤<Rebirth>, after taking it, the cultivation base will be +10964152
 归元丹丹方¤Rebirth Recipe
-严格按照丹方配比可炼出<仙元丹>，服用后，受到大乘雷劫伤害大幅降低！¤Strictly follow the ratio of the pill recipe to refine the <Celestial>. After taking it, the damage from the Enlightenment thunder calamity will be greatly reduced!
+严格按照丹方配比可炼出<仙元丹>，服用后，受到大乘雷劫伤害大幅降低！¤<Celestial>, used to greatly reduce the damage from the Enlightenment tribulation
 仙元丹丹方¤Celestial Recipe
-严格按照丹方配比可炼出<七品长生丹>，服用后，寿元+400¤Strictly follow the ratio of the pill recipe to refine <G7 Longevity>, after taking it, longetivity +400
+严格按照丹方配比可炼出<七品长生丹>，服用后，寿元+400¤<G7 Longevity>, after taking it, longetivity +400
 七品长生丹丹方¤G7 Longevity
-严格按照丹方配比可炼出<七品养精丹>，服用后，气血上限+81661¤Strictly follow the ratio of the pill recipe to refine <G7 Blood>, after taking it, health +81661
+严格按照丹方配比可炼出<七品养精丹>，服用后，气血上限+81661¤<G7 Blood>, after taking it, health +81661
 七品养精丹丹方¤G7 Blood Recipe
-严格按照丹方配比可炼出<七品混元丹>，服用后，物理攻击+17730¤Strictly follow the ratio of the pill recipe to refine <G7 P.Attack>, after taking it, physical attack +17730
+严格按照丹方配比可炼出<七品混元丹>，服用后，物理攻击+17730¤<G7 P.Attack>, after taking it, physical attack +17730
 七品混元丹丹方¤G7 P.Attack Recipe
-严格按照丹方配比可炼出<七品合道丹>，服用后，法术攻击+17730¤Strictly follow the ratio of the pill recipe to refine <G7 M.Attack>, after taking it, magic attack +17730
+严格按照丹方配比可炼出<七品合道丹>，服用后，法术攻击+17730¤<G7 M.Attack>, after taking it, magic attack +17730
 七品合道丹丹方¤G7 M.Attack Recipe
-严格按照丹方配比可炼出<七品龟甲丹>，服用后，物理防御+15070¤Strictly follow the ratio of the pill recipe to refine <G7 P.Def>, after taking it, physical defense +15070
+严格按照丹方配比可炼出<七品龟甲丹>，服用后，物理防御+15070¤<G7 P.Def>, after taking it, physical defense +15070
 七品龟甲丹丹方¤G7 P.Def Recipe
-严格按照丹方配比可炼出<七品定灵丹>，服用后，法术防御+15070¤Strictly follow the ratio of the pill recipe to refine <G7 M.Def>, after taking it, magic defense +15070
+严格按照丹方配比可炼出<七品定灵丹>，服用后，法术防御+15070¤<G7 M.Def>, after taking it, magic defense +15070
 七品定灵丹丹方¤G7 M.Def Recipe
-严格按照丹方配比可炼出<七星丹>，可以在大乘阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine the <Seven stars>, which can be used to increase the success rate when breaking through the Enlightenment realm!
+严格按照丹方配比可炼出<七星丹>，可以在大乘阶段突破境界时使用增加成功率！¤<Seven stars>, used to increase the success rate when breaking through stages in Enlightenment realm!
 七星丹丹方¤Seven stars Recipe
-严格按照丹方配比可炼出<破界丹>，服用后，修为+24084572¤Strictly follow the ratio of the pill recipe to refine <Ascension>, after taking it, the cultivation base will be +24084572
+严格按照丹方配比可炼出<破界丹>，服用后，修为+24084572¤<Ascension>, after taking it, the cultivation base will be +24084572
 破界丹丹方¤Ascension Recipe
-严格按照丹方配比可炼出<化劫丹>，服用后，受到渡劫雷劫伤害大幅降低！¤Strictly follow the ratio of the pill recipe to refine the <Calamity>, after taking it, the damage from the Ascension Thunder Calamity will be greatly reduced!
+严格按照丹方配比可炼出<化劫丹>，服用后，受到渡劫雷劫伤害大幅降低！¤<Calamity>, used to greatly reduce the damage from the Ascension tribulation
 化劫丹丹方¤Calamity Recipe
-严格按照丹方配比可炼出<八品长生丹>，服用后，寿元+800¤Strictly follow the ratio of the pill recipe to refine the <G8 Longevity>, after taking it, longevity +800
+严格按照丹方配比可炼出<八品长生丹>，服用后，寿元+800¤<G8 Longevity>, after taking it, longevity +800
 八品长生丹丹方¤G8 Longevity Recipe
-严格按照丹方配比可炼出<八品养精丹>，服用后，气血上限+260438¤Strictly follow the ratio of the recipe to refine the <G8 Blood>. After taking it, health +260438
+严格按照丹方配比可炼出<八品养精丹>，服用后，气血上限+260438¤<G8 Blood>. After taking it, health +260438
 八品养精丹丹方¤G8 Blood Recipe
-严格按照丹方配比可炼出<八品混元丹>，服用后，物理攻击+55938¤Strictly follow the ratio of the pill recipe to refine <G8 P.Attack>, after taking it, physical attack +55938
+严格按照丹方配比可炼出<八品混元丹>，服用后，物理攻击+55938¤<G8 P.Attack>, after taking it, physical attack +55938
 八品混元丹丹方¤G8 P.Attack Recipe
-严格按照丹方配比可炼出<八品合道丹>，服用后，法术攻击+55938¤Strictly follow the ratio of the pill recipe to refine the <G8 M.Attack>, after taking it, the spell attack +55938
+严格按照丹方配比可炼出<八品合道丹>，服用后，法术攻击+55938¤<G8 M.Attack>, after taking it, the spell attack +55938
 八品合道丹丹方¤G8 M.Attack Recipe
-严格按照丹方配比可炼出<八品龟甲丹>，服用后，物理防御+47547¤Strictly follow the ratio of the pill recipe to refine <G8 P.Def>, after taking it, physical defense +47547
+严格按照丹方配比可炼出<八品龟甲丹>，服用后，物理防御+47547¤<G8 P.Def>, after taking it, physical defense +47547
 八品龟甲丹丹方¤G8 P.Def Recipe
-严格按照丹方配比可炼出<八品定灵丹>，服用后，法术防御+47547¤Strictly follow the ratio of the pill recipe to refine <G8 M.Def>, after taking it, magic defense +47547
+严格按照丹方配比可炼出<八品定灵丹>，服用后，法术防御+47547¤<G8 M.Def>, after taking it, magic defense +47547
 八品定灵丹丹方¤G8 M.Def
-严格按照丹方配比可炼出<八卦丹>，可以在渡劫阶段突破境界时使用增加成功率！¤Strictly follow the ratio of the pill recipe to refine <Trigram>, which can be used to increase the success rate when breaking through the realm in the Ascension realm!
+严格按照丹方配比可炼出<八卦丹>，可以在渡劫阶段突破境界时使用增加成功率！¤ <G8 M.Def>, used to increase the success rate when breaking through stages in Ascension realm!
 八卦丹丹方¤Trigram Recipe

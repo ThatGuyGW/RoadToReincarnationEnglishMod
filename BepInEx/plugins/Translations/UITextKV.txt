@@ -166,14 +166,14 @@ cd:20秒¤Cooldown: 20 seconds
 材\n料¤Material
 呼风真11¤Wind-blowing 11
 背包容量:¤Backpack capacity:
-论 道¤Discuss Dao
+论 道¤Talk
 赠 予¤Gift
-双 修¤Dou Cultivate
-切 磋¤Sparring
-组 队¤Team up
-结为道侣¤Become a partner
+双 修¤Cultivate
+切 磋¤Duel
+组 队¤Invite
+结为道侣¤Love
 交 易¤Trade
-索 取¤Ask for
+索 取¤Ask
 窃 取¤Steal
 攻 击¤Attack
 蛮荒（第一世）¤Savage (first life)
@@ -245,7 +245,7 @@ cd:20秒¤Cooldown: 20 seconds
 放 生¤release
 血 脉¤the blood
 真龙本源¤True Dragon Origin
-觉 醒¤wake up
+觉 醒¤Awaken
 体质(12.2)¤Physique (12.2)
 根骨(12.2)¤Constitution (12.2)
 悟性(12.22)¤Perception (12.22)
@@ -470,7 +470,7 @@ NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
 命 格¤fate
 全部功法¤All exercises
 经\n历¤Experience\nCalendar
-觉 醒¤wake up
+觉 醒¤Awaken
 解除道侣¤Disarm companion
 确定放生灵宠？¤Are you sure you want to release your soul pet?
 天 赋¤talent
@@ -762,16 +762,16 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 宗门关系¤Zongmen relationship
 护宗大阵¤Guardian array
 俸禄：1234灵石/年¤Salary: 1234 spirit stones/year
-探查¤probe
-出 售¤sell
-持续按下左键可以快速选择出售物品¤Press and hold the left button to quickly select items for sale
+探查¤Probe
+出 售¤Sell
+持续按下左键可以快速选择出售物品¤Hold the left-click to quickly select items
 出售物品栏¤Sell ​​Items
-待售物品¤items for sale
-物品数量¤number of the stuffs
+待售物品¤Items for sale
+物品数量¤Number of items
 勾选后复数物品不再询问数量¤After checking, multiple items will no longer ask for the quantity
 <color=#FFFFFF00>缩进</color>当npc给你发送传书时，均有赞同与无法认同两个选项，做出对应的选择后可以影响此次聊天的结果当npc给你发送传书时，均有赞同与无法认同两个选项，做出对应的选择后可以影响此次聊天的结果当npc给你发送传书时，均有赞同与无法认同两个选项。¤<color=#FFFFFF00>Indent</color> When an npc sends you a message, there are two options of agreeing and disagreeing. After making the corresponding choice, it can affect the result of this chat. When the npc sends you a message When writing a book, there are two options of agreeing and disagreeing. After making the corresponding choice, it can affect the result of this chat. When an npc sends you a letter, there are two options of agreeing and disagreeing.
-夸赞好友¤praise friends
-闲谈/论道¤gossip/discussion
+夸赞好友¤Praise friends
+闲谈/论道¤Gossip/discussion
 无法认同¤can not agree
 莘和风的来信¤Letter from Xin Hefeng
 发送传书¤send letter
@@ -898,7 +898,7 @@ xxxx(筑基三重)¤xxxx (Building Foundation Triple Layer)
 未解锁¤Not unlocked
 仙子¤Fairy
 旗袍¤Cheongsam
-她看手机，费第三款，欧菲光肯德基莫高窟¤The country look at handy opportunities, but it always have a cost, staying humble and honorably is the base of the mortal virtues
+她看手机，费第三款，欧菲光肯德基莫高窟¤The country look at handy opportunities, but it always have a cost, staying humble and honorable is the base of the mortal virtues
 水灵根+2¤Water root +2
 瓶¤Bottle
 炼器炉¤Refining Furnace
