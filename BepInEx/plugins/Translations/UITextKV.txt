@@ -21,13 +21,13 @@
 双击前往炼器炉炼制¤Double-click to access the Refining Furnace
 祭炼¤Sacrifice
 传闻¤Rumor
-增加耐药度：¤Increase Drug Resistance:
+增加耐药度：¤Increase drug resistance:
 耐药度:0%¤Drug Resistance: 0%
 品质：¤Quality:
 使用等级：10级¤Required Level: Level 10
 神通¤Divine Abilities
 CD:20秒¤Cooldown: 20 seconds
-需要灵根：¤Required Spiritual Roots:
+需要灵根：¤Required roots:
 需要境界：¤Required Realm:
 ~双击打开弟子界面学习~¤Double-click to open the disciple interface to learn
 开始参悟¤Begin Enlightenment
@@ -50,7 +50,7 @@ cd:20秒¤Cooldown: 20 seconds
 公告¤Announcement
 \n欢迎各位道友来到无尽轮回的修仙世界！\n\n目前游戏版本是抢先体验版，版本还有点不稳定，很多道友第一次玩这个游戏，可能会遇到一些问题，我们正在抓紧时间修复，拜托道友们给我们一点点时间！\n\n如果道友们遇到任何问题，可以加入我们的官方修仙交流群"174833518"私聊官方管理无羁，无心，无道反馈，我们会全力帮忙解决问题，再次拜谢！\n¤\nWelcome, fellow Daoists, to the endless cycle of cultivation in the world of immortals!\nThe current game version is in early access, which may be a bit unstable. Many players may encounter some issues while playing for the first time. We are working diligently to fix them and ask for your patience.\nIf you encounter any problems, please join our official Xiuxian exchange group "174833518" and privately chat with our official management team, who will do their best to assist you. Thank you once again! \n
 韩立老魔¤Han Li Laomo
-(元婴5重  18/200岁)¤(Yuanying 5 weight 18/200 years old)
+(元婴5重  18/200岁)¤(Nascent Soul 5 weight 18/200 years old)
 最后登录：2021/11/6 20:59:59¤Last login: 2021/11/6 20:59:59
 名字¤Name:
 新建存档¤New Save
@@ -98,26 +98,26 @@ cd:20秒¤Cooldown: 20 seconds
 保存¤Save
 肤色¤Skin color
 服装¤Clothing
-脸妆¤Face makeup
+脸妆¤Tattoo
 嘴巴¤Mouth
 鼻子¤Nose
 眉毛¤Eyebrow
-发型¤Hairstyle
-(第一世)¤(First world)
+发型¤Hair
+(第一世)¤(First life)
 你你你你你你你你你你你你你你你你你你你你1111¤you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you you 1111
-开始仙途¤Start Your Immortal Journey
+开始仙途¤Begin
 每点灵根可以提升对应系功法伤害0.5%！¤Each point of spiritual root can increase the damage of corresponding element skills by 0.5%!
 第一世¤First life
 正在加载NPC……¤Loading NPCs...
-“废物是没有资格修仙的！..."¤Waste is not qualified to cultivate immortality!...
+“废物是没有资格修仙的！..."¤Trash are not qualified to cultivate to immortality!...
 正在权衡利弊...¤Weighing the pros and cons...
 月青树¤Moongreen
 (16/100岁）¤(16/100 years old)
-练气一重天¤Qi Condensation first level
+练气一重天¤Qi Condensation first stage
 防卡死¤Stuck?
 在没有禁制的小世界中，练气3重的修士便可以御剑飞行了！\n按F键，可以开启/关闭御剑状态。¤In a small world with no restrictions, cultivators with the third level of Qi Condensation can fly with the sword! \nPress the F key to turn on/off the Imperial Sword.
 释放神识可以将附近的怪物快速拉入战斗结界中！\n持续按住Q键可以释放神识。¤The release of consciousness can quickly pull nearby monsters into the battle barrier! \nPress and hold the Q key to release the consciousness.
-打坐调息可以恢复气血值！打坐时，切不可被强行中断，\n极易走火入魔！\n按V键，接入打坐状态！¤Meditation and breathing adjustment can restore health value! When meditating, you must not be forcibly interrupted, \n it is very easy to go crazy! \nPress the V key to enter the meditation state!
+打坐调息可以恢复气血值！打坐时，切不可被强行中断，\n极易走火入魔！\n按V键，接入打坐状态！¤Cultivation can restore health! When cultivating, you must not be forcibly interrupted, \n it is very easy to go crazy! \nPress the V key to enter the cultivation state!
 在没有禁制的小世界中，可以御剑飞行！\n按F键，可以开启/关闭御剑状态。¤In a small world without restrictions, you can fly with a sword! \nPress the F key to turn on/off the Imperial Sword.
 当前境界积累修为达到上限后，便可以进行境界突破。在大境界突破时，还需要进行渡劫！\n按T键，可以进入突破/渡劫！¤After the current realm accumulation reaches the upper limit, you can make a realm breakthrough. When breaking through the big realm, you still need to cross the tribulation! \nPress the T key to enter breakthrough/transcendence!
 清理内存¤Clear memory
@@ -136,15 +136,15 @@ cd:20秒¤Cooldown: 20 seconds
 破灭元年3月12日¤March 12th of the first year of disillusionment
 将在1年12月21天后重生¤Will respawn after 1Y12M21D
 世界演变中……¤The world is evolving...
-聚仙16年1月1日¤Juxian 1.1.16
-聚仙16年1月2日¤Juxian 1.2.16
-我知道了¤I see
+聚仙16年1月1日¤ 1.1.16
+聚仙16年1月2日¤ 1.2.16
+我知道了¤Accept
 闭关百年¤Cultivate in seclusion for 100 years
 轮回重生¤Reincarnate
 境界：练气一重  气血恢复：33天  修为增长：1/天¤Realm: Qi Condensation First Stage  Qi and Health Recovery：33 days  Growth: 1/day
 调息¤Meditate 
 离开¤Leave
-·打坐可以快速恢复气血，需要消耗一定时间！·¤·Meditation can restore HP, but it takes time!·
+·打坐可以快速恢复气血，需要消耗一定时间！·¤·cultivation can restore HP, but it takes time!·
 我的任务¤My task
 风气云涌¤Stormy
 告别¤Bid farewell
@@ -193,7 +193,7 @@ cd:20秒¤Cooldown: 20 seconds
 命 格¤Traits
 命数：¤Fate:
  属性加成  ¤Stats bonus
-攻击速度¤Attack Speed
+攻击速度¤A. Speed
 详细信息¤Details (1.23)
 已习得神通¤Learned Divine skill
 全部功法¤All
@@ -202,8 +202,8 @@ cd:20秒¤Cooldown: 20 seconds
   使用中功法¤  Method in use
 可添加¤can be added
 灵技：¤Skills:
-身法：¤Movement:
-心法：¤Mind method:
+身法：¤Haste:
+心法：¤Heart method:
 全 部¤All
 一 品¤G1
 二 品¤G2
@@ -251,7 +251,7 @@ cd:20秒¤Cooldown: 20 seconds
 悟性(12.22)¤Perception (12.22)
 培 育¤cultivate
 天 赋¤talent
-妖 术¤witchcraft
+妖 术¤Demon Arts
 学 习¤study
 隐月狼灵资质¤Hidden Moon Wolf Spirit Qualification
 常见：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Common: Physique 4.2~4.98 Constitution 4.2~4.98 perception 4.2~4.98
@@ -437,7 +437,7 @@ NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
 轮回重生¤reincarnation
 离开¤leave
 调息¤Pranayama
-·打坐可以快速恢复气血，需要消耗一定时间！·¤·Meditation can quickly restore health, but it takes a certain amount of time! ·
+·打坐可以快速恢复气血，需要消耗一定时间！·¤·cultivation can quickly restore health, but it takes a certain amount of time! ·
 境界：练气一重  气血恢复：33天  修为增长：1/天¤Realm: 1st level of Qi Condensation health recovery: 33 days Cultivation growth: 1/day
 换一批¤Change batch
 选择命格继承至下一世：¤Choose fate to inherit to the next life:
@@ -482,11 +482,11 @@ NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
 仇恨¤hate
 炼制成功率:未知¤Refining success rate: unknown
  属性加成  ¤ attribute bonus  
-身法：¤Movement:
+身法：¤Haste:
 道 心¤Dao Xin
 关\n系¤Relationship\nDepartment
 父亲¤Father
-妖 术¤witchcraft
+妖 术¤Demon Arts
 贪狼啊啊¤Greedy wolf
 珍奇：体质4.2~4.98   根骨4.2~4.98  悟性4.2~4.98¤Rare: Physique 4.2~4.98 Constitution 4.2~4.98 Comprehension 4.2~4.98
 已跟随¤followed
@@ -503,7 +503,7 @@ NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
 放生灵宠¤Release pets
 攻击速度¤attack speed
 吞 噬¤devour
-心法：¤Mind method:
+心法：¤Heart method:
 道侣¤Daoist
 上一世¤last life
 <color=#FFFFFF00>缩进</color>6年3月23日，在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。在天原城完成了天地灵气的吸取。¤<color=#FFFFFF00>Indent</color> On March 23, 6, he completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City. Completed the absorption of heaven and earth aura in Tianyuan City.
@@ -601,7 +601,7 @@ NpcID(绑定Npc基数表ID)¤NpcID (binding Npc base table ID)
 ~封印~ （祭炼至天罡禁制6重后解除）¤~Seal~ (sacrificed until Tiangang prohibition level 6 and then released)
 加入炼器材料¤Add refining material
 炼制¤Refining
-加入五行灵石¤Join Five Elements Lingshi
+加入五行灵石¤Join Five Elements Spirit stones
 XXX炼器师一阶¤XXX Refiner Level 1
 赠与¤donate
 赠予数量¤Gift amount
@@ -654,8 +654,8 @@ XXX炼器师一阶¤XXX Refiner Level 1
 需要精血：10086点¤Requires blood essence: 10086 points
 自毁本命法宝将损耗10%生命，\n是否确定要自毁本命法宝？¤Self-destructing the talisman will consume 10% of life,\nAre you sure you want to self-destruct the talisman?
 轩辕剑+1→+2，有30%几率可以将品质提升至红色，将解锁一条新的词缀！¤Xuanyuan Sword +1 → +2, there is a 30% chance that the quality can be upgraded to red, and a new affix will be unlocked!
-XXX对你的好感度+20（道侣）¤XXX's favorability towards you +20 (Tao Companion)
-聚仙19年9月3日¤Juxian 9/3/19
+XXX对你的好感度+20（道侣）¤XXX's favorability towards you +20 (Dao Companion)
+聚仙19年9月3日¤43533
 相约共同修炼，共求长生，共证大道！¤Make an appointment to practice together, seek longevity together, and prove the Dao together!
 XXXX与XXXX相约结为了道侣¤XXXX met with XXXX and became a Daoist couple
 点击任意区域继续……¤Click on any area to continue...
@@ -685,11 +685,11 @@ XXXX与XXXX相约结为了道侣¤XXXX met with XXXX and became a Daoist couple
 孵化灵兽需要花费365天！¤It takes 365 days to hatch a spirit beast!
 请为灵宠赐名！¤Please give the spirit pet a name!
 灵兽进化¤Spirit beast evolution
-开始孵化¤start hatching
-参 悟¤comprehend
-学习妖术¤learn witchcraft
+开始孵化¤Start hatching
+参 悟¤Comprehend
+学习妖术¤Learn Demon Arts
 完成进化后，您的灵兽资质上限将获得提升！¤After completing the evolution, your spirit beast qualification limit will be increased!
-进  化¤evolution
+进  化¤Evolution
 您的灵兽已经达到了修炼瓶颈，需要进化后方可继续修炼，进化需要以下素材：¤Your spirit beast has reached the bottleneck of cultivation and needs to evolve before continuing to practice. Evolution requires the following materials:
 本次进化需要灵兽的血脉本源之力至少达到10%！¤This evolution requires at least 10% of the original power of the bloodline of the spirit beast!
 灵兽进化后等阶不能超过您所在境界！¤After the spirit beast evolves, its level cannot exceed your level!
@@ -697,14 +697,14 @@ XXXX与XXXX相约结为了道侣¤XXXX met with XXXX and became a Daoist couple
 韩立（练气一重）¤Han Li (First stage of Qi Condensation)
 ↑ 请选择修炼天数 ↑¤↑ Please select the number of training days ↑
 修炼队伍¤practice team
-药引¤medicine lead
-主药¤Main drug
-开  始¤start
+药引¤Catalyst
+主药¤Primary Ingredient
+开  始¤Start
 空格(增加火力)¤Space (increased firepower)
-未知信息¤unknown information
-辅药¤Adjuvant
+未知信息¤Unknown information
+辅药¤Supplement
 完成炼制需要消耗：     天¤It takes consumption to complete refining: Days
-追加一份¤add one
+追加一份¤Add one
 经过26天的炼制，灵魄丹（2个）结丹成功¤After 26 days of refining, True Soul Pills (2 pieces) were successfully formed
 自定义¤customize
 按空格控制火力，需要提前预热，提升炉内温度¤Control the firepower according to the space, need to preheat in advance to increase the temperature in the furnace
@@ -734,9 +734,9 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 祭炼解除禁制：7/36重¤Sacrificing to lift the ban: 7/36 heavy
 气血：¤health:
 九州龙鼎玉玺¤Kyushu dragon tripod jade seal
-天罡禁制6重：吸血+10%¤Tiangang ban 6 levels: blood sucking +10%
+天罡禁制6重：吸血+10%¤Restriction of the Immortal Star 6th level: Lifesteal +10%
 不自动选择红色装备¤Do not automatically select red equipment
-存档中……¤Archiving...
+存档中……¤Saving...
 名字（境界）¤name (realm)
 天地门（友好）¤Heaven and Earth Gate (Friendly)
 职位¤Position
@@ -744,7 +744,7 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 领取俸禄¤receive salary
 宗主：123456¤Suzerain: 123456
 我的职位：外门弟子¤My position: Outer Sect Disciple
-加入宗门需要：引荐信（获得升仙大会冠军奖励）或达到金丹境¤To join the sect, you need: a letter of recommendation (received the champion reward of the Ascension to Immortals Conference) or reached the Golden Core Realm
+加入宗门需要：引荐信（获得升仙大会冠军奖励）或达到金丹境¤To join the sect, you need: a letter of recommendation (the champion reward in the Immortal Ascension Conference) or reach the Golden Core Realm
 好感度：100¤Favorability: 100
 镇宗长老：123456¤Zhenzong elders: 123456
 基本信息¤Basic Information
@@ -778,11 +778,11 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 向莘和风发送飞剑传书¤Send the flying sword letter to Xin Hefeng
 少侠你好：¤Hello young man:
 表示认同¤agree
-画 质¤picture quality
+画 质¤graphic quality
 分辨率¤resolution
 快¤quick
-慢¤slow
-大¤big
+慢¤quiet
+大¤loud
 音 效¤sound effects
 音 乐¤music
 指针灵敏度¤pointer sensitivity
@@ -792,7 +792,7 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 垂直同步¤Vertical sync
 修改快捷键¤Modify shortcut keys
 功法¤Gongfa
-我的灵石:¤My Lingshi:
+我的灵石:¤My Spirit stones:
 仙草¤Grass jelly
 3年12月21日后更新货物¤Update goods after 12/21/3
 法宝¤magic weapon
@@ -804,7 +804,7 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 烟水寒工作室，祝大家新年快乐，阖家欢乐！（宗门宝库宝物已刷新）¤Yan Shuihan Studio, I wish you a happy new year and a happy family! (The treasures in the Zongmen treasure house have been refreshed)
 重新感悟(7天)¤Re-perception (7 days)
 获得新生，他正在仔细感知经脉的变化¤Gaining a new life, he is carefully sensing the changes in the meridians
-境界突破，感悟到了一些大道法则：¤Realm breakthrough, realized some Dao laws:
+境界突破，感悟到了一些大道法则：¤Stage breakthrough, realized some Dao laws:
 物理攻击+22%\n1231123¤Physical attack +22%\n1231123
 莽金刚真灵¤Mang King Kong True Spirit
 不满意放入材料继续启真¤If you are not satisfied, put in the materials and continue to enlighten
@@ -817,7 +817,7 @@ xxxx被你轰杀，寿元已尽，最后一丝生机已然耗尽，终将化为�
 启真¤Qizhen
 九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害九阴道体：每次攻击附带物理攻击伤害¤Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack with physical attack damage Nine Vaginal Body: each attack Attack with physical attack damage Nine vaginas: each attack with physical attack damage
 需要完成铸灵！¤Need to complete casting spirit!
-参悟需要灵根：¤Enlightenment requires spiritual roots:
+参悟需要灵根：¤Enlightenment requires roots:
 经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉经脉¤meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian meridian
 经脉经脉经脉经脉经脉经脉经脉\n¤Meridian Meridian Meridian Meridian Meridian Meridian\n
 神通参悟¤supernatural powers
@@ -833,9 +833,9 @@ CD：3.2秒¤CD: 3.2 seconds
 不需要保存¤Continue
 切换存档¤Load Game
 设置¤Settings
-退出游戏¤exit the game
-即将退出游戏，是否保存存档？¤About to exit the game, do you want to save the archive?
-是否覆盖现在存档？¤Do you want to overwrite the archive now?
+退出游戏¤exit 
+即将退出游戏，是否保存存档？¤About to exit the game, do you want to save the game?
+是否覆盖现在存档？¤Do you want to overwrite the save?
 保存存档¤Save Game
 剩余时间：33天¤Time remaining: 33 days
 告别¤bid farewell
@@ -847,7 +847,7 @@ CD：3.2秒¤CD: 3.2 seconds
 我的任务¤my task
 奖励¤award
 风气云涌¤Stormy
-↑ 点击日晷中的时辰，调整切换昼夜变化 ↑¤↑ Click the hour in the sundial to adjust and switch the day and night changes↑
+↑ 点击日晷中的时辰，调整切换昼夜变化 ↑¤↑ Click the hour in the sundial to switch between day and night↑
 姓名：XXX(好友)¤Name: XXX (friend)
 好友：1¤Friends: 1
 妖王xxx后重生¤The demon king is reborn after xxx
@@ -877,12 +877,12 @@ XXX已经获得连续3场胜利，32秒后，如无人继续挑战，将获得�
 XXX吾徒，见信好：¤XXX my apprentice, please see the letter:
 xxxx(筑基三重)¤xxxx (Building Foundation Triple Layer)
 \n欢迎各位道友来到无尽轮回的修仙世界！\n\n目前游戏版本是抢先体验版，版本还有点不稳定，很多道友第一次玩这个游戏，可能会遇到一些问题，我们正在抓紧时间修复，拜托道友们给我们一点点时间！\n\n如果道友们遇到任何问题，可以加入我们的官方修仙交流群"174833518"私聊官方管理无羁，无心，无道反馈，我们会全力帮忙解决问题，再次拜谢！\n¤\nWelcome all fellow Daoists to the world of cultivating immortals of endless reincarnation! \n\nThe current version of the game is an early access version, and the version is still a bit unstable. Many Daoists may encounter some problems when playing this game for the first time. We are hurrying to fix it. Please give us a little time ! \n\nIf fellow Daoists encounter any problems, you can join our official Xiuxian exchange group "174833518" and privately chat with the official management. We will try our best to help solve the problem, thank you again! \n
-3.1号临时更新公告\n\n1、修复随机窍穴和祭炼本命法宝时间流失较快时卡顿的问题\n2、修复选择五行属性命格没有出现对应灵根的问题\n3、修复宗门报名人数已满但是没有提示的问题，建议在每年8月9号之前报名\n4、修复NPC性别偶尔不对的问题\n5、优化矿洞的产出，现在每个矿洞都可以产出各种属性的材料了\n6、修复宠物无限吃装备的BUG\n\n\n\n2.27号测试服更新公告\n\n1、新增五行灵根相关命格，再也不用反复SL了\n2、新增渡劫丹持续时间的进度条\n3、修复经历和游戏中灵根有时候有时候对不上的问题\n4、优化闭关打坐时的卡顿问题，以及打坐千年改为轮回重生（慎用）\n5、修复在秘境退出再进入位置不正确的问题\n6、现在宗门放开了禁制，可以御剑飞行，也有其他NPC出入了\n7、优化了SL时不断增加的内存问题\n8、修复提前加入宗门导致不能进入新宗门的问题\n9、新孵化的灵兽默认现在默认直接出战了\n10、降低赠送礼物的门槛\n11、修复剑光分化初始伤害不对的问题\n12、降低了被NPC击杀掉落的法宝的数量，同时NPC掉落也降低了\n13、被NPC索取物品现在改为降低好感度了\n14、低战力的NPC仇人现在会逃跑了\n15、修复双修有概率卡住的问题\n16、修复新用户概率进不去的问题\n17、优化了小比大比概率会被卡死的问题\n\n\n\n2.21号更新\n1. 新增了宗门基础模块，可以通过参加升仙大会与其他npc处获得加入宗门的介绍信了\n2. 新增了宗门小比，大比完成，完成职位晋升\n3. 将宗门宝库中的部分商品移动至宗门宝库中售卖。宗门宝库每间隔10年会刷新一次\n4. 为npc增加了轮回属性，随着岁月的流失，npc的轮回世代也会逐步增加\n5. 在境界突破获得窍穴属性时，增加了刷新功能，消耗一定时日，可以重新领悟属性词缀\n6. 传送功能新增了时间消耗，使用传送时需要注意时间的流逝了\n7. 灵兽的生存能力得到了一定的加强\n8. 神识扫描增加采集仙草能力，在击杀妖兽后，会获得神识扫描范围内的仙草\n9. 修复了一些妖兽意外掉落高级仙草的bug\n10. 优化了一些npc的Ai行为\n11. 更新了圣地场景资源\n12. 修复了某些情况下，跳过时间流逝动画会卡住的问题\n13. 金丹及以上境界不需要引荐信也可以加入宗门了\n14. 暂时关闭了npc的委托任务发放\n¤No. 3.1 Temporary Update Announcement\n\n1. Fix the problem of lag when the random acupoints and sacrificial talismans run out of time quickly\n2. The number of applicants is full but there are no prompts. It is recommended to register before August 9 every year\n4. Fix the problem that the NPC gender is occasionally wrong\n5. Optimize the output of the mine. Now each mine can produce various Attribute materials are gone\n6. Fix the BUG that pets can eat unlimited equipment\n\n\n\nNo. 2.27 test server update announcement\n\n1. Add five-element spiritual root related fate, no need to repeat SL again\n n2. Added a progress bar for the duration of the Tribulation Pill\n3. Repaired the problem that sometimes the spiritual roots in the game sometimes did not match\n4. Optimized the lagging problem during retreat and meditation, and changed the thousand-year meditation to reincarnation rebirth (Use with caution)\n5. Fix the problem of incorrect location when exiting and re-entering the secret realm\n6. Now the Zongmen has released the restriction, you can fly with the sword, and there are other NPCs coming in and out\n7. Optimized the increasing memory when SL Problem\n8. Fix the problem of being unable to enter the new sect due to joining the sect in advance\n9. The newly hatched spirit beasts will now go to battle by default\n10. Lower the threshold for giving gifts\n11. Repair the initial damage of the sword light differentiation. Problem\n12. The number of magic weapons dropped by NPCs has been reduced, and NPC drops have also been reduced\n13. Items requested by NPCs are now changed to reduce favorability\n14. NPC enemies with low combat power will now run away Fixed\n15, fixed the problem that double repairs have a probability of being stuck\n16, fixed the problem that new users may not be able to enter\n17, optimized the problem that the probability of small ratios and large ratios will be stuck\n\n\n\n2.21 No. update\n1. The Zongmen basic module has been added. You can get a letter of introduction to join the Zongmen by participating in the Immortal Ascension Conference and other NPCs\n2. Added a new Zongmen Xiaobi, Dabi completed, and job promotion\ n3. Move some commodities in the Zongmen Treasure House to the Zongmen Treasure House for sale. Zongmen treasure house will be refreshed every 10 years\n4. The reincarnation attribute is added for npc. As the years go by, the reincarnation generation of npc will gradually increase\n5. When the realm breaks through to obtain the acupoint attribute, a refresh function is added , It takes a certain amount of time to re-understand attribute affixes\n6. The teleportation function has added a time consumption. When using teleportation, you need to pay attention to the passage of time\n7. The survivability of spirit beasts has been strengthened to a certain extent\n8.
-气血¤Lifeforce
+3.1号临时更新公告\n\n1、修复随机窍穴和祭炼本命法宝时间流失较快时卡顿的问题\n2、修复选择五行属性命格没有出现对应灵根的问题\n3、修复宗门报名人数已满但是没有提示的问题，建议在每年8月9号之前报名\n4、修复NPC性别偶尔不对的问题\n5、优化矿洞的产出，现在每个矿洞都可以产出各种属性的材料了\n6、修复宠物无限吃装备的BUG\n\n\n\n2.27号测试服更新公告\n\n1、新增五行灵根相关命格，再也不用反复SL了\n2、新增渡劫丹持续时间的进度条\n3、修复经历和游戏中灵根有时候有时候对不上的问题\n4、优化闭关打坐时的卡顿问题，以及打坐千年改为轮回重生（慎用）\n5、修复在秘境退出再进入位置不正确的问题\n6、现在宗门放开了禁制，可以御剑飞行，也有其他NPC出入了\n7、优化了SL时不断增加的内存问题\n8、修复提前加入宗门导致不能进入新宗门的问题\n9、新孵化的灵兽默认现在默认直接出战了\n10、降低赠送礼物的门槛\n11、修复剑光分化初始伤害不对的问题\n12、降低了被NPC击杀掉落的法宝的数量，同时NPC掉落也降低了\n13、被NPC索取物品现在改为降低好感度了\n14、低战力的NPC仇人现在会逃跑了\n15、修复双修有概率卡住的问题\n16、修复新用户概率进不去的问题\n17、优化了小比大比概率会被卡死的问题\n\n\n\n2.21号更新\n1. 新增了宗门基础模块，可以通过参加升仙大会与其他npc处获得加入宗门的介绍信了\n2. 新增了宗门小比，大比完成，完成职位晋升\n3. 将宗门宝库中的部分商品移动至宗门宝库中售卖。宗门宝库每间隔10年会刷新一次\n4. 为npc增加了轮回属性，随着岁月的流失，npc的轮回世代也会逐步增加\n5. 在境界突破获得窍穴属性时，增加了刷新功能，消耗一定时日，可以重新领悟属性词缀\n6. 传送功能新增了时间消耗，使用传送时需要注意时间的流逝了\n7. 灵兽的生存能力得到了一定的加强\n8. 神识扫描增加采集仙草能力，在击杀妖兽后，会获得神识扫描范围内的仙草\n9. 修复了一些妖兽意外掉落高级仙草的bug\n10. 优化了一些npc的Ai行为\n11. 更新了圣地场景资源\n12. 修复了某些情况下，跳过时间流逝动画会卡住的问题\n13. 金丹及以上境界不需要引荐信也可以加入宗门了\n14. 暂时关闭了npc的委托任务发放\n¤No. 3.1 Temporary Update Announcement\n\n1. Fix the problem of lag when the random acupoints and sacrificial talismans run out of time quickly\n2. The number of applicants is full but there are no prompts. It is recommended to register before August 9 every year\n4. Fix the problem that the NPC gender is occasionally wrong\n5. Optimize the output of the mine. Now each mine can produce various Attribute materials are gone\n6. Fix the BUG that pets can eat unlimited equipment\n\n\n\nNo. 2.27 test server update announcement\n\n1. Add five-element spiritual root related fate, no need to repeat SL again\n n2. Added a progress bar for the duration of the Tribulation Pill\n3. Repaired the problem that sometimes the spiritual roots in the game sometimes did not match\n4. Optimized the lagging problem during retreat and cultivation, and changed the thousand-year cultivation to reincarnation rebirth (Use with caution)\n5. Fix the problem of incorrect location when exiting and re-entering the secret realm\n6. Now the Zongmen has released the restriction, you can fly with the sword, and there are other NPCs coming in and out\n7. Optimized the increasing memory when SL Problem\n8. Fix the problem of being unable to enter the new sect due to joining the sect in advance\n9. The newly hatched spirit beasts will now go to battle by default\n10. Lower the threshold for giving gifts\n11. Repair the initial damage of the sword light differentiation. Problem\n12. The number of magic weapons dropped by NPCs has been reduced, and NPC drops have also been reduced\n13. Items requested by NPCs are now changed to reduce favorability\n14. NPC enemies with low combat power will now run away Fixed\n15, fixed the problem that double repairs have a probability of being stuck\n16, fixed the problem that new users may not be able to enter\n17, optimized the problem that the probability of small ratios and large ratios will be stuck\n\n\n\n2.21 No. update\n1. The Zongmen basic module has been added. You can get a letter of introduction to join the Zongmen by participating in the Immortal Ascension Conference and other NPCs\n2. Added a new Zongmen Xiaobi, Dabi completed, and job promotion\ n3. Move some commodities in the Zongmen Treasure House to the Zongmen Treasure House for sale. Zongmen treasure house will be refreshed every 10 years\n4. The reincarnation attribute is added for npc. As the years go by, the reincarnation generation of npc will gradually increase\n5. When the realm breaks through to obtain the acupoint attribute, a refresh function is added , It takes a certain amount of time to re-understand attribute affixes\n6. The teleportation function has added a time consumption. When using teleportation, you need to pay attention to the passage of time\n7. The survivability of spirit beasts has been strengthened to a certain extent\n8.
+气血¤Health
 物理攻击¤Physical Attack
-法术攻击¤Spell Attack
+法术攻击¤Magic Attack
 物理防御¤Physical Defense
-法术防御¤Spell Defense
+法术防御¤Magic Defense
 天元城¤Tianyuan City
 4月13日更新日志：\n\n各位道友好，这周我们做了一些常规的bug修复，同时在开发洞府功能和丰富npc的对白文案了。开发还需要一些时间，请各位道友稍作等待，以下是更新内容：\n\n1.设置界面中新增了日志导出功能（Ps：有角色面板打不开，升仙大会擂主看不见，战斗中角色消失的道友请在游戏中导出日志，发送给我们噢！）\n2. 优化了升仙路传送门的角度与视距\n3. 修复了混沌钟祭炼后，cd降低异常问题\n4. 修复了部分出生经历作用异常问题\n5. 修复了某些情况下谪仙命格吸收灵气获取奖励异常的问题\n6. 优化了npc部分行为逻辑，缓解后期全都是渡劫npc的情况\n7. 优化了女性衣服调色的色值展示\n\n4月4日更新内容公告：\n1.优化了天元城的部分场景资源；\n2.优化了内存及显存占用消耗大问题，提升了游戏运行效率；\n3.优化了战斗技能释放代码，降低了战斗中卡顿的问题；\n4.优化了游戏加载场景机制，减少了加载等待时间；\n5.增加了虚天鼎，人皇鼎与九宝葫芦飞行法器；（获取途径待添加）\n6.增加了灵气刷新机制，与自身境界匹配的灵气刷新后，会收到消息提示；\n7.增加了宗门小比，大比，斗剑的消息提示功能；\n8.更新了创建角色场景；\n9.修复了本命法宝祭炼后，没有增加属性的bug\n10.增加了荒芜秘境与昆仑秘境中8阶遗骸，皮毛的掉落；\n11.修复了渡劫丹药与丹方品阶不一致的问题；\n12.修复了道心意外丢失的bug；\n13.修复了焚印·盾词条描述错误问题；\n14.修复了击杀npc后，npc不会掉落道具的bug；\n15.修复了升仙大会擂主在某些情况下，没有正常刷新的bug；\n16.修复了npc道侣死亡后，依旧无法与其结为道侣的bug；\n¤April 13th Update Log:\n\nGreetings fellow cultivators, this week we have made some routine bug fixes, while also working on the development of the cave dwelling feature and enriching NPC dialogues. Development still requires some time, so please be patient. Here are the updates:\n\nAdded log export function in the settings interface (Ps: If you encounter issues like the character panel not opening, not being able to see the Immortal Ascension Tournament champion, or characters disappearing during battles, please export the log in-game and send it to us!)\nOptimized the angle and viewing distance of the Immortal Ascension Road portal\nFixed the issue with abnormal cooldown reduction after refining the Chaos Clock\nFixed issues with some birth experiences not working correctly\nFixed the issue of abnormal rewards when absorbing spiritual energy with the Exiled Immortal Fate under certain conditions\nOptimized some NPC behavior logic to alleviate the issue of too many Tribulation-crossing NPCs in the later stages\nOptimized the color value display for female clothing adjustments\n\nApril 4th Update Content Announcement:\nOptimized some scene resources in Tiangong City\nImproved memory and VRAM usage, increasing game performance\nOptimized battle skill release code, reducing lag during battles\nEnhanced game loading scene mechanism, reducing waiting times\nAdded Xutian Cauldron, Human Emperor Cauldron, and Nine Treasure Gourd flying artifacts (Acquisition methods to be added)\nAdded a spiritual energy refresh mechanism; when spiritual energy matching your own realm refreshes, you will receive a notification\nAdded notifications for Sect minor and major competitions, and sword fights\nUpdated the character creation scene\nFixed the bug where refining your Lifebound Treasure did not increase attributes\nAdded 8th order remains and fur drops in the Desolate Secret Realm and Kunlun Secret Realm\nFixed the inconsistency between Tribulation-crossing pills and their recipe grades\nFixed the bug of accidentally losing Dao Heart\nFixed the erroneous description issue for the Burn Seal - Shield entry\nFixed the bug where NPCs did not drop items after being killed\nFixed the bug where the Immortal Ascension Tournament champion did not refresh properly under certain conditions\nFixed the bug where you still couldn't form a bond with an NPC companion after their death\n
 宗门小比已开启，在聚仙33年12月1日前，赶回宗门，到宗门主管处可报名参赛！¤The Sect's minor competition has begun, return to the sect before the 1st of December in the 33rd year of the Gathering of Immortals, and register at the sect administrator's place!
@@ -919,9 +919,9 @@ xxxx(筑基三重)¤xxxx (Building Foundation Triple Layer)
 建筑洞府需要准备三阶五行指精材料各10份！¤To build a cave dwelling, prepare 10 pieces of each third-grade Five Elements Essence material!
 开闭洞府需要消耗灵石10万，激活灵脉！\n¤Opening and closing the cave dwelling requires 100,000 spirit stones to activate the spirit vein!\n
 归元丹¤Rebirth
-月¤Month
-日¤Day
-年¤Year
+月¤ Month
+日¤ Day
+年¤ Year
 谪仙¤Exiled Immortal
 张¤Zhang
 翠玉¤Jade Green
