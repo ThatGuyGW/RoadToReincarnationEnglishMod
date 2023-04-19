@@ -267,7 +267,6 @@ soundName不能为空¤soundName cannot be empty
 刀剑无眼，宗门斗法，生死有命！¤The sword has no eyes, the sect fights, life and death are fate!
 分¤minutes
 分钟¤minute
-切磋¤Discuss
 创建心法报错，未找到对应表数据¤An error was reported when creating a mental method, and the corresponding table data was not found
 初期¤Early stage
 删除临时下载文件出错:¤Error deleting temporary download file:
@@ -312,7 +311,6 @@ soundName不能为空¤soundName cannot be empty
 及以上职位可购买¤Positions above and above can be purchased
 友好：¤Friendly:
 双修¤Shuangxiu
-双击打开装备界面¤Double click to open the equipment interface
 反伤¤anti-injury
 反伤+¤Anti-injury+
 发型¤Hairstyle
@@ -662,11 +660,9 @@ soundName不能为空¤soundName cannot be empty
 提升悟性可以极大的提升法术攻击成长，同时增加法术防御成长；¤Improving understanding can greatly increase the growth of magic attack, and at the same time increase the growth of magic defense;
 提升根骨可以极大的提升物理攻击成长，同时增加物理防御成长；¤Upgrading the root bone can greatly increase the growth of physical attack and increase the growth of physical defense at the same time;
 提升灵宠境界时，可以觉醒血脉之力，定向提升灵宠各项能力。¤When you improve the spirit pet state, you can awaken the power of blood and improve the abilities of the spirit pet.
-搜寻¤Search
 撤退失败！¤Retreat failed!
 撤退成功！¤Successful withdrawal!
 擂主¤Leader
-攻击¤Attack
 攻击+¤Attack+
 攻击距离¤Attack distance
 攻击距离+¤Attack distance+
@@ -1058,7 +1054,6 @@ soundName不能为空¤soundName cannot be empty
 紫霄¤Zixiao
 红尘练心¤The world of mortals trains the mind
 练气¤Practice Qi
-组队¤Team formation
 组队人数已满¤The team is full
 经历id为空：¤Experience id is empty:
 经历id年龄为空：¤Experience id age is empty:
@@ -1066,7 +1061,6 @@ soundName不能为空¤soundName cannot be empty
 经脉词条技能加成错误：¤The skill bonus of meridian entry is wrong:
 经过¤passed
 经过权衡¤Balanced
-结为道侣¤Become a Taoist companion
 结伴游历与妖兽战斗中身负重伤！¤Seriously injured while traveling together and fighting monsters!
 结伴游历与妖兽战斗时，见势不妙，撤出了战场！¤While traveling together and fighting monsters, seeing the situation is not good, we withdrew from the battlefield!
 结伴游历了¤Travel together
@@ -1141,7 +1135,6 @@ soundName不能为空¤soundName cannot be empty
 解压错误:¤Decompression error:
 解锁¤Unlock
 触发了飞行禁制¤Fly ban triggered
-论道¤On Taoism
 论道了¤Discussed
 论道了,收益颇多¤Discussion, a lot of benefits
 论道了,道不同不相为谋¤Discuss the Tao, different Taos do not seek each other
