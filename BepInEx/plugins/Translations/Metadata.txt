@@ -1307,7 +1307,6 @@ soundName不能为空¤soundName cannot be empty
 飞行法器¤Flying Artifact
 飞行状态下无法进行此操作！¤This operation cannot be performed in flight state!
 首次参悟当前¤First comprehension of the present
-驱离¤Drive away
 驱离，弱肉强食，当中酸楚也只有自己知道！¤To drive away, the weak will prey on the strong, and only you will know the bitterness!
 驱离，随即开始斗法，不幸毙命于¤Keep away, then began to fight, unfortunately died in
 驱离，随即开始斗法，转眼之间便将¤Keep away, then start to fight, in a blink of an eye
