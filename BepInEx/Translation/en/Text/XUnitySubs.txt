@@ -1,5 +1,5 @@
 sr:"(.*)No.oneworld(.*)"=$1Your Story$2
-sr:"(.*)year(.*)month(.*)Day"=$1Y $2M $3D 
-sr:"([^\d]*)([\d]*)year(.*)month(.*)Day"=$1 $2Y $2M $3D 
+sr:"(.*)year(.*)month(.*)Day"=Y$1 M$2 D$3 
+sr:"([^\d]*)([\d]*)year(.*)month(.*)Day"=$1 Y$2 M$3 D$4
 Juxian=Spirit Gathering Era 
 
