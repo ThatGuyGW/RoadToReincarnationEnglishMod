@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Steam\steamapps\common\轮回修仙路\BepInEx\plugins\sinai-dev-UnityExplorer\Output"

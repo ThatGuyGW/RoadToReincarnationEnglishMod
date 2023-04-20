@@ -34,11 +34,6 @@
                 Array of paths where Mono searches DLLs from before assembly resolvers are invoked.
             </summary>
         </member>
-        <member name="P:BepInEx.Preloader.Core.EnvVars.DOORSTOP_MONO_LIB_PATH">
-            <summary>
-                Path of the DLL that contains mono imports.
-            </summary>
-        </member>
         <member name="T:BepInEx.Preloader.Core.Logging.PreloaderConsoleListener">
             <summary>
                 Log listener that listens to logs during preloading time and buffers messages for output in Unity logs later.
@@ -262,11 +257,6 @@
                 <para>Order is not respected, as it will be sorted by dependencies.</para>
             </summary>
         </member>
-        <member name="P:BepInEx.Preloader.Core.Patching.PatcherContext.AvailableAssembliesPaths">
-            <summary>
-                <para>Contains a mapping of available assembly name to their original filenames.</para>
-            </summary>
-        </member>
         <member name="P:BepInEx.Preloader.Core.Patching.PatcherContext.LoadedAssemblies">
             <summary>
                 <para>Contains a dictionary of assemblies that have been loaded as part of executing this assembly patcher.</para>
@@ -307,6 +297,13 @@
         <member name="M:BepInEx.Preloader.Core.PlatformUtils.SetPlatform">
             <summary>
                 Recreation of MonoMod's PlatformHelper.DeterminePlatform method, but with libc calls instead of creating processes.
+            </summary>
+        </member>
+        <member name="T:BepInEx.Shared.BuildInfoAttribute">
+            <summary>
+                This class is appended to AssemblyInfo.cs when BepInEx is built via a CI pipeline.
+                It is mainly intended to signify that the current build is not a release build and is special, like for instance a
+                bleeding edge build.
             </summary>
         </member>
     </members>

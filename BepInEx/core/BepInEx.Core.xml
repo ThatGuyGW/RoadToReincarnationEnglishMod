@@ -23,16 +23,6 @@
                 Contains information about what certain plugins were not loaded.
             </summary>
         </member>
-        <member name="E:BepInEx.Bootstrap.BaseChainloader`1.PluginLoaded">
-            <summary>
-                Occurs after a plugin is loaded.
-            </summary>
-        </member>
-        <member name="E:BepInEx.Bootstrap.BaseChainloader`1.Finished">
-            <summary>
-                Occurs after all plugins are loaded.
-            </summary>
-        </member>
         <member name="M:BepInEx.Bootstrap.BaseChainloader`1.DiscoverPluginsFrom(System.String,System.String)">
             <summary>
             Discovers all plugins in the plugin directory without loading them.
@@ -1478,19 +1468,9 @@
                 Paths used by BepInEx
             </summary>
         </member>
-        <member name="P:BepInEx.Paths.BepInExVersion">
-            <summary>
-               BepInEx version.
-            </summary>
-        </member>
         <member name="P:BepInEx.Paths.ManagedPath">
             <summary>
-                The path to the Managed folder that contains the main managed assemblies.
-            </summary>
-        </member>
-        <member name="P:BepInEx.Paths.GameDataPath">
-            <summary>
-                The path to the game data folder of the currently running Unity game.
+                The path to the Managed folder of the currently running Unity game.
             </summary>
         </member>
         <member name="P:BepInEx.Paths.BepInExAssemblyDirectory">
@@ -1682,13 +1662,6 @@
             <param name="stream">Stream to hash</param>
             <returns>MD5 hash as a hex string</returns>
         </member>
-        <member name="M:BepInEx.Utility.HashStrings(System.String[])">
-            <summary>
-            Hash a list of strings using MD5
-            </summary>
-            <param name="strings">Strings to hash</param>
-            <returns>MD5 of the strings</returns>
-        </member>
         <member name="M:BepInEx.Utility.ByteArrayToString(System.Byte[])">
             <summary>
                 Convert the given array to a hex string.
@@ -1724,6 +1697,13 @@
             <param name="directories">Directories to search from.</param>
             <param name="pattern">File pattern to search.</param>
             <returns>Collection of all files in the directories.</returns>
+        </member>
+        <member name="T:BepInEx.Shared.BuildInfoAttribute">
+            <summary>
+                This class is appended to AssemblyInfo.cs when BepInEx is built via a CI pipeline.
+                It is mainly intended to signify that the current build is not a release build and is special, like for instance a
+                bleeding edge build.
+            </summary>
         </member>
         <member name="T:UnityInjector.ConsoleUtil.SafeConsole">
             <summary>

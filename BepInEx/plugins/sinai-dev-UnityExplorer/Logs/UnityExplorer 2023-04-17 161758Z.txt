@@ -1,0 +1,13 @@
+UnityExplorer 4.9.0 initializing...
+[UniverseLib] UniverseLib 1.5.1 initializing...
+[UniverseLib] Finished UniverseLib initial setup.
+Initialized UnityCrashPrevention for: Canvas.get_renderingDisplaySize
+[UniverseLib] Loaded Unhollowed modules in 11.818001 seconds.
+[UniverseLib] Setup deobfuscation cache in 0.125 seconds.
+[UniverseLib] Initialized Legacy Input support
+[UniverseLib] 	 IL2CPP method has no corresponding pointer, aborting patch of UnityEngine.AssetBundle.UnloadAllAssetBundles
+[UniverseLib] Loaded modern bundle for Unity 2020.3.12f1c1
+[UniverseLib] UniverseLib 1.5.1 initialized.
+Creating UI...
+
+UnityExplorer 4.9.0 (IL2CPP) initialized.
