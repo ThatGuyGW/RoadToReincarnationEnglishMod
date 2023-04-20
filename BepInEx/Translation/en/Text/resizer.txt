@@ -1,2 +1,1 @@
 UICanvas/=ChangeFontSizeByPercentage(0.8)
-UICanvas/=UGUI_HorizontalOverflow(wrap)
