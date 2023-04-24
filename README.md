@@ -3,7 +3,7 @@
 An English Mod for the Cultivation Game "轮回修仙路"
 
 
-## First time setup 
+## ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) First time setup (Do not skip this!)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
 Note : YOU ONLY HAVE TO DO THIS ONCE
 1) Remove the mod from your folder. This includes removing every folder which is not the game's data, AND winhttp.dll, doorstop_config.ini, .doorstop_version, doorstop_config.ini, and classdatadata.pk 
