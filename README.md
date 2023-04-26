@@ -14,7 +14,9 @@ Note : YOU ONLY HAVE TO DO THIS ONCE
 
 4) Windows+r intl.cpl > Administrative > Change system locale > Tick the Beta icon and accept to restart
 
-5) Extract the new update and open the game. IMPORTANT:
+5) Extract the new update and open the game. 
+
+IMPORTANT:
 
 5.1) If it's in chinese, restart the game until it gets in english (2-3 times would be enough. If it persists, reinstall the game)
 
