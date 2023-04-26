@@ -7,11 +7,17 @@ An English Mod for the Cultivation Game "轮回修仙路"
 
 Note : YOU ONLY HAVE TO DO THIS ONCE
 1) Remove the mod from your folder. This includes removing every folder which is not the game's data, AND winhttp.dll, doorstop_config.ini, .doorstop_version, doorstop_config.ini, and classdatadata.pk 
+
 2) Go to your game's data folder > il2cpp_data > Metadata and remove the global-metadata file
+
 3) Verify your files on Steam so the global-metadata gets downloaded again
+
 4) Windows+r intl.cpl > Administrative > Change system locale > Tick the Beta icon and accept to restart
+
 5) Extract the new update and open the game. IMPORTANT:
+
 5.1) If it's in chinese, restart the game until it gets in english (2-3 times would be enough. If it persists, reinstall the game)
+
 5.2) Don't worry if the game crashes, it's normal the first or second time. Contact us in ⁠mod-troubleshooting (Discord) if the game crashes every time you open it
 
 
