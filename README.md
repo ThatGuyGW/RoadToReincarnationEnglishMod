@@ -18,7 +18,7 @@ Note : YOU ONLY HAVE TO DO THIS ONCE
 
 IMPORTANT:
 
-5.1) If it's in chinese, restart the game until it gets in english (2-3 times would be enough. If it persists, reinstall the game)
+5.1) If it's in chinese, restart the game until it gets in english (one time would be enough. If it persists, please report an issue on Github or post in the AMA Discord)
 
 5.2) Don't worry if the game crashes, it's normal the first or second time. Contact us in ⁠mod-troubleshooting (Discord) if the game crashes every time you open it
 
