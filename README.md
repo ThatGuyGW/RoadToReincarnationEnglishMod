@@ -6,15 +6,17 @@ An English Mod for the Cultivation Game "轮回修仙路"
 ## ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) One-time setup (Do not skip this!)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
 
 Note : YOU ONLY HAVE TO DO THIS ONCE
-1) Remove the mod from your folder. This includes removing every folder which is not the game's data, AND winhttp.dll, doorstop_config.ini, .doorstop_version, doorstop_config.ini, and classdatadata.pk 
 
-2) Go to your game's data folder > il2cpp_data > Metadata and remove the global-metadata file
+1) If you already have the mod. If not, go to Step 2.
+Remove the mod from your folder. This includes removing every folder which is not the game's data, AND winhttp.dll, doorstop_config.ini, .doorstop_version, doorstop_config.ini, and classdatadata.pk. After doing this, go to your game's data folder > il2cpp_data > Metadata and remove the global-metadata file
 
-3) Verify your files on Steam so the global-metadata gets downloaded again
+1.1) Verify your files on Steam so the global-metadata gets downloaded again
 
-4) Windows+r intl.cpl > Administrative > Change system locale > Tick the Beta icon and accept to restart
+2) Press Windows key + R and write "intl.cpl"
+intl.cpl > Select English (US) > Open the additional parameters and change the decimal to . instead of ,
+intl.cpl > Administrative > Change system locale > Tick the Beta icon and accept to restart
 
-5) Extract the new update and open the game. 
+5) Extract the new update into the game's folder and open the game. 
 
 IMPORTANT:
 
