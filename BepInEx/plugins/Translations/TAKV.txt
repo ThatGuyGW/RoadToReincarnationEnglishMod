@@ -8096,15 +8096,6 @@ boss掉落,原有装备掉落不变,概率掉落1个灵符,一个精气,一个6�
 你的名字是 韩天尊,你是一个男孩¤Your name is Han Tianzun, you are a boy
 2岁时,你捡到了一条小狗,你给它取名叫做：阿黄,你带着它一起去乞讨¤When you were 2 years old, you picked up a puppy and named it Ah Huang. Together you begged for food.
 3岁时,从小你便喜欢“舞刀弄剑”,拿着老乞丐的打狗棍,比划的不亦乐乎。¤When you were 3 years old, you really enjoyed playing 'Dancing with blades and playing with swords'. Because of this you were often seen, happily waving around the old beggars Dog-Beating Staff.
-"5岁那年,你遇到了一个腰挂佩剑的白衣修士,他似乎醉了,疯疯癫癫的喃喃到：“御剑乘风来,除魔天地间,有酒乐逍遥,无酒我亦癫。”说罢便在你面前演示了御剑术,并表示很简单,一学就会！¤When you were 5 years old, you encountered a white-robed Immortal with a sword hanging by his waist. Seemingly intoxicated, he mumbled incoherently: 
-\n
-\nOn my sword, ‘ride the brutal storm,
-\nSubduing dread’d demons wherever it takes,
-\nWith wine, I revel in blissful glee,
-\nWithout wine, the world still makes me drunk.
-\n
-After speaking this, he demonstrated the Imperial Swordsmanship in front of you, claiming it to be very simple to learn after just one try!
-"
 同年有人说在天上看到了龙王,大家都说那人眼花了,龙王还能被你看见,但是那一年风调雨顺,你也没有饿着,你突然相信了那个人说的,期盼着要是每年都这样就好了¤In the same year, someone claimed to have seen the Dragon King flying through the sky. But how could one see the Dragon King? Because of this you all blamed this person for being delusional. But this year had good weather and a plentiful harvest, causing you to never go hungry. Suddenly, you started to believe this person and wished for the Dragon King to pass by every year.
 6岁时,你一个人在深夜经常会想,我有父母吗？他们为什么扔下我一个人？如果没有扔下我的话我是不是就不用挨饿了？¤When you were 6 years old, you often mused late at night: "Do I have parents? Why did they abandon me? Would I not have to starve I they hadn't abandoned me?"
 7岁时,你经常饿的受不了,但是这年你跟着镇上的猎人,偷偷学会了捕猎,你没那么挨饿了¤When you were 7 years old, you often couldn't bear the hunger, but this year you followed the hunters of the village and secretly learned how to hunt. Because of this you could satisfy at least some of you hunger.
@@ -8555,15 +8546,15 @@ After speaking this, he demonstrated the Imperial Swordsmanship in front of you,
 你的名字是 蝉真人,你是一个男孩¤your name is real cicada, you are a boy
 1岁时,你慢慢的长大,四处乱爬,还不会走路！¤When you were 1 year old, you gradually grew up and crawled around everywhere. You couldn't walk just yet, however!
 3岁时,你长大了一些,你跟着父母出去务农¤When you were 3 years old, yoo had grown enough to be able to help you parents in the field.
-"4岁那年,你遇到了一个腰挂佩剑的白衣修士,他似乎醉了,疯疯癫癫的喃喃到：“御剑乘风来,除魔天地间,有酒乐逍遥,无酒我亦癫。”说罢便在你面前演示了御剑术,并表示很简单,一学就会！¤When you were 5 years old, you encountered a white-robed Immortal with a sword hanging by his waist. Seemingly intoxicated, he mumbled incoherently: 
-\n
-\nWith sword I ride the wind, 
-\nvanquishing demons 'cross the land,
-\nIn drink, I find my freedom, 
-\nwithout it, madness takes my hand.
-\n
-After speaking this, he demonstrated the Imperial Swordsmanship in front of you, claiming it to be very simple to learn after just one try!
-"
+4岁那年,你遇到了一个腰挂佩剑的白衣修士,他似乎醉了,疯疯癫癫的喃喃到：“御剑乘风来,除魔天地间,有酒乐逍遥,无酒我亦癫。”说罢便在你面前演示了御剑术,并表示很简单,一学就会！¤When you were 5 years old, you encountered a white-robed Immortal with a sword hanging by his waist. Seemingly intoxicated, he mumbled incoherently: ¤
+\n¤
+\nWith sword I ride the wind, ¤
+\nvanquishing demons 'cross the land,¤
+\nIn drink, I find my freedom, ¤
+\nwithout it, madness takes my hand.¤
+\n¤
+After speaking this, he demonstrated the Imperial Swordsmanship in front of you, claiming it to be very simple to learn after just one try!¤
+¤
 同年你开始帮母亲养蚕,帮父亲拾柴,父母夸你特别懂事¤In the same year, you began helping your mother to raise silkworms and your father to collect firewood. Your parents praised you for being especially sensible.
 5岁时,你发现：你从小就比较倒霉,经常会受伤,长者说你是犯了太岁爷¤When you were 5 years old, you realized that you were often unlucky and prone to getting injured. The elders said that you had offended Tai Sui.
 6岁时,你在野外中放牛,喜欢在牛背上玩耍,不小心摔了一跤,在床上躺了三个月¤When you were 6 years old, you were herding cattle and enjoyed playing on their backs. However, you accidentally fell off and had to lie in bed for three months to recover.
