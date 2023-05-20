@@ -2,7 +2,32 @@
 
 An English Mod for the Cultivation Game "轮回修仙路"
 
+
+## ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) One-time setup (Do not skip this!)![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+
+Note : YOU ONLY HAVE TO DO THIS ONCE
+
+1) If you already have the mod. If not, go to Step 2.
+Remove the mod from your folder. This includes removing every folder which is not the game's data, AND winhttp.dll, doorstop_config.ini, .doorstop_version, doorstop_config.ini, and classdatadata.pk. After doing this, go to your game's data folder > il2cpp_data > Metadata and remove the global-metadata file
+
+1.1) Verify your files on Steam so the global-metadata gets downloaded again
+
+2) Press Windows key + R and write "intl.cpl"
+intl.cpl > Select English (US) > Open the additional parameters and change the decimal to . instead of ,
+intl.cpl > Administrative > Change system locale > Tick the Beta icon and accept to restart
+
+5) Extract the new update into the game's folder and open the game. 
+
+IMPORTANT:
+
+5.1) If it's in chinese, restart the game until it gets in english (one time would be enough. If it persists, please report an issue on Github or post in the AMA Discord)
+
+5.2) Don't worry if the game crashes, it's normal the first or second time. Contact us in ⁠mod-troubleshooting (Discord) if the game crashes every time you open it
+
+
 ## Installation
+
+First and above everything else, please follow these instructions : 
 
 Download the latest .7z file from the Releases section
 
@@ -22,7 +47,7 @@ On the first run of the game with the mod installed, the game will crash. This i
 
 ## Notes
 
-As this is an initial release, please be aware that it's very likely that upcoming releases or game updates could entirely break your savegame with little to no chance of recovery.
+As this is an early release, please be aware that it's very likely that upcoming releases or game updates could entirely break your savegame with little to no chance of recovery.
 
 The mod has a large performance cost on game start and new save generation. 
 After that, there may be a performance impact, but Cadenza tried to keep it as low as possible. Further optimization is possible if people are enjoying the game. 
